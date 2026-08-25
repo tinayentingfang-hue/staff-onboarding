@@ -1,5 +1,7 @@
 ## 1. Skin Services
 
+![ISO Clinic team in navy scrubs](/images/modules/services-overview/clinic-team-scrubs.jpg)
+
 | Service | Duration |
 |---|---|
 | Skin checks | 15 mins |
@@ -27,6 +29,8 @@ For a full list of services, see bookings.isoclinic.com.au.
 
 ## 2. Cosmetic Services
 
+![Cosmetic clinician portrait](/images/modules/services-overview/cosmetic-clinician-portrait.jpg)
+
 Dr Tina Fang offers cosmetic treatments in collaboration with Dermal Clinicians and beauty therapists, booked via bookings.drtinafang.com.
 
 - 1st consultations: 30 mins. Reviews: 15 mins.
@@ -36,6 +40,8 @@ Dr Tina Fang offers cosmetic treatments in collaboration with Dermal Clinicians 
 - All laser treatments must be confirmed with the patient as either with **Dr Tina Fang ($800)** or with **Clinicians/Therapists ($350)** — encourage patients to book with Clinicians/Therapists.
 
 **Laser services (1 hour)**
+
+![Laser technician headshot](/images/modules/services-overview/laser-technician-headshot.jpg)
 
 | Treatment | Price |
 |---|---|

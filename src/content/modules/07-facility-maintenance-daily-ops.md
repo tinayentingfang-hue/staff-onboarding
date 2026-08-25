@@ -1,10 +1,14 @@
 ## 1. Clinical Bed Setup & Safety
 
+![Treatment room set up correctly, with the reclining patient bed covered in disposable paper, stool positioned beside it, and sharps bin in place](/images/modules/facility-maintenance-daily-ops/clinical-bed-setup-room.jpg)
+
 - All 4 wheels are locked.
 - Room 1: wheels align with the tape marking.
 - Check bed rolls are sufficient, and fitted sheets are clean.
 - Chairs are positioned accurately.
 - Check foot control and hand control are positioned correctly, one on each side.
+
+![Close-up of the paper roll dispenser mounted under the clinical bed, used to check that bed rolls are stocked](/images/modules/facility-maintenance-daily-ops/bed-roll-paper-dispenser.jpg)
 
 ## 2. Busy Hours
 

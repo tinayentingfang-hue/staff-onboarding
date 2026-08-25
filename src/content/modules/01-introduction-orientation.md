@@ -11,6 +11,8 @@ Dr Jack is at Complete Care Doctors on Mondays, Tuesdays, and Friday afternoons,
 
 Many patients have followed us from these clinics to ISO, where we continue to provide personalised, high-quality care.
 
+![Dr Tina Fang and Dr Jack Fu standing in front of the illuminated ISO sign at the clinic entrance](/images/modules/introduction-orientation/iso-team-portrait.jpg)
+
 We take pride in caring for our patients with respect and compassion, and we expect the same in return. Patients who display rude or inappropriate behaviour will be kindly declined further service. Please notify the team if you observe any concerning or unusual behaviour.
 
 ## 2. Location & Parking
@@ -25,6 +27,9 @@ Our clinic is located at **Suite 209, 1808 Logan Road, Upper Mount Gravatt**.
 ## 3. Clinic Layout & Facilities
 
 - **Room 1 – Procedure Room:** primarily used for routine skin checks and minor procedures.
+
+![Dr Jack Fu performing a dermatoscope skin check on a patient in Room 1](/images/modules/introduction-orientation/skin-check-room-1.jpg)
+
 - **Room 2 – Laser Room:** designated for laser treatments and related services.
 - **Staff Room:** a space for staff to rest and take breaks. A microwave is available for light meals — please use it only for food with minimal odour to maintain a pleasant environment. No food should be left behind at the end of the day; take all leftovers home.
 
@@ -68,6 +73,8 @@ Our clinic is located at **Suite 209, 1808 Logan Road, Upper Mount Gravatt**.
 
 ## 6. Care for Plants
 
+![A peace lily bloom, the plant kept at the clinic that staff care for each Monday](/images/modules/introduction-orientation/peace-lily-bloom.jpg)
+
 **Peace Lily — Mondays**
 - Water: total of 2 watering jugs.
 - Mist the plants.
@@ -78,13 +85,22 @@ Our clinic is located at **Suite 209, 1808 Logan Road, Upper Mount Gravatt**.
 ## 7. Where Is Everything?
 
 **Bins & keys**
+
+![The refuse and pump room shed in the car park, behind the clinic, where the bins are kept](/images/modules/introduction-orientation/refuse-and-pump-room.jpg)
+
 - Cardboard boxes must be flattened before disposal.
 - No key? Push the inside handle to get in.
 - We only have one copy of the entry key — it cannot be copied. It's kept in the little trays on the reception desk.
 - Night box for Infinity Pathology: use the night box key; contact Infinity for afterhours collection.
+
+![The Infinity Path night box mounted on the brick wall outside, opened with its key](/images/modules/introduction-orientation/infinity-path-night-box.jpg)
+
 - Mail Box 209: check mail every Tuesday and Friday.
 
 **Room 1 — Procedure Room**
+
+![Room 1's overhead supply cabinets above the sink, stocked with dressings, swabs, and gloves](/images/modules/introduction-orientation/room-1-supply-cabinets.jpg)
+
 - Punch biopsy, dermal curette, sutures, tubigrip, dressings, antiseptic solution, steri strip, gauze swabs, biopsy blade, 15/11 scalpel
 - Sterile cotton balls, sterile gauze, surgical drape, island dressing, small chlorhexidine
 - Make-up remover and cotton, tissues, facial wipes, gloves (M), bluey, face poster
@@ -101,6 +117,9 @@ Our clinic is located at **Suite 209, 1808 Logan Road, Upper Mount Gravatt**.
 - Blue disposable cover drape (for women who prefer a clean cover), bed rolls
 
 **Room 2 — Laser Room**
+
+![Room 2 (Laser Room) with the Nordlys laser device and overhead supply cabinets](/images/modules/introduction-orientation/room-2-laser-equipment.jpg)
+
 - Microneedling products (for Patty & Rebecca), blood drawing connector, glad wrap & tissue
 - Curas laser hand piece, needles, hazard bins, IV fluid, cannula connector
 - Tissues & facial wipes, gloves (M), IV cannula box, disposable cover drape, face poster
@@ -120,6 +139,9 @@ Our clinic is located at **Suite 209, 1808 Logan Road, Upper Mount Gravatt**.
 - Basket, blanket for women who want a soft cover
 
 **Reception**
+
+![Reception storage cabinets beneath the illuminated ISO sign, holding trays, laminator, and stationery](/images/modules/introduction-orientation/reception-storage-cabinets.jpg)
+
 - Trays (to email/scan), business cards, laminator
 - Things to refill: vanity, paper cups, gifts for patients, pathology bags, rubbish bag and room spray, bags for purchases/wrapping
 - **Top drawer:** consent for photos, prescription paper, confidential papers (not to be used anywhere else — shred and give to Tina when full)
