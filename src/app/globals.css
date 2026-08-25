@@ -1,26 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Karla:wght@400;500;600&display=swap');
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --iso-black: #000000;
+  --iso-ink: #141414;
+  --iso-white: #ffffff;
+  --iso-green: #999a88;
+  --iso-green-deep: #6b6c5c;
+  --iso-sage: #98a9a7;
+  --iso-pink: #f4a39e;
+  --iso-pink-deep: #c96f6a;
+  --iso-sand: #ebe7d8;
+  --iso-mist: #d1d9df;
+  --iso-paper: #faf9f5;
+  --iso-line: rgba(20, 20, 20, 0.14);
+  --iso-muted: rgba(20, 20, 20, 0.6);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-iso-black: var(--iso-black);
+  --color-iso-ink: var(--iso-ink);
+  --color-iso-white: var(--iso-white);
+  --color-iso-green: var(--iso-green);
+  --color-iso-green-deep: var(--iso-green-deep);
+  --color-iso-sage: var(--iso-sage);
+  --color-iso-pink: var(--iso-pink);
+  --color-iso-pink-deep: var(--iso-pink-deep);
+  --color-iso-sand: var(--iso-sand);
+  --color-iso-mist: var(--iso-mist);
+  --color-iso-paper: var(--iso-paper);
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-body: "Karla", system-ui, sans-serif;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--iso-ink);
+  background: var(--iso-paper);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+}
+
+a {
+  color: var(--iso-pink-deep);
+}
+a:hover {
+  color: var(--iso-ink);
+}
+
+/* Module content (rendered from markdown) */
+.prose-iso h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--iso-line);
+}
+.prose-iso h3 {
+  font-size: 1.15rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.prose-iso p {
+  margin: 0.75rem 0;
+  line-height: 1.7;
+}
+.prose-iso ul,
+.prose-iso ol {
+  margin: 0.75rem 0;
+  padding-left: 1.4rem;
+  line-height: 1.7;
+}
+.prose-iso li {
+  margin: 0.25rem 0;
+}
+.prose-iso strong {
+  color: var(--iso-ink);
+}
+.prose-iso blockquote {
+  border-left: 3px solid var(--iso-pink);
+  background: var(--iso-sand);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: var(--iso-radius, 2px);
+}
+.prose-iso table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+.prose-iso th,
+.prose-iso td {
+  border: 1px solid var(--iso-line);
+  padding: 0.4rem 0.6rem;
+  text-align: left;
+}
+.prose-iso th {
+  background: var(--iso-sand);
+  font-family: var(--font-body);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+}
+.prose-iso hr {
+  border: none;
+  border-top: 1px solid var(--iso-line);
+  margin: 1.5rem 0;
 }

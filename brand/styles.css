@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Karla:wght@400;500;600&display=swap');
+:root{
+--iso-black:#000000;--iso-ink:#141414;--iso-white:#FFFFFF;
+--iso-green:#999A88;--iso-green-deep:#6B6C5C;--iso-sage:#98A9A7;--iso-pink:#F4A39E;--iso-pink-deep:#C96F6A;--iso-sand:#EBE7D8;--iso-mist:#D1D9DF;
+--iso-paper:#FAF9F5;--iso-line:rgba(20,20,20,.14);--iso-muted:rgba(20,20,20,.6);
+--iso-font-display:'Cormorant Garamond',Georgia,serif;--iso-font-body:'Karla',system-ui,sans-serif;
+--iso-radius:2px;
+}
+body{margin:0;font-family:var(--iso-font-body);color:var(--iso-ink);background:var(--iso-white)}
+h1,h2,h3{font-family:var(--iso-font-display);font-weight:600;margin:0}
+a{color:var(--iso-pink-deep);text-decoration:none}
+a:hover{color:var(--iso-ink)}
