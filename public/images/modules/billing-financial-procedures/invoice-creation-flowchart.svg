@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 980" role="img" aria-label="Flowchart: choose the provider, apply GST, select the service, then confirm who is billed. Decide whether one invoice or two invoices are needed depending on whether a private fee is charged alongside a Medicare-rebate item. Bulk-billed items are doctor-only.">
+  <defs>
+    <marker id="arrA" markerWidth="9" markerHeight="9" refX="6" refY="4.5" orient="auto">
+      <polygon points="0,0 8,4.5 0,9" fill="rgba(20,20,20,.62)"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="638" height="978" fill="#FFFFFF" stroke="rgba(20,20,20,.14)" stroke-width="1"/>
+
+  <rect x="220" y="20" width="200" height="46" rx="2" fill="#EBE7D8" stroke="#C96F6A" stroke-width="1.2"/>
+  <text x="320" y="48" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">Patient service begins</text>
+
+  <path d="M320,66 L320,96" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrA)"/>
+
+  <rect x="100" y="96" width="440" height="74" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="320" y="124" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">1 · Choose the provider</text>
+  <text x="320" y="150" text-anchor="middle" font-family="Karla, sans-serif" font-size="12.5" fill="rgba(20,20,20,.62)">Doctor, or the Clinic</text>
+
+  <path d="M320,170 L320,198" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrA)"/>
+
+  <rect x="80" y="198" width="480" height="90" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="320" y="226" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">2 · Apply GST</text>
+  <text x="320" y="250" text-anchor="middle" font-family="Karla, sans-serif" font-size="12.5" fill="rgba(20,20,20,.62)">Cosmetic = GST · Medical / Medicare = no GST</text>
+  <text x="320" y="270" text-anchor="middle" font-family="Karla, sans-serif" font-size="12.5" fill="rgba(20,20,20,.62)">Check the GST table above if you're not sure</text>
+
+  <path d="M320,288 L320,316" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrA)"/>
+
+  <rect x="100" y="316" width="440" height="76" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="320" y="344" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">3 · Select the service</text>
+  <text x="320" y="368" text-anchor="middle" font-family="Karla, sans-serif" font-size="12.5" fill="rgba(20,20,20,.62)">Double-click the item; confirm the fee is correct</text>
+
+  <path d="M320,392 L320,420" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrA)"/>
+
+  <rect x="80" y="420" width="480" height="98" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="320" y="448" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">4 · Confirm who is billed</text>
+  <text x="320" y="470" text-anchor="middle" font-family="Karla, sans-serif" font-size="12.5" fill="rgba(20,20,20,.62)">The patient, or the head of family if they're under 18.</text>
+  <text x="320" y="490" text-anchor="middle" font-family="Karla, sans-serif" font-size="12.5" fill="rgba(20,20,20,.62)">Medicare items are bulk-billed.</text>
+
+  <path d="M320,518 L320,546" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrA)"/>
+
+  <polygon points="320,546 510,616 320,686 130,616" fill="#D1D9DF" stroke="#141414" stroke-width="1.2"/>
+  <text x="320" y="608" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Is a private fee ALSO</text>
+  <text x="320" y="625" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">charged on a Medicare item?</text>
+
+  <path d="M130,616 L170,616 L170,722" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrA)"/>
+  <text x="150" y="606" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#C96F6A">Yes</text>
+
+  <path d="M510,616 L470,616 L470,722" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrA)"/>
+  <text x="490" y="606" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#6B6C5C">No</text>
+
+  <rect x="40" y="722" width="260" height="92" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="170" y="750" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">Raise TWO invoices</text>
+  <text x="170" y="772" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">One for the Medicare item,</text>
+  <text x="170" y="790" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">one for the private fee</text>
+
+  <rect x="340" y="722" width="260" height="92" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="470" y="750" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">Raise ONE invoice</text>
+  <text x="470" y="772" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">Standard single invoice</text>
+  <text x="470" y="790" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">for the service</text>
+
+  <path d="M170,814 L170,839" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none"/>
+  <path d="M470,814 L470,839" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none"/>
+  <path d="M170,839 L470,839" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none"/>
+  <path d="M320,839 L320,864" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrA)"/>
+
+  <rect x="40" y="864" width="560" height="98" rx="2" fill="#EBE7D8" stroke="#C96F6A" stroke-width="1.2"/>
+  <text x="320" y="892" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13.5" fill="#C96F6A">Bulk billing is doctor-only</text>
+  <text x="320" y="916" text-anchor="middle" font-family="Karla, sans-serif" font-size="12.5" fill="#141414">Never add a bulk-billed (Medicare) item</text>
+  <text x="320" y="936" text-anchor="middle" font-family="Karla, sans-serif" font-size="12.5" fill="#141414">without the doctor's direct instruction.</text>
+</svg>

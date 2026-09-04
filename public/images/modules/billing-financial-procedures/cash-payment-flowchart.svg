@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Flowchart: cash always goes into the locked box and the Cash In/Out log immediately. If the patient needs a printed invoice, finalise the payment, print it, log it as finalised, and email Dr Tina. If not, leave the billing on hold with no email required.">
+  <defs>
+    <marker id="arrC" markerWidth="9" markerHeight="9" refX="6" refY="4.5" orient="auto">
+      <polygon points="0,0 8,4.5 0,9" fill="rgba(20,20,20,.62)"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="698" fill="#FFFFFF" stroke="rgba(20,20,20,.14)" stroke-width="1"/>
+
+  <rect x="350" y="20" width="200" height="46" rx="2" fill="#EBE7D8" stroke="#C96F6A" stroke-width="1.2"/>
+  <text x="450" y="48" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">Cash payment received</text>
+  <path d="M450,66 L450,94" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrC)"/>
+
+  <rect x="190" y="94" width="520" height="92" rx="2" fill="#FFFFFF" stroke="#6B6C5C" stroke-width="1.4"/>
+  <text x="450" y="122" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">Put the cash in the locked cash box</text>
+  <text x="450" y="144" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">immediately, and record the movement</text>
+  <text x="450" y="164" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">in the Cash In/Out log, every time.</text>
+
+  <path d="M450,186 L450,212" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrC)"/>
+
+  <polygon points="450,212 620,277 450,342 280,277" fill="#D1D9DF" stroke="#141414" stroke-width="1.2"/>
+  <text x="450" y="270" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Does the patient need</text>
+  <text x="450" y="287" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">a printed invoice?</text>
+
+  <path d="M280,277 L230,277 L230,370" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrC)"/>
+  <text x="255" y="265" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#C96F6A">Yes</text>
+
+  <path d="M620,277 L670,277 L670,370" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrC)"/>
+  <text x="645" y="265" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#6B6C5C">No</text>
+
+  <rect x="100" y="372" width="260" height="90" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="230" y="398" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Pay full amount → Pay Now</text>
+  <text x="230" y="420" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">Print the invoice and hand it</text>
+  <text x="230" y="438" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">to the patient.</text>
+
+  <path d="M230,462 L230,486" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrC)"/>
+
+  <rect x="100" y="486" width="260" height="68" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="230" y="510" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Write "Finalised"</text>
+  <text x="230" y="530" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">in the log book, right (R) column.</text>
+
+  <path d="M230,554 L230,578" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrC)"/>
+
+  <rect x="90" y="578" width="280" height="100" rx="2" fill="#EBE7D8" stroke="#C96F6A" stroke-width="1.2"/>
+  <text x="230" y="604" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#C96F6A">Email Dr Tina the invoice</text>
+  <text x="230" y="626" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="#141414">tina.yenting.fang@gmail.com</text>
+  <text x="230" y="648" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="#141414">Subject: "Finalised Cash Payment"</text>
+
+  <rect x="540" y="372" width="260" height="112" rx="2" fill="#FFFFFF" stroke="#6B6C5C" stroke-width="1.4"/>
+  <text x="670" y="400" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Leave on hold</text>
+  <text x="670" y="422" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">Don't finalise, it shows green</text>
+  <text x="670" y="440" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">in the system.</text>
+  <text x="670" y="462" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="11.5" fill="#6B6C5C">No email required.</text>
+</svg>

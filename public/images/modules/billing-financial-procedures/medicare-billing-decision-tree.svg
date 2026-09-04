@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 940" role="img" aria-label="Decision tree: bulk-billed items go straight to Medicare at no cost to the patient and are processed by the doctor only. Private-fee items are paid in full by the patient, then rebated either instantly on the terminal (only for item 23 or 36 with a physical debit card) or later through an online claim to the patient's Medicare-registered bank account.">
+  <defs>
+    <marker id="arrB" markerWidth="9" markerHeight="9" refX="6" refY="4.5" orient="auto">
+      <polygon points="0,0 8,4.5 0,9" fill="rgba(20,20,20,.62)"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="938" fill="#FFFFFF" stroke="rgba(20,20,20,.14)" stroke-width="1"/>
+
+  <rect x="400" y="20" width="200" height="46" rx="2" fill="#EBE7D8" stroke="#C96F6A" stroke-width="1.2"/>
+  <text x="500" y="48" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">Patient ready to pay</text>
+  <path d="M500,66 L500,94" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+
+  <polygon points="500,94 670,159 500,224 330,159" fill="#D1D9DF" stroke="#141414" stroke-width="1.2"/>
+  <text x="500" y="152" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Bulk billed</text>
+  <text x="500" y="169" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">or private fee?</text>
+
+  <path d="M330,159 L230,159 L230,254" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+  <text x="270" y="149" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#6B6C5C">Bulk billed</text>
+
+  <path d="M670,159 L750,159 L750,254" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+  <text x="720" y="149" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#C96F6A">Private fee</text>
+
+  <rect x="70" y="254" width="320" height="122" rx="2" fill="#FFFFFF" stroke="#6B6C5C" stroke-width="1.4"/>
+  <text x="230" y="282" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">Bulk billed</text>
+  <text x="230" y="304" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">Sent straight to Medicare,</text>
+  <text x="230" y="322" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">$0 out of pocket for the patient.</text>
+  <text x="230" y="344" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">Doctor processes bulk-billed</text>
+  <text x="230" y="362" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">items only.</text>
+
+  <rect x="590" y="254" width="320" height="92" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="750" y="282" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="13" fill="#141414">Private fee</text>
+  <text x="750" y="304" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">Patient pays the full invoice</text>
+  <text x="750" y="322" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">amount now.</text>
+
+  <path d="M750,346 L750,372" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+
+  <polygon points="750,372 900,437 750,502 600,437" fill="#D1D9DF" stroke="#141414" stroke-width="1.2"/>
+  <text x="750" y="430" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Rebate now</text>
+  <text x="750" y="447" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">or later?</text>
+
+  <path d="M600,437 L600,530" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+  <text x="565" y="425" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#C96F6A">Instant</text>
+
+  <path d="M900,437 L900,530" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+  <text x="935" y="425" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#6B6C5C">Online</text>
+
+  <rect x="470" y="530" width="260" height="82" rx="2" fill="#FFFFFF" stroke="rgba(20,20,20,.14)"/>
+  <text x="600" y="558" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Instant rebate requested</text>
+  <text x="600" y="580" text-anchor="middle" font-family="Karla, sans-serif" font-size="12" fill="rgba(20,20,20,.62)">Check eligibility before processing.</text>
+
+  <rect x="800" y="530" width="200" height="150" rx="2" fill="#FFFFFF" stroke="#6B6C5C" stroke-width="1.4"/>
+  <text x="900" y="558" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Online claim</text>
+  <text x="900" y="580" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">Submitted online, rebate</text>
+  <text x="900" y="598" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">paid to the patient's Medicare-</text>
+  <text x="900" y="616" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">registered bank account.</text>
+  <text x="900" y="638" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">Item 23/36 ≈24h ·</text>
+  <text x="900" y="656" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">procedures up to 7 days</text>
+
+  <path d="M600,612 L600,640" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+
+  <polygon points="600,640 750,705 600,770 450,705" fill="#D1D9DF" stroke="#141414" stroke-width="1.2"/>
+  <text x="600" y="697" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#141414">Physical debit card</text>
+  <text x="600" y="714" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#141414">AND item 23 or 36?</text>
+
+  <path d="M450,705 L470,705 L470,800" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+  <text x="440" y="693" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#6B6C5C">Yes</text>
+
+  <path d="M750,705 L730,705 L730,800" stroke="rgba(20,20,20,.62)" stroke-width="1.4" fill="none" marker-end="url(#arrB)"/>
+  <text x="765" y="693" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12" fill="#C96F6A">No</text>
+
+  <rect x="360" y="800" width="220" height="100" rx="2" fill="#FFFFFF" stroke="#6B6C5C" stroke-width="1.4"/>
+  <text x="470" y="828" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#141414">Process now</text>
+  <text x="470" y="850" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">Process the rebate on the</text>
+  <text x="470" y="868" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="rgba(20,20,20,.62)">terminal on the spot.</text>
+
+  <rect x="620" y="800" width="220" height="100" rx="2" fill="#EBE7D8" stroke="#C96F6A" stroke-width="1.2"/>
+  <text x="730" y="828" text-anchor="middle" font-family="Karla, sans-serif" font-weight="700" font-size="12.5" fill="#C96F6A">Don't attempt instant</text>
+  <text x="730" y="850" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="#141414">Use an online claim instead.</text>
+  <text x="730" y="868" text-anchor="middle" font-family="Karla, sans-serif" font-size="11.5" fill="#141414">Instant only covers 23/36.</text>
+</svg>

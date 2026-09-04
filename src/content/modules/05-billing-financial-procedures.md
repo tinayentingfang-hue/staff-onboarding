@@ -1,87 +1,103 @@
-## Billing Basics
+A walkthrough of how we apply GST, bill Medicare, raise an invoice, take payment and reconcile the day, in the order you'll actually use them.
 
-**Creating an invoice**
-1. Choose the **provider**: Doctor or Clinic.
-2. Decide **GST / No GST** (see the GST guide below).
-3. Double-click the chosen service — fees can be changed if needed.
-4. Decide who to **bill to**: patient, or head of family if the patient is under 18. Medicare items are bulk-billed.
+**Before you touch a live invoice**
+1. Cosmetic = GST. Medical / Medicare = no GST. Check the GST table below if you're not sure.
+2. Bulk-billed (Medicare) items are processed by the doctor only: never add one without their direct instruction.
+3. Instant Medicare rebates only work for item 23 or 36, with a physical debit card. Everything else goes through an online claim.
+4. Every cash movement gets logged in the Cash In/Out log, whether the payment is finalised or left on hold.
+5. Any mismatch between Tyro and Best Practice at end of day: tell Dr Tina immediately. Don't try to fix it yourself first.
 
-**Two invoices?** Create two invoices when a private fee is billed on a Medicare-rebate item **and** the patient also has a separate private fee without a Medicare rebate.
+## How It All Connects
 
-**Bulk billing:** only let the doctors process bulk-billed items (e.g. billing to Medicare). Do not add a bulk-billed item without the doctor's instruction.
+Every billing task on the floor is one of five moments, in order:
+1. Patient is seen for a service.
+2. Invoice raised: provider, GST, service, who's billed.
+3. Payment taken: EFTPOS, cash or phone.
+4. Medicare claim, if the item carries a rebate.
+5. End-of-day reconciliation.
 
-**GST application guideline**
+## GST at a Glance
 
-| Item | GST? | Billed to |
+Correctly applying GST is a legal requirement, not a preference. The general rule: **cosmetic services and products carry GST, medical and Medicare items don't.** Know this table before you touch an invoice — it's one of the four questions you'll answer every time.
+
+| Service | GST? | Billed to |
 |---|---|---|
-| Initial Cosmetic Consult | GST | Clinic |
-| Skincare Products | GST | Clinic |
-| Photodynamic Therapy (PDT) | No GST | Doctor |
-| Insurance Reports | GST | Doctor |
-| Procedure Fee / Medications | No GST | Doctor / Clinic |
-| Medicare Item Services | No GST | Doctor |
-| Cosmetic Mole Removal | GST | Doctor |
-| Cosmetic Treatments | GST | Doctor / Clinic |
+| Initial cosmetic consult | GST | Clinic |
+| Skincare products | GST | Clinic |
+| Photodynamic therapy (PDT) | No GST | Doctor |
+| Insurance reports | GST | Doctor |
+| Procedure fee / medications | No GST | Doctor or Clinic |
+| Medicare item services | No GST | Doctor |
+| Cosmetic mole removal | GST | Doctor |
+| Cosmetic treatments | GST | Doctor or Clinic |
 
-Correctly applying GST is a legal requirement. General rule: cosmetic services and products incur GST, while most medical services do not.
+## Medicare Billing
 
-## Medicare vs Private Billing
+The other question every invoice answers: is this a Medicare item, and if so, how does the patient want their rebate? The path a claim takes depends on how and when that happens.
 
-Understanding the difference between bulk-billing and private billing is essential for patient communication.
+![Decision tree: bulk-billed items go straight to Medicare at no cost to the patient and are processed by the doctor only. Private-fee items are paid in full by the patient, then rebated either instantly on the terminal (only for item 23 or 36 with a physical debit card) or later through an online claim to the patient's Medicare-registered bank account.](/images/modules/billing-financial-procedures/medicare-billing-decision-tree.svg)
 
-- **Bulk billed (Online Claim / Instant Rebate):** the invoice is sent directly to Medicare — no out-of-pocket cost to the patient.
-- **Private fee:** the patient pays the full invoice amount at time of service, then claims a rebate from Medicare.
-  - If the patient has a **physical debit card**, we can process the Medicare rebate on the spot through our terminal (only applies to items 23/36).
-  - Otherwise, we can submit the claim to Medicare on their behalf online — the rebate is paid to the bank account registered with Medicare.
-  - If unsure whether the patient has a physical debit card or uses Macquarie Bank, don't attempt instant rebate. Item 23/36 instant rebates take 24 hrs to process; procedure items can take up to 7 days.
-
-## Provider & Patient Rules
-
-- **Provider assignment:** always confirm which provider (doctor or clinic) the service is billed under.
-- **Billing minors:** bill to the head of family for patients under 18.
-- **Clinic vs doctor accounts:** some items bill to the clinic entity, others to the individual doctor — see the GST guideline table above.
-
-## Payments
-
-**Cash payment**
-1. Record in the billing system as "On Hold."
-2. If needed, recreate the billing and cancel the previous one.
-3. Put the cash in the cash box immediately.
-4. Document in the Cash In/Out log.
-
-Scenarios:
-- *Patient requires an invoice (payment finalised):* tick "pay full amount," Cash → Pay Now → print the invoice and give it to the patient → write "Finalised" in the rightmost (R) column of the log book → email Tina the invoice at tina.yenting.fang@gmail.com, subject "Finalised Cash Payment."
-- *Patient does not require an invoice (payment on hold):* put the billing on hold (do not finalise) — it will show green in the system. No email required.
-- *Out-of-pocket payment with instant rebate:* follow the instant rebate process above.
-
-Rules: all finalised cash payments require email notification to Dr Tina with the invoice attached; on-hold cash payments do not require notification. Always put cash in the designated cash box immediately and document in the Cash In/Out log.
-
-**Tyro merchant setup:** multiple merchant entities share the same Tyro EFTPOS terminal. Each merchant ID maps to a billing category:
-- TFang Medical → ISO Skin Clinic
-- TF Skin → Dr Tina Fang
-- JFu Medical → Dr Jack Fu / Dr David Fang
-
-**Phone payments via Tyro (gift cards / deposits)**
-Menu → Transactions → MOTO → Purchase → select provider → purchase amount → Telephone order → PIN 6291 → enter card number, expiry, CVC → wait for connection → untick Tyro.
-
-## Medicare
+> **If you're not sure:** Only use instant rebate for item 23 or 36 with a physical debit card. Not sure if the patient's card is physical, or if they bank with Macquarie? Don't attempt instant rebate — send it through as an online claim instead. Item 23/36 rebates land in about 24 hours; procedure items can take up to 7 days.
 
 **When EasyClaim fails**
-1. Tell the patient: "We will process this online."
-2. Print the invoice for the patient to check the Medicare rebate in their bank.
-3. Wait 15 minutes before reprocessing: Billing History → tick "Show payment/deposit" → right-click the correct invoice → Send online patient claim.
 
-**Checking payments:** confirm the Medicare rebate has landed before closing out a query — see the EasyClaim retry steps above if it hasn't.
+Tell the patient: "we'll process this online." Print the invoice so they can check the rebate in their bank. Wait 15 minutes, then reprocess: Billing History → tick "Show payment/deposit" → right-click the invoice → **Send online patient claim**.
 
-## End of Day (EOD)
+## Creating an Invoice
 
-**EOD billing procedure** — to ensure Tyro records match Best Practice (BP):
-1. **During each transaction:** write the patient's name clearly on the Tyro receipt (or staple it to the patient's BP invoice if handwritten).
-2. **At the end of the day:** print the EFTPOS summary report from Tyro for each merchant.
-   Tyro steps: Menu → 3. Settlement & Reports → 2. Reconciliation Report → select merchant (1. ISO Skin Cancer / 2. JFu Medical / 3. TF Skin) → 1. Current → Summary → All cards → Print → Settle.
-3. Repeat for all providers working that day.
+You now know the GST table and the Medicare paths. This is where they actually get used. Four questions, in this order, decide how the invoice is built.
 
-**Recording transactions & printing EFTPOS/BP reports**
-BP steps: BP Premier → Management → Banking → File → Now Batch → Bank to account (select bank) → Add to batch → select date → select provider (e.g. TFang Medical = ISO Skin Cancer) → Add → Process → paper should print out. Ensure the dollar amount matches Tyro — notify Dr Tina immediately of any discrepancies. Repeat for all providers working that day. Staple receipts to the report and scan (may need multiple pages to clearly show each receipt).
+![Flowchart: choose the provider, apply GST, select the service, then confirm who is billed. Decide whether one invoice or two invoices are needed depending on whether a private fee is charged alongside a Medicare-rebate item. Bulk-billed items are doctor-only.](/images/modules/billing-financial-procedures/invoice-creation-flowchart.svg)
 
-**Sending new batches:** follow the same BP Banking → Now Batch flow above once all providers for the day are reconciled.
+- **Provider assignment:** every invoice is raised under a doctor or the clinic. Check which before you start.
+- **Billing minors:** patient under 18? Bill the head of family, not the child.
+- **Clinic vs. doctor accounts:** cosmetic items generally bill to the clinic; medical and Medicare items bill to the doctor. See the GST table above.
+
+## Taking Payments
+
+**Phone payment (MOTO): gift cards & deposits only**
+Menu → Transactions → MOTO → Purchase → select provider → purchase amount → Telephone order → PIN 6291 → card no., exp, CVC → wait for connection → untick Tyro.
+
+**Cash payment**
+
+Two things happen every single time, before anything else: the cash goes in the locked box, and the movement is logged. What happens next depends on whether the patient needs a receipt.
+
+![Flowchart: cash always goes into the locked box and the Cash In/Out log immediately. If the patient needs a printed invoice, finalise the payment, print it, log it as finalised, and email Dr Tina. If not, leave the billing on hold with no email required.](/images/modules/billing-financial-procedures/cash-payment-flowchart.svg)
+
+Worked example: an out-of-pocket payment that also carries an instant Medicare rebate. The private fee sits on hold; the rebate is bulk-billed separately under item 23.
+
+| Service | Private fee (on hold, no GST) | Bulk-billed rebate (item 23) |
+|---|---|---|
+| Full skin check | $104.95 | $45.05 |
+| Spot check | $54.95 | $45.05 |
+
+## End-of-Day Reconciliation
+
+At ISO, three merchant entities share one Tyro terminal day to day, plus a fourth that only appears when Dr David Fang is covering as backup doctor. The point of EOD is simple: make sure what Tyro recorded and what Best Practice recorded are the same number, for every provider, every day.
+
+**Stage A: during every transaction — name the receipt**
+Write the patient's name clearly on the Tyro receipt, or staple it to the patient's handwritten BP invoice.
+
+**Stage B: print the EFTPOS summary, per provider — settle each merchant on Tyro**
+Repeat this for every provider who worked that day: ISO Skin Cancer, JFu Medical, TF Skin, and Dr David Fang if he's covering.
+Menu → 3. Settlement & Reports → 2. Reconciliation Report → select merchant → 1. Current → Summary → All cards → Print → **Settle**.
+
+**Stage C: send the batch in Best Practice — bank each provider's takings**
+BP Premier → Management → Banking → File → Now Batch → select bank → Add to batch → select date → select provider → Add → **Process**.
+The paper should print out. Repeat for every provider working that day.
+
+**Stage D: reconcile and file — match the numbers, then file**
+Confirm the dollar amount matches between Tyro and Best Practice for every provider. Staple the receipts to the report and scan. Use extra pages if that's what it takes for every receipt to be legible.
+
+> **Any mismatch:** tell Dr Tina immediately. Don't try to track it down or fix it yourself first.
+
+**Which merchant is which provider**
+
+Dr David Fang fills in as backup doctor when Dr Jack Fu and Dr Tina Fang are both away. His entity only appears on Tyro and in the batch during those periods.
+
+| Tyro merchant ID | Represents |
+|---|---|
+| TFang Medical | ISO Skin Clinic |
+| TF Skin | Dr Tina Fang |
+| JFu Medical | Dr Jack Fu |
+| Dr David Fang | Dr David Fang (backup doctor) |
