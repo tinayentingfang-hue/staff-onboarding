@@ -1,4 +1,4 @@
-// Seeds the 8 training modules + starter quiz questions into Supabase.
+// Seeds the training modules + starter quiz questions into Supabase.
 // Run once after the schema migration, with the service role key available:
 //
 //   node --env-file=.env.local scripts/seed.mjs
@@ -27,7 +27,7 @@ if (!SUPABASE_URL || !SERVICE_ROLE_KEY) {
 const supabase = createClient(SUPABASE_URL, SERVICE_ROLE_KEY);
 
 const MODULES = [
-  { num: 1, slug: "introduction-orientation", title: "Introduction & Orientation" },
+  { num: 1, slug: "introduction-orientation", title: "Introduction, Orientation & HR Rules" },
   { num: 2, slug: "services-overview", title: "Services Overview" },
   { num: 3, slug: "patient-interaction-bookings", title: "Patient Interaction & Bookings" },
   { num: 4, slug: "sms-communication", title: "SMS & Patient Communication" },

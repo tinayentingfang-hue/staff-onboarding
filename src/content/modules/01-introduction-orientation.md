@@ -11,6 +11,8 @@ Dr Jack is at Complete Care Doctors on Mondays, Tuesdays, and Friday afternoons,
 
 Many patients have followed us from these clinics to ISO, where we continue to provide personalised, high-quality care.
 
+At ISO, skin is our focus — it's central to how our patients feel about themselves, and we treat it with the care that deserves. Our aim as a clinic is to help every staff member grow, and to deliver services with the highest quality and close attention to detail. Dr Tina Fang places a strong emphasis on efficiency — doing things the most effective way — because time saved on process is time we get back to spend face-to-face with our patients. Whatever the task, do it with intention.
+
 ![Dr Tina Fang and Dr Jack Fu standing in front of the illuminated ISO sign at the clinic entrance](/images/modules/introduction-orientation/iso-team-portrait.jpg)
 
 We take pride in caring for our patients with respect and compassion, and we expect the same in return. Patients who display rude or inappropriate behaviour will be kindly declined further service. Please notify the team if you observe any concerning or unusual behaviour.
@@ -51,7 +53,39 @@ Our clinic is located at **Suite 209, 1808 Logan Road, Upper Mount Gravatt**.
 - Friends & family: 2× 20% off — Beauty and technician services only. Full fees apply for any of Dr Tina Fang's services.
 - Skincare: wholesale price +/- shipping fee.
 
-## 5. Reception Desk Management
+**Problem-solving mindset**
+- Try to solve problems yourself first. If you do need to bring something to Dr Tina Fang, bring a proposed solution along with the problem — not just the problem.
+- Dr Tina Fang is your employer, not a task list — please don't pass along jobs that belong to your own role.
+
+## 5. Support Team, Contacts & Suppliers
+
+**Support team you don't see every day**
+- Payroll — Ivy Chin: ivy@businessinmind.com.au
+- IT Support — Light Source Computing: support@lightsource-computing.com.au, 1300 855 926
+- Website & Email Issues — Phil (World Class Creatives): 0430 453 388, phil@worldclasscreatives.com
+- Cleaner — Charles: 0478 885 768
+- Anyone not listed here — check the contacts spreadsheet in the **Admin folder on the S Drive**.
+
+**Internet & phone**
+- Breeze Connect: 08 7078 5300, help@breezeconnect.com.au
+
+**Pathology — Infinity Pathology**
+- For urgent results or routine collection, see [Module 6: Clinical Support & Records](/modules/clinical-support-records) — call 1300 007 284 or use eDoctors.
+- For account or business enquiries: Denise Curtis, Business Development Manager — 07 3123 8888, admin@infinitypath.com.au.
+- Orders and delivery of histology supplies can be placed online or by calling the Infinity Pathology mainline.
+
+**Compounding & pharmacy suppliers**
+- East Coast Compounding (numbing cream, ALA/PDT cream): (07) 3822 6444, info@eastcoastcompounding.com.au
+- TerryWhite Chemmart New Farm — Pharmacist Andy Shih, 0422 709 111 (steroid cream, Chlorsig antibacterial cream)
+- IWG Compounding — Elena Zhang, 07 3707 3210, compounding.qld@iwg.au (Metformin topical)
+
+**Ordering supplies**
+- Skincare range (Alastin, SkinCeuticals, Synergie): ordered by Dr Tina Fang only — complete the Synergie/SkinCeuticals order excel file and email it to her to place the order.
+- Clinical supplies (AMA) and Officeworks: ordered monthly online — message Dr Tina Fang before finalising either order.
+- Amazon items (baby wipes, cotton buds, hairnets): order via Amazon and keep the receipt — Dr Tina Fang will reimburse you immediately once you show it to her.
+- Surgical masks: purchase from the ground floor pharmacy. Either take cash from the cash box and log it (keep the invoice), or pay yourself and Dr Tina Fang will reimburse you against the invoice.
+
+## 6. Reception Desk Management
 
 - All stationery must stay inside the reception desk drawers — keep drawers tidy and fully stocked.
 - Prescription paper stays in the top drawer.
@@ -70,17 +104,6 @@ Our clinic is located at **Suite 209, 1808 Logan Road, Upper Mount Gravatt**.
 **Tyro paper:** needs to be manually rolled during quiet times — pre-roll to keep enough stock ready; only do this when reception is not busy.
 
 **Laminator use:** plug in → turn on power → select heat setting → wait for green "ready" light → insert document with the closed end first → feed slowly and evenly, leaving enough space to avoid overheating at the finish side → turn off and unplug when finished.
-
-## 6. Care for Plants
-
-![A peace lily bloom, the plant kept at the clinic that staff care for each Monday](/images/modules/introduction-orientation/peace-lily-bloom.jpg)
-
-**Peace Lily — Mondays**
-- Water: total of 2 watering jugs.
-- Mist the plants.
-- Wipe dust off leaves as needed, and trim dried or dead leaves.
-- Trim the stem whenever needed.
-- If leaves are drooping, it needs water.
 
 ## 7. Where Is Everything?
 

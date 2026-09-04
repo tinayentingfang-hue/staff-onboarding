@@ -48,3 +48,7 @@ Allocate at least 30 minutes each day for these essential duties.
 - Wipe any visible blood stains.
 
 Each day also has a deep-cleaning task assigned according to the day of the week, included in the daily task list.
+
+## 5. End-of-Day Handover
+
+Nobody enjoys catching up on yesterday's phone calls or cleaning. Please complete both the day's Cliniva AI phone call follow-ups and the cleaning tasks above before you leave, so the team coming in tomorrow can start their day fresh rather than working through what was left over.
