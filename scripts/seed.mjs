@@ -27,18 +27,20 @@ if (!SUPABASE_URL || !SERVICE_ROLE_KEY) {
 const supabase = createClient(SUPABASE_URL, SERVICE_ROLE_KEY);
 
 const MODULES = [
-  { num: 1, slug: "introduction-orientation", title: "Introduction, Orientation & HR Rules" },
-  { num: 2, slug: "services-overview", title: "Services Overview" },
-  { num: 3, slug: "patient-interaction-bookings", title: "Patient Interaction & Bookings" },
-  { num: 4, slug: "sms-communication", title: "SMS & Patient Communication" },
-  { num: 5, slug: "billing-financial-procedures", title: "Billing & Financial Procedures" },
-  { num: 6, slug: "clinical-support-records", title: "Clinical Support & Records" },
-  { num: 7, slug: "facility-maintenance-daily-ops", title: "Facility Maintenance & Daily Operations" },
-  { num: 8, slug: "billing-item-numbers", title: "Billing — Item Numbers & Procedure Codes" },
+  { num: 1, slug: "introduction", title: "Introduction" },
+  { num: 2, slug: "clinic-policies", title: "Clinic Policies" },
+  { num: 3, slug: "housekeeping", title: "Housekeeping" },
+  { num: 4, slug: "records-pathology-photos", title: "Records, Pathology & Patient Photos" },
+  { num: 5, slug: "communication-booking", title: "Communication & Booking" },
+  { num: 6, slug: "services", title: "Services" },
+  { num: 7, slug: "gst-cash-entities", title: "GST, Cash & Entities" },
+  { num: 8, slug: "create-invoice", title: "Create Invoice" },
+  { num: 9, slug: "end-of-day-reconciliation", title: "End of Day Reconciliation" },
+  { num: 10, slug: "medical-item-numbers", title: "Medical Item Numbers" },
 ];
 
 const QUIZZES = {
-  "introduction-orientation": [
+  introduction: [
     {
       q: "Where is ISO Skin Cancer & Laser Clinic located?",
       options: [
@@ -59,6 +61,8 @@ const QUIZZES = {
       ],
       correct: 1,
     },
+  ],
+  "clinic-policies": [
     {
       q: "What is ISO's fragrance policy for staff?",
       options: [
@@ -90,54 +94,86 @@ const QUIZZES = {
       correct: 1,
     },
   ],
-  "services-overview": [
+  housekeeping: [
     {
-      q: "How long is a standard skin check appointment?",
-      options: ["10 minutes", "15 minutes", "30 minutes", "45 minutes"],
-      correct: 1,
-    },
-    {
-      q: "What is the price and Medicare rebate for a Full Skin Check?",
+      q: "Which of these counts as urgent during busy hours?",
       options: [
-        "$100, rebate $43.90",
-        "$150, rebate $43.90",
-        "$150, no rebate",
-        "$200, rebate $100",
+        "A general pricing question",
+        "Bleeding that won't stop",
+        "A request to update contact details",
+        "A question about opening hours",
       ],
       correct: 1,
     },
     {
-      q: "Which days is Photodynamic Therapy (PDT) available?",
-      options: [
-        "Monday, Wednesday, Friday afternoons",
-        "Tuesday, Thursday and Friday mornings",
-        "Every weekday",
-        "Weekends only",
-      ],
+      q: "How much liquid nitrogen should typically be used per cryotherapy application?",
+      options: ["A full tank", "1–2 scoops", "5 scoops", "None — it's applied undiluted from the bottle"],
       correct: 1,
     },
     {
-      q: "What price should be confirmed with a patient booking a laser treatment with Dr Tina Fang (vs a Clinician/Technician)?",
-      options: [
-        "$350 with Dr Tina, $800 with a Clinician",
-        "$800 with Dr Tina, $350 with a Clinician/Technician",
-        "$500 either way",
-        "Laser treatments are always free with a consult",
-      ],
+      q: "How much time should be allocated each day for essential cleaning tasks?",
+      options: ["5 minutes", "At least 30 minutes", "2 hours", "Cleaning is only done weekly"],
       correct: 1,
     },
     {
-      q: "What is the general GST rule for ISO's services?",
+      q: "What PPE should be worn while filling the cryotherapy tank?",
+      options: ["No PPE required", "Gloves and eye protection", "A face mask only", "Ear protection"],
+      correct: 1,
+    },
+    {
+      q: "What should be done with leftover liquid nitrogen after a procedure?",
       options: [
-        "All services incur GST",
-        "No services incur GST",
-        "Cosmetic services and products incur GST; most medical services do not",
-        "Only Medicare-billed services incur GST",
+        "Poured down the sink",
+        "Poured back into the tank",
+        "Left in the applicator overnight",
+        "Thrown in the general rubbish bin",
       ],
-      correct: 2,
+      correct: 1,
     },
   ],
-  "patient-interaction-bookings": [
+  "records-pathology-photos": [
+    {
+      q: "When a patient calls asking about histology results, what's best practice?",
+      options: [
+        "Always disclose the result immediately",
+        "Check with the doctors first before disclosing the result",
+        "Refuse to discuss it under any circumstances",
+        "Tell them to check their MyGov account",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Where are pathology records filed?",
+      options: [
+        "Email inbox only",
+        "S Drive → Pathology → YYYY.MM.DD",
+        "Printed and stored in a binder only",
+        "Patient's phone via SMS",
+      ],
+      correct: 1,
+    },
+    {
+      q: "How should patient photos be named?",
+      options: [
+        "By the patient's first name only",
+        "By the date taken, in the format YYYY.MM.DD",
+        "By a random reference number",
+        "By the doctor's initials",
+      ],
+      correct: 1,
+    },
+    {
+      q: "How long should patients expect to wait for biopsy results?",
+      options: ["24 hours", "3 days", "7 working days", "1 month"],
+      correct: 2,
+    },
+    {
+      q: "What is the out-of-pocket cost for one biopsy?",
+      options: ["$25", "$50", "$100", "It's always bulk billed"],
+      correct: 1,
+    },
+  ],
+  "communication-booking": [
     {
       q: "What should you say when you need to place a phone caller on hold to help a patient in front of you?",
       options: [
@@ -188,8 +224,6 @@ const QUIZZES = {
       ],
       correct: 1,
     },
-  ],
-  "sms-communication": [
     {
       q: "How many reminders should a standard appointment (booked more than a week out) receive?",
       options: [
@@ -241,7 +275,54 @@ const QUIZZES = {
       correct: 1,
     },
   ],
-  "billing-financial-procedures": [
+  services: [
+    {
+      q: "How long is a standard skin check appointment?",
+      options: ["10 minutes", "15 minutes", "30 minutes", "45 minutes"],
+      correct: 1,
+    },
+    {
+      q: "What is the price and Medicare rebate for a Full Skin Check?",
+      options: [
+        "$100, rebate $43.90",
+        "$150, rebate $43.90",
+        "$150, no rebate",
+        "$200, rebate $100",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Which days is Photodynamic Therapy (PDT) available?",
+      options: [
+        "Monday, Wednesday, Friday afternoons",
+        "Tuesday, Thursday and Friday mornings",
+        "Every weekday",
+        "Weekends only",
+      ],
+      correct: 1,
+    },
+    {
+      q: "What price should be confirmed with a patient booking a laser treatment with Dr Tina Fang (vs a Clinician/Technician)?",
+      options: [
+        "$350 with Dr Tina, $800 with a Clinician",
+        "$800 with Dr Tina, $350 with a Clinician/Technician",
+        "$500 either way",
+        "Laser treatments are always free with a consult",
+      ],
+      correct: 1,
+    },
+    {
+      q: "What is the general GST rule for ISO's services?",
+      options: [
+        "All services incur GST",
+        "No services incur GST",
+        "Cosmetic services and products incur GST; most medical services do not",
+        "Only Medicare-billed services incur GST",
+      ],
+      correct: 2,
+    },
+  ],
+  "gst-cash-entities": [
     {
       q: "What is the general GST rule at ISO?",
       options: [
@@ -283,86 +364,14 @@ const QUIZZES = {
       correct: 2,
     },
   ],
-  "clinical-support-records": [
+  "create-invoice": [
     {
-      q: "When a patient calls asking about histology results, what's best practice?",
-      options: [
-        "Always disclose the result immediately",
-        "Check with the doctors first before disclosing the result",
-        "Refuse to discuss it under any circumstances",
-        "Tell them to check their MyGov account",
-      ],
-      correct: 1,
-    },
-    {
-      q: "Where are pathology records filed?",
-      options: [
-        "Email inbox only",
-        "S Drive → Pathology → YYYY.MM.DD",
-        "Printed and stored in a binder only",
-        "Patient's phone via SMS",
-      ],
-      correct: 1,
-    },
-    {
-      q: "How should patient photos be named?",
-      options: [
-        "By the patient's first name only",
-        "By the date taken, in the format YYYY.MM.DD",
-        "By a random reference number",
-        "By the doctor's initials",
-      ],
-      correct: 1,
-    },
-    {
-      q: "How long should patients expect to wait for biopsy results?",
-      options: ["24 hours", "3 days", "7 working days", "1 month"],
-      correct: 2,
-    },
-    {
-      q: "What is the out-of-pocket cost for one biopsy?",
-      options: ["$25", "$50", "$100", "It's always bulk billed"],
+      q: "If EasyClaim fails, how long should you wait before reprocessing the claim?",
+      options: ["Immediately retry", "15 minutes", "24 hours", "7 days"],
       correct: 1,
     },
   ],
-  "facility-maintenance-daily-ops": [
-    {
-      q: "Which of these counts as urgent during busy hours?",
-      options: [
-        "A general pricing question",
-        "Bleeding that won't stop",
-        "A request to update contact details",
-        "A question about opening hours",
-      ],
-      correct: 1,
-    },
-    {
-      q: "How much liquid nitrogen should typically be used per cryotherapy application?",
-      options: ["A full tank", "1–2 scoops", "5 scoops", "None — it's applied undiluted from the bottle"],
-      correct: 1,
-    },
-    {
-      q: "How much time should be allocated each day for essential cleaning tasks?",
-      options: ["5 minutes", "At least 30 minutes", "2 hours", "Cleaning is only done weekly"],
-      correct: 1,
-    },
-    {
-      q: "What PPE should be worn while filling the cryotherapy tank?",
-      options: ["No PPE required", "Gloves and eye protection", "A face mask only", "Ear protection"],
-      correct: 1,
-    },
-    {
-      q: "What should be done with leftover liquid nitrogen after a procedure?",
-      options: [
-        "Poured down the sink",
-        "Poured back into the tank",
-        "Left in the applicator overnight",
-        "Thrown in the general rubbish bin",
-      ],
-      correct: 1,
-    },
-  ],
-  "billing-item-numbers": [
+  "medical-item-numbers": [
     {
       q: "What MBS item number is used for a standard skin biopsy?",
       options: ["23", "30071", "31357", "45201"],
@@ -376,11 +385,6 @@ const QUIZZES = {
     {
       q: "What should you always double-check before finalising a skin excision bill?",
       options: ["The patient's postcode", "The gap amount", "The doctor's signature colour", "The appointment length"],
-      correct: 1,
-    },
-    {
-      q: "If EasyClaim fails, how long should you wait before reprocessing the claim?",
-      options: ["Immediately retry", "15 minutes", "24 hours", "7 days"],
       correct: 1,
     },
     {

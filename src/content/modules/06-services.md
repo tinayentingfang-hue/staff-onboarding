@@ -131,7 +131,7 @@ Dr Tina Fang offers cosmetic treatments in collaboration with Dermal Clinicians 
 
 ## 3–4. Service Pricing, Medicare Rebates & GST Implications
 
-Correctly applying GST is a legal requirement and varies by service type. General rule: cosmetic services and products incur GST, while most medical services do not. See [Module 5: Billing & Financial Procedures](/modules/billing-financial-procedures) for the full GST application guide.
+Correctly applying GST is a legal requirement and varies by service type. General rule: cosmetic services and products incur GST, while most medical services do not. See [Module 7: GST, Cash & Entities](/modules/gst-cash-entities) for the full GST application guide.
 
 ## 5. Appointment Duration Guidelines
 
