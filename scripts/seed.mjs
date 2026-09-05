@@ -61,6 +61,31 @@ const QUIZZES = {
       ],
       correct: 1,
     },
+    {
+      q: "What does Dr Tina Fang emphasise so the clinic has more face-to-face time with patients?",
+      options: [
+        "Hiring more reception staff",
+        "Efficiency — doing things the most effective way",
+        "Shorter appointment times for everyone",
+        "Closing the clinic earlier",
+      ],
+      correct: 1,
+    },
+    {
+      q: "What happens if a patient is rude or behaves inappropriately toward staff?",
+      options: [
+        "Nothing — the patient is always right",
+        "They are kindly declined further service",
+        "They are given a discount to apologise",
+        "Only Dr Tina can address it",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Who should you contact for IT support issues at the clinic?",
+      options: ["Ivy Chin", "Light Source Computing", "Phil at World Class Creatives", "Charles"],
+      correct: 1,
+    },
   ],
   "clinic-policies": [
     {
@@ -84,6 +109,16 @@ const QUIZZES = {
       correct: 2,
     },
     {
+      q: "Why should food with strong odours be avoided in the staff room?",
+      options: [
+        "It's against health regulations",
+        "We're a small clinic and it lingers for patients and colleagues",
+        "The microwave can't handle it",
+        "Dr Tina Fang dislikes the smell of all food",
+      ],
+      correct: 1,
+    },
+    {
       q: "What should you do with your personal belongings at the end of a shift?",
       options: [
         "Leave them in the staff room overnight",
@@ -93,17 +128,37 @@ const QUIZZES = {
       ],
       correct: 1,
     },
+    {
+      q: "According to the problem-solving mindset policy, what should you bring to Dr Tina Fang along with a problem?",
+      options: [
+        "Nothing, just the problem",
+        "A proposed solution",
+        "A written complaint",
+        "Another staff member to back you up",
+      ],
+      correct: 1,
+    },
   ],
   housekeeping: [
     {
-      q: "Which of these counts as urgent during busy hours?",
+      q: "Why are shared consumables like gauze and micropore stocked identically in Room 1 and Room 2?",
       options: [
-        "A general pricing question",
-        "Bleeding that won't stop",
-        "A request to update contact details",
-        "A question about opening hours",
+        "So each room can specialise in only one type of procedure",
+        "So whichever room you're in, you always know where to look",
+        "To save money on ordering",
+        "Because Room 1 and Room 2 are never used on the same day",
       ],
       correct: 1,
+    },
+    {
+      q: "What should be done with cardboard boxes before disposal?",
+      options: ["Left as-is in the bin", "Flattened", "Burned", "Returned to the supplier"],
+      correct: 1,
+    },
+    {
+      q: "Which item is stocked in Printer Tray 2?",
+      options: ["Blank paper", "Prescription paper", "Pathology paper", "Laminator sheets"],
+      correct: 2,
     },
     {
       q: "How much liquid nitrogen should typically be used per cryotherapy application?",
@@ -116,19 +171,14 @@ const QUIZZES = {
       correct: 1,
     },
     {
-      q: "What PPE should be worn while filling the cryotherapy tank?",
-      options: ["No PPE required", "Gloves and eye protection", "A face mask only", "Ear protection"],
-      correct: 1,
-    },
-    {
-      q: "What should be done with leftover liquid nitrogen after a procedure?",
+      q: "What two things should be completed before staff leave each day?",
       options: [
-        "Poured down the sink",
-        "Poured back into the tank",
-        "Left in the applicator overnight",
-        "Thrown in the general rubbish bin",
+        "Cliniva AI phone call follow-ups and the cleaning tasks",
+        "Only the cleaning tasks",
+        "Only the Cliniva AI calls",
+        "Restocking Room 1 only",
       ],
-      correct: 1,
+      correct: 0,
     },
   ],
   "records-pathology-photos": [
@@ -168,8 +218,13 @@ const QUIZZES = {
       correct: 2,
     },
     {
-      q: "What is the out-of-pocket cost for one biopsy?",
-      options: ["$25", "$50", "$100", "It's always bulk billed"],
+      q: "What is the first of the \"4 steps\" after every procedure (FSE, Spot Check, Biopsy, etc.)?",
+      options: [
+        "Book the next appointment immediately",
+        "Check if the patient is happy — \"How did it go?\"",
+        "Take payment first",
+        "Print the aftercare sheet",
+      ],
       correct: 1,
     },
   ],
@@ -181,16 +236,6 @@ const QUIZZES = {
         "\"ISO Skin Cancer & Laser Clinic, may I please place you on hold?\"",
         "Just put them on hold without saying anything",
         "\"I'll call you back later.\"",
-      ],
-      correct: 1,
-    },
-    {
-      q: "A patient says they've seen Dr Tina before, but only at Sundoctors — never at ISO Upper Mt Gravatt. What do you do?",
-      options: [
-        "Book under their existing Sundoctors file",
-        "Treat them as new to ISO and create a new patient file",
-        "Refuse to book them",
-        "Ask them to bring proof from Sundoctors first",
       ],
       correct: 1,
     },
@@ -215,27 +260,7 @@ const QUIZZES = {
       correct: 1,
     },
     {
-      q: "What should you check to confirm a new patient's identity?",
-      options: [
-        "Their social media profile",
-        "Their Medicare card or driver's licence",
-        "A verbal date of birth only, no ID needed",
-        "Their employer's details",
-      ],
-      correct: 1,
-    },
-    {
-      q: "How many reminders should a standard appointment (booked more than a week out) receive?",
-      options: [
-        "None — reminders are optional",
-        "Just a 1-day reminder",
-        "A 1-week reminder and a 1-day reminder",
-        "Three reminders across the week",
-      ],
-      correct: 2,
-    },
-    {
-      q: "Should reminder messages be sent individually or in batches?",
+      q: "Should appointment reminder SMS messages be sent individually or in batches?",
       options: [
         "In batches, to save time",
         "Individually, to avoid mistakes",
@@ -245,7 +270,7 @@ const QUIZZES = {
       correct: 1,
     },
     {
-      q: "When a family comes in together, how should you message them?",
+      q: "When a family comes in together, how should you send appointment reminders?",
       options: [
         "Send one SMS per family member",
         "Don't send SMS to families",
@@ -255,24 +280,14 @@ const QUIZZES = {
       correct: 2,
     },
     {
-      q: "What must you manually adjust for a patient's appointment reminder if they need numbing cream?",
+      q: "When replying to a negative Google review on behalf of the clinic, what should you do?",
       options: [
-        "The clinic room",
-        "The appointment time in the message",
-        "The doctor's name",
-        "The SMS template colour",
+        "Argue with the reviewer publicly",
+        "Disclose the patient's treatment details to prove them wrong",
+        "Reply briefly and professionally, invite them to contact the clinic directly, and flag it to Dr Tina Fang",
+        "Delete the review",
       ],
-      correct: 1,
-    },
-    {
-      q: "Why should you minimise spaces in SMS messages?",
-      options: [
-        "To make them harder to read",
-        "To reduce the cost of SMS credits",
-        "It has no real reason",
-        "To fit the clinic logo",
-      ],
-      correct: 1,
+      correct: 2,
     },
   ],
   services: [
@@ -339,22 +354,22 @@ const QUIZZES = {
       correct: 1,
     },
     {
-      q: "For a finalised cash payment, what must you email to Dr Tina?",
+      q: "When can you use an instant Medicare rebate?",
       options: [
-        "Nothing — cash payments don't need reporting",
-        "The invoice, with subject \"Finalised Cash Payment\"",
-        "A photo of the cash box",
-        "Only a verbal confirmation",
+        "Any time the patient asks for it",
+        "Only for item 23 or 36, with a physical debit card",
+        "Only for cosmetic items",
+        "Only on weekends",
       ],
       correct: 1,
     },
     {
-      q: "If you're unsure whether a patient has a physical debit card or uses Macquarie Bank, should you attempt an instant rebate?",
+      q: "What must happen with every cash movement, even if the payment is left on hold?",
       options: [
-        "Yes, always try it first",
-        "No — don't attempt instant rebate if unsure",
-        "Only on Fridays",
-        "Ask the patient to decide",
+        "Nothing, until it's finalised",
+        "It must be logged in the Cash In/Out log",
+        "It must be emailed to Medicare",
+        "It must be counted twice by two staff",
       ],
       correct: 1,
     },
@@ -366,20 +381,92 @@ const QUIZZES = {
   ],
   "create-invoice": [
     {
+      q: "When billing a patient under 18, who should the invoice be billed to?",
+      options: [
+        "The child directly",
+        "The head of family",
+        "Medicare only",
+        "It cannot be billed until they turn 18",
+      ],
+      correct: 1,
+    },
+    {
       q: "If EasyClaim fails, how long should you wait before reprocessing the claim?",
       options: ["Immediately retry", "15 minutes", "24 hours", "7 days"],
       correct: 1,
+    },
+    {
+      q: "What is phone payment (MOTO) used for?",
+      options: [
+        "Any invoice over $500",
+        "Gift cards & deposits only",
+        "Medicare rebates only",
+        "Cosmetic consultations only",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Item 45201 (flap repair) must always be billed together with what?",
+      options: ["A biopsy item", "An excision item", "A PDT item", "Nothing else — it's billed alone"],
+      correct: 1,
+    },
+    {
+      q: "When billing a Skin Check together with a Cosmetic item, what's the correct order?",
+      options: [
+        "Bill them together as one item",
+        "Bill separately — the Cosmetic item first",
+        "Bill separately — the Skin Check first",
+        "Only bill the Cosmetic item",
+      ],
+      correct: 2,
+    },
+  ],
+  "end-of-day-reconciliation": [
+    {
+      q: "In Stage A of end-of-day reconciliation, what should you do with every Tyro receipt?",
+      options: [
+        "Throw it away once payment is taken",
+        "Write the patient's name clearly on it, or staple it to their BP invoice",
+        "Email it to Medicare",
+        "File it under the doctor's name only",
+      ],
+      correct: 1,
+    },
+    {
+      q: "What does Stage B of end-of-day reconciliation involve?",
+      options: [
+        "Printing and settling the EFTPOS summary for each provider on Tyro",
+        "Sending the batch in Best Practice",
+        "Filling the cryotherapy tank",
+        "Emailing Dr Tina a summary",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What does Stage C of end-of-day reconciliation involve?",
+      options: [
+        "Sending the batch in Best Practice to bank each provider's takings",
+        "Settling the Tyro terminal",
+        "Writing patient names on receipts",
+        "Restocking the cash box",
+      ],
+      correct: 0,
+    },
+    {
+      q: "If Tyro and Best Practice don't match at the end of the day, what should you do?",
+      options: [
+        "Adjust the numbers yourself so they match",
+        "Ignore it if the difference is small",
+        "Tell Dr Tina immediately — don't try to track it down or fix it yourself first",
+        "Wait until the next day to check",
+      ],
+      correct: 2,
     },
   ],
   "medical-item-numbers": [
     {
       q: "What MBS item number is used for a standard skin biopsy?",
       options: ["23", "30071", "31357", "45201"],
-      correct: 1,
-    },
-    {
-      q: "Item 45201 (flap repair) must always be billed together with what?",
-      options: ["A biopsy item", "An excision item", "A PDT item", "Nothing else — it's billed alone"],
       correct: 1,
     },
     {
@@ -395,6 +482,16 @@ const QUIZZES = {
         "Curettage and cautery",
         "Lip, eyelid, or ear wedge repair",
       ],
+      correct: 0,
+    },
+    {
+      q: "Which item number is used for curettage and cautery?",
+      options: ["30075", "30062", "30084", "31220"],
+      correct: 0,
+    },
+    {
+      q: "What is the Medicare rebate (85%) for item 31358 (BCC/SCC ≥6mm excision, Area 1)?",
+      options: ["$268.60", "$219.50", "$354.00", "$166.60"],
       correct: 0,
     },
   ],
