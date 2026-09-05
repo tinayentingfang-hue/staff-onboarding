@@ -129,12 +129,12 @@ const QUIZZES = {
       correct: 1,
     },
     {
-      q: "According to the problem-solving mindset policy, what should you bring to Dr Tina Fang along with a problem?",
+      q: "Which of these needs a doctor's attention immediately, without second-guessing?",
       options: [
-        "Nothing, just the problem",
-        "A proposed solution",
-        "A written complaint",
-        "Another staff member to back you up",
+        "A billing question from a patient",
+        "An allergic reaction, of any degree",
+        "An IT issue with the computer",
+        "A booking availability question",
       ],
       correct: 1,
     },

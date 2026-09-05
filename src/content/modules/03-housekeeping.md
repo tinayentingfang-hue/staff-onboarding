@@ -19,6 +19,10 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 
 ## 4. Room 1 — Procedure Room
 
+**Room 1 – Procedure Room:** primarily used for routine skin checks and minor procedures.
+
+![Dr Jack Fu performing a dermatoscope skin check on a patient in Room 1](/images/modules/introduction-orientation/skin-check-room-1.jpg)
+
 ![Room 1's overhead supply cabinets above the sink, stocked with dressings, swabs, and gloves](/images/modules/introduction-orientation/room-1-supply-cabinets.jpg)
 
 - Punch biopsy, dermal curette, sutures, tubigrip, dressings, antiseptic solution, steri strip, gauze swabs, biopsy blade, 15/11 scalpel
@@ -37,6 +41,8 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 - Blue disposable cover drape (for women who prefer a clean cover), bed rolls
 
 ## 5. Room 2 — Laser Room
+
+**Room 2 – Laser Room:** designated for laser treatments and related services.
 
 ![Room 2 (Laser Room) with the Nordlys laser device and overhead supply cabinets](/images/modules/introduction-orientation/room-2-laser-equipment.jpg)
 
@@ -57,6 +63,8 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 - Extra pillows, extra centrifuge, Derma Shine
 - Tubes for smoke extractor, bed rolls, bluey, disposable cover drapes, rubbish, water for Nordlys service
 - Basket, blanket for women who want a soft cover
+
+**Staff Room:** a space for staff to rest and take breaks. See [Module 2: Clinic Policies](/modules/clinic-policies) for staff room rules.
 
 ## 6. Reception Storage
 

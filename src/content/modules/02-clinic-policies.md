@@ -14,7 +14,8 @@
 ## 3. Staff Room & Food
 
 We're a small clinic, so please be considerate of shared space:
-- A microwave is available for light meals — use it only for food with minimal odour so it doesn't linger for patients and colleagues.
+- There's no microwave at the clinic — please don't bring food that needs reheating. Sandwiches and other light meals are recommended.
+- The café on the ground floor kindly microwaves food for staff out of good will — this is not a long-term arrangement, so don't rely on it.
 - No food should be left behind at the end of the day — take all leftovers home.
 
 ## 4. Keeping Reception Tidy
@@ -28,7 +29,16 @@ We're a small clinic, so please be considerate of shared space:
 - Friends & family: 2× 20% off — Beauty and technician services only. Full fees apply for any of Dr Tina Fang's services.
 - Skincare: wholesale price +/- shipping fee.
 
-## 6. Problem-Solving Mindset
+## 6. Priorities
 
-- Try to solve problems yourself first. If you do need to bring something to Dr Tina Fang, bring a proposed solution along with the problem — not just the problem.
-- Dr Tina Fang is your employer, not a task list — please don't pass along jobs that belong to your own role.
+**When it's urgent — get a doctor immediately**
+Some situations need Dr Tina Fang, Dr Jack Fu, or Dr David Fang's attention right away. Don't second-guess yourself, and don't be afraid to interrupt the doctors immediately for things like:
+- Burns
+- Eye injury
+- Vascular occlusion
+- Infection
+- Syncope
+- Allergy, of any degree
+
+**When it's not urgent — wait and summarise**
+For bookings and patient availability, billing, invoicing, IT issues that can't be resolved with IT support, or email/website issues that can't be resolved with Phil — wait until the doctors aren't busy to raise it, or send an end-of-day email summarising them. Dr Tina Fang will work out the next step.

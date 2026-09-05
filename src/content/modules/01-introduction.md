@@ -30,16 +30,7 @@ Our clinic is located at **Suite 209, 1808 Logan Road, Upper Mount Gravatt**.
 - If no B2 spaces are available, street parking is the best alternative.
 - The Body Corporate strictly monitors the car park — unauthorised use of reserved or restricted spaces may result in fines or towing.
 
-## 5. Clinic Layout
-
-- **Room 1 – Procedure Room:** primarily used for routine skin checks and minor procedures.
-
-![Dr Jack Fu performing a dermatoscope skin check on a patient in Room 1](/images/modules/introduction-orientation/skin-check-room-1.jpg)
-
-- **Room 2 – Laser Room:** designated for laser treatments and related services.
-- **Staff Room:** a space for staff to rest and take breaks. See [Module 2: Clinic Policies](/modules/clinic-policies) for staff room rules.
-
-## 6. Who to Contact
+## 5. Who to Contact
 
 A number of people help keep ISO running behind the scenes.
 
