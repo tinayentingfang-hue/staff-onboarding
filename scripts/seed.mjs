@@ -36,7 +36,7 @@ const MODULES = [
   { num: 7, slug: "gst-cash-entities", title: "GST, Cash & Entities" },
   { num: 8, slug: "create-invoice", title: "Create Invoice" },
   { num: 9, slug: "end-of-day-reconciliation", title: "End of Day Reconciliation" },
-  { num: 10, slug: "medical-item-numbers", title: "Medical Item Numbers" },
+  { num: 10, slug: "medicare-item-numbers", title: "Medicare Item Numbers" },
 ];
 
 const QUIZZES = {
@@ -463,7 +463,7 @@ const QUIZZES = {
       correct: 2,
     },
   ],
-  "medical-item-numbers": [
+  "medicare-item-numbers": [
     {
       q: "What MBS item number is used for a standard skin biopsy?",
       options: ["23", "30071", "31357", "45201"],
@@ -491,7 +491,7 @@ const QUIZZES = {
     },
     {
       q: "What is the Medicare rebate (85%) for item 31358 (BCC/SCC ≥6mm excision, Area 1)?",
-      options: ["$268.60", "$219.50", "$354.00", "$166.60"],
+      options: ["$275.60", "$225.20", "$363.25", "$170.95"],
       correct: 0,
     },
   ],

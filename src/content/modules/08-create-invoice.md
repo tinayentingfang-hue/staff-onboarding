@@ -51,7 +51,7 @@ New Account → Provider: Dr → Bill to: Patient / Head of family → select th
 
 **Skin Excisions**
 
-Always double-check the gap before finalising. See [Module 10: Medical Item Numbers](/modules/medical-item-numbers) for the excision tables.
+Always double-check the gap before finalising. See [Module 10: Medicare Item Numbers](/modules/medicare-item-numbers) for the excision tables.
 
 **Skin Flap**
 
