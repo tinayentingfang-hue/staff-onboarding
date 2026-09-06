@@ -217,16 +217,6 @@ const QUIZZES = {
       options: ["24 hours", "3 days", "7 working days", "1 month"],
       correct: 2,
     },
-    {
-      q: "What is the first of the \"4 steps\" after every procedure (FSE, Spot Check, Biopsy, etc.)?",
-      options: [
-        "Book the next appointment immediately",
-        "Check if the patient is happy — \"How did it go?\"",
-        "Take payment first",
-        "Print the aftercare sheet",
-      ],
-      correct: 1,
-    },
   ],
   "communication-booking": [
     {
@@ -288,6 +278,16 @@ const QUIZZES = {
         "Delete the review",
       ],
       correct: 2,
+    },
+    {
+      q: "What is the first of the \"4 steps\" after every procedure (FSE, Spot Check, Biopsy, etc.)?",
+      options: [
+        "Book the next appointment immediately",
+        "Check if the patient is happy — \"How did it go?\"",
+        "Take payment first",
+        "Print the aftercare sheet",
+      ],
+      correct: 1,
     },
   ],
   services: [
