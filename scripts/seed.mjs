@@ -329,12 +329,12 @@ const QUIZZES = {
     {
       q: "A patient asks over email how much Botox costs with Dr Tina Fang. What do you say?",
       options: [
-        "Quote the per-unit price directly",
+        "Quote the per-unit price directly — $12/unit",
         "Say it's free with a consult",
-        "Explain pricing for prescription treatments is confirmed at a consultation, and offer to book one",
+        "Refuse, and say pricing can only be discussed at a consultation",
         "Tell them to check the website",
       ],
-      correct: 2,
+      correct: 0,
     },
     {
       q: "A Dermal Clinician/Registered Nurse appointment is booked for 1 hour and the patient needs numbing cream. What do you tell them?",

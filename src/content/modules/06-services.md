@@ -76,65 +76,108 @@ We operate under **two brands** from the same Upper Mt Gravatt clinic. Patients 
 
 **How to book:** bookings.drtinafang.com, or by phone. No GP referral needed.
 
+All prices in this section can be quoted directly to patients over the phone, email, or social media — nothing here is restricted.
+
 ### Consultations (with Dr Tina Fang, 30 min)
 
 | Consultation | What it's for | Price |
 |---|---|---|
-| Initial Cosmetic Consultation | General starting point for any cosmetic treatment plan. | $150 — fully redeemable against treatment or skincare |
+| Initial Cosmetic Consultation | General starting point for any cosmetic treatment plan. | $150 — fully redeemable against treatment |
 | Acne Consultation | Assessment and treatment plan for acne. | $150 (Medicare rebate ~$45) |
 | Melasma Consultation | Assessment and treatment plan for melasma/pigmentation. | $150 (Medicare rebate ~$45) |
 
-### Skin Treatments (Dermal Clinician / Registered Nurse, 1 hr)
+### Injectable Aesthetics & Facial Contouring (Dr Tina Fang only, 30 min)
 
-| Treatment | What it is | Price |
-|---|---|---|
-| Hydration Skin Needling | Micro-needling with hyaluronic acid for hydration and glow. | $250 |
-| Rejuran Tone Up Skin Needling | Needling combined with Rejuran serum for tone and texture. | $310 |
-| Rejuran Healing Skin Needling | Needling combined with Rejuran to support skin repair. | $310 |
-| Acne Scar Needling | Targeted needling to soften acne scarring. | $250 |
-| SKNBAR Hydrodermabrasion — Basic Clean | Deep-cleansing hydro-exfoliation facial. | $200 |
-| SKNBAR Hydrodermabrasion + Lymphatic Drainage | Hydro-exfoliation plus a de-puffing lymphatic massage. | $350 |
-| SkinCeuticals Medical Peel (Pigmentation or Acne) | Chemical peel targeting pigmentation or acne. | $250 |
-
-*LED Light Therapy is complimentary when paired with a needling or peel treatment above.*
-
-### Laser & Light Treatments (Dermal Clinician / Registered Nurse, 1 hr)
-
-| Treatment | What it is | Price |
-|---|---|---|
-| LED Light Therapy (standalone) | Calming red/blue light, no downtime. **30 min**, not 1 hr. | $100 |
-| IPL Skin Rejuvenation | Light-based treatment for sun damage, redness and uneven tone. | $250 |
-| Pigmentation Laser | Targets brown spots / sun spots. | $350 |
-| Vascular Laser | Targets redness, broken capillaries, small veins. | $350 |
-| Acne / Surgical Scarring | Laser resurfacing for acne or surgical scars. | $350 |
-| Melasma Protocol | Laser protocol for stubborn melasma. | $350 |
-
-### HIFU Skin Tightening & Contouring — Ultraformer III (Dermal Clinician / Registered Nurse, 1 hr)
-
-Ultrasound energy that lifts and tightens without surgery or downtime. Priced per shot ($1.50/shot) or by area — exact shot count is decided after an in-person assessment.
-
-| Area | Price guide |
+| Treatment | Price |
 |---|---|
-| Eye Area | $90–150 |
-| Double Chin | $150 |
-| Neck Lines | $300 |
-| Jawline Lifting | $600 |
-| Full Face Tightening | $600–900 |
+| Sculptra Collagen Stimulator | $900 |
+| Ellansé Collagen Stimulator | $980 |
+| Dermal Filler Treatment (product selected from the approved range below) | $525 |
+| Lip Shaping | From $350 |
+| Nose Shaping | $800 |
+| Chin Shaping | $800 |
+| Under Eye Rejuvenation Treatment | $800 |
+| SkinTox | $250 |
+| Botox | $12 / unit |
+| Letybo | $8 / unit |
+| Relfydess | $10 / unit |
+| Daxxify (100-unit vial only, not sold per unit) | $750 / vial |
+| Facial Muscle Treatment | From $550 |
+| Masseter Slimming Treatment | $400 |
+| Calf Slimming Treatment | From $800 |
+| Shoulder & Trapezius Slimming Treatment | From $800 |
+
+**Neurotoxin product origin reference** — internal patient-recognition guide only; country refers to manufacturing origin, not where the patient is treated:
+
+| Product | Price | Manufacturing origin | Manufacturer |
+|---|---|---|---|
+| Botox Cosmetic | $12/unit | Ireland (Westport) | Allergan Aesthetics, an AbbVie company |
+| Letybo | $8/unit | South Korea | Hugel |
+| Relfydess | $10/unit | Sweden (Uppsala) | Galderma |
+| Daxxify | $750 per 100-unit vial (not per unit) | United States | Revance Therapeutics |
+
+**Approved filler product range** — all $525 as a Dermal Filler Treatment above, Dr Tina Fang only:
+
+| Product | Used for | Key ingredients |
+|---|---|---|
+| TEOSYAL PureSense Ultra Deep (Teoxane) | Chin and cheek augmentation | 25mg/mL cross-linked hyaluronic acid, 0.3% lidocaine |
+| TEOSYAL RHA 4 (Teoxane) | Soft tissue volumisation | 23mg/mL cross-linked hyaluronic acid, 0.3% lidocaine |
+| TEOSYAL RHA 1 (Teoxane) | Tear trough treatment | 15mg/mL hyaluronic acid, 0.3% lidocaine |
+| TEOSYAL PureSense Redensity 2 (Teoxane) | Tear trough treatment | 15mg/mL HA (cross- and non-cross-linked), 0.3% lidocaine, dermo-restructuring complex |
+| Restylane Kysse | Lip treatment | 20mg/mL cross-linked hyaluronic acid, 3mg/mL lidocaine |
 
 ### Skin Boosters (Dermal Clinician / Registered Nurse, 1 hr)
 
 Injectable treatments that improve overall skin quality rather than adding volume in one specific spot.
 
-| Treatment | What it is | Price |
+| Treatment | Product | Price |
 |---|---|---|
-| Juvelook | Collagen-stimulating injectable for overall skin quality. | $690 |
-| Neauvia Hydro Deluxe | Deep-hydration injectable booster. | $690 |
-| Opulux by RYZN | Skin-quality injectable booster. | $500 |
-| Rejuran Classic | Polynucleotide injectable to support skin repair. | $690 |
-| Rejuran Eye | Rejuran formulated for the delicate eye area. | $690 |
-| Exosome | Cell-signalling booster to support skin regeneration. | $600 |
-| PRP Autologous Serum | Uses the patient's own plasma to rejuvenate skin. | $390 (11 mL) / $690 (22 mL) |
-| Profhilo | High-concentration hyaluronic acid for deep hydration and skin laxity. | $900 |
+| Juvelook Skin Booster | Juvelook | $690 |
+| Neauvia Hydro Deluxe Skin Booster | Neauvia Hydro Deluxe | $690 |
+| Opulux by RYZN Skin Booster | BYRYZN Opuluxe V | $500 |
+| Croma Rich HA Skin Booster | saypha RICH, Croma | Price to be confirmed |
+| Rejuran Classic Skin Booster | REJURAN Classic | $690 |
+| Rejuran Eye Skin Booster | REJURAN i | $690 |
+| Rejuran Scar Skin Booster | REJURAN s | $690 |
+| Xytide Exosome Skin Treatment | Exomide Skin, Xytide | $600 |
+| PRP Autologous Serum Skin Treatment | PRP | $390 |
+| Profhilo Skin Treatment | Profhilo | $900 |
+| SkinTox Add On | SkinTox | +$150 on top of a treatment above |
+
+### Professional Skin Treatments (Dermal Clinician / Registered Nurse, 1 hr)
+
+| Treatment | Price |
+|---|---|
+| SKNBAR Hydrodermabrasion — Basic Clean | $200 |
+| SKNBAR Hydrodermabrasion + Lymphatic Drainage | $350 |
+| SkinCeuticals Radiance Peel | $250 per session |
+| SkinCeuticals Clarifying Peel | $250 per session |
+| Hydration Skin Needling | $250 |
+| Rejuran Tone Up Skin Needling | $310 |
+| Rejuran Healing Skin Needling | $310 |
+| Acne Scar Needling | $250 |
+
+*LED Light Therapy is complimentary when paired with a needling or peel treatment above.*
+
+### Laser & Light Treatments (Dermal Clinician / Registered Nurse, 1 hr)
+
+| Treatment | Price |
+|---|---|
+| LED Light Therapy (standalone) | $100 per session |
+| IPL Skin Rejuvenation | $250 per session |
+| Full Face Laser Treatment (pigmentation, vascular, acne/surgical scarring, melasma) | $350 per session |
+
+### HIFU Skin Tightening & Contouring — Ultraformer III (Dermal Clinician / Registered Nurse, 1 hr)
+
+Ultrasound energy that lifts and tightens without surgery or downtime. Priced per shot ($1.50/shot) or by area — exact shot count is decided after an in-person assessment.
+
+| Area | Shots | Price |
+|---|---|---|
+| Eye Area Tightening | 60–100 shots | $90–150 |
+| Double Chin Contouring | 100 shots | $150 |
+| Neck Line Tightening | 200 shots | $300 |
+| Jawline Lifting | 400 shots | $600 |
+| Full Face Tightening | 400–600 shots | $600–900 |
 
 ### Hair Restoration (Dr Tina Fang personally, 30 min)
 
@@ -145,47 +188,31 @@ Injectable treatments that improve overall skin quality rather than adding volum
 | Exosome | Regenerative booster for the scalp. | $800 |
 | PRF | Platelet-rich fibrin, single session. | $450 |
 
-### IV Wellness Therapies (Dermal Clinician / Registered Nurse, 1 hr)
+### IV Wellness Therapies (Registered Nurse only, 1 hr)
 
 Same menu and pricing as ISO Clinic's IV Wellness table above — offered under either brand.
 
-### Medical Aesthetics (Dr Tina Fang personally, 30 min)
+### Minor Cosmetic Procedures (Dr Tina Fang personally, 30 min)
 
-**Prescription-only medications — never quote a price to a patient over the phone, email or social media.** An initial consultation is mandatory for all new clients; exact pricing is confirmed by Dr Tina Fang during that consultation.
-
-| Treatment | What it is |
+| Treatment | Price |
 |---|---|
-| Anti-wrinkle injections | Relaxes targeted muscles to soften the appearance of fine lines and wrinkles. |
-| Dermal fillers | Restores volume/contour — commonly lips, cheeks, jawline, tear trough. |
-
-### Minor Procedures (Dr Tina Fang personally, 30 min)
-
-| Treatment | What it is | Price |
-|---|---|---|
-| Cosmetic Mole Removal | Removal of a mole for cosmetic reasons. | $350 first, $100 each additional |
-| Intimate Area Mole Removal | Same, for an intimate area. | $550 first, $150 each additional |
-| — Eyeshield (near eye area) | Protective add-on for treatments close to the eye. | +$150 |
-| TCA CROSS | Chemical treatment (trichloroacetic acid) for ice-pick acne scars. | $600 |
-| Subcision | Releases tethered/depressed acne scars from underneath the skin. | $800 |
-| Juvelook Tear Trough | Injectable to soften under-eye hollows. | $800 |
-
-### Thread Lift Treatments (Dr Tina Fang personally, 30 min)
-
-Dissolvable threads used to subtly lift and contour without surgery.
-
-| Treatment | What it is | Price |
-|---|---|---|
-| Mono Threads | Fine threads for a light overall lift/freshening. | $500 (50 threads) / $850 (100 threads) |
-| Nose Thread Lift | Threads to subtly reshape/lift the nose. | From $3,500 |
-| Lower Face Thread Lift | Threads to lift sagging jowls and soften nasolabial folds. | From $3,000 |
+| Thread Lift | $250 per thread |
+| Nose Thread Lift | From $3,500 |
+| Cosmetic Mole Removal, first mole | $350 |
+| Cosmetic Mole Removal, each additional mole | $100 |
+| Intimate Area Mole Removal, first mole | $550 |
+| Intimate Area Mole Removal, each additional mole | $150 |
+| — Eyeshield (near eye area) | +$150 |
+| TCA CROSS (ice-pick acne scars) | $600 |
+| Subcision (tethered/depressed acne scars) | $800 |
+| Juvelook Tear Trough | $800 |
 
 ---
 
 ## Answering Patients Online (web chat, email, social media, SMS)
 
 - **"Do you treat skin cancer / can you check a spot for me?"** → That's ISO Clinic. Offer to book a Full Skin Check ($150) or Spot Check ($100), no referral needed.
-- **"Does Dr Tina Fang do Botox/filler?"** → Yes — but we can't give prices over text/online for prescription treatments. Offer to book the Initial Cosmetic Consultation ($150, redeemable), where exact pricing is confirmed.
-- **"How much is [any non-prescription treatment, e.g. skin needling, laser, HIFU, IV drip]?"** → These prices are published — go ahead and quote directly from the tables above.
+- **"How much is [any treatment — Botox, filler, skin needling, laser, HIFU, IV drip, etc.]?"** → All prices are published — go ahead and quote directly from the tables above.
 - **"Does it hurt?"** → Discomfort is minimal for almost everything we offer, and numbing cream is available where needed. For anything more specific, offer to discuss at consultation rather than guessing.
 - **"How many sessions will I need?"** → This depends on the individual — offer a consultation for a personalised plan rather than a firm number online.
 - **"Can I get a diagnosis or treatment name without coming in?"** → No — only the treating doctor can provide this. Offer to book a consultation.

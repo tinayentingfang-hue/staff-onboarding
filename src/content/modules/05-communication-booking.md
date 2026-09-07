@@ -93,7 +93,7 @@ Fill gaps in the schedule by steering phone bookings toward adjacent open slots 
 
 Topics covered on the phone-call reference cards:
 - Whether we bulk bill (children and pensioners: no, not for skin checks — DVA patients only are bulk billed).
-- Pricing questions: Botox/filler pricing isn't published on the website — refer to the clinic pricelist (Letybo $8/unit, Reflydess $10/unit, Botox $12/unit; average units per treatment area can be found online). Fillers (Restylane/Teoxane) $525, Ellanse Size M $930, Sculptra $900.
+- Pricing questions: Botox/filler pricing isn't published on the website — refer to the clinic pricelist (Letybo $8/unit, Relfydess $10/unit, Botox $12/unit; average units per treatment area can be found online). Fillers (Restylane/Teoxane) $525, Ellansé Collagen Stimulator $980, Sculptra $900. See [Module 6: Services](/modules/services) for the full cosmetic price list — all prices there can be quoted directly.
 - Whether treatments are painful — pain is minimal, and the clinic has medications available to help.
 - Requests for a treatment name/diagnosis over the phone — only the doctor can provide this; offer to book a $150 consultation (fully redeemable).
 - Post-treatment complication concerns — ask the patient to email photos, and message the doctor with the photos immediately.
