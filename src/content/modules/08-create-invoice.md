@@ -33,6 +33,8 @@ Phone payment (MOTO) is for gift cards & deposits only.
 
 Payment routing: send online to the patient's registered bank account, or process via physical debit/savings card. (No Macquarie Bank for instant rebate.)
 
+![Best Practice payment details screen for a $150 skin check: tick "Pay full amount", then either "Send via Patient Claiming" to send online to the patient's registered bank account, or "Send via Easyclaim" for a physical debit/savings card (not Macquarie Bank) — then click Process](/images/modules/create-invoice/skin-check-payment-screen.png)
+
 **Skin Check & Biopsy**
 
 Add item 30071 onto Skin Check (item 23, $150) or Spot Check (item 23, $100).
