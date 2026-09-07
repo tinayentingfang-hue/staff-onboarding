@@ -18,18 +18,18 @@ Four questions, in this order, decide how the invoice is built.
 
 **When EasyClaim fails**
 
-Tell the patient: "we'll process this online." Print the invoice so they can check the rebate in their bank. Wait 15 minutes, then reprocess: Billing History → tick "Show payment/deposit" → right-click the invoice → **Send online patient claim**.
+Tell the patient: "we'll process this online." Print the invoice so they can check the rebate in their bank. Wait 15 minutes, then reprocess: ![Watch us demonstrate this](/images/icons/demo-bird.svg) Billing History → tick "Show payment/deposit" → right-click the invoice → **Send online patient claim**.
 
 ## 3. Phone Payments (MOTO)
 
 Phone payment (MOTO) is for gift cards & deposits only.
-Menu → Transactions → MOTO → Purchase → select provider → purchase amount → Telephone order → PIN 6291 → card no., exp, CVC → wait for connection → untick Tyro.
+![Watch us demonstrate this](/images/icons/demo-bird.svg) Menu → Transactions → MOTO → Purchase → select provider → purchase amount → Telephone order → PIN 6291 → card no., exp, CVC → wait for connection → untick Tyro.
 
 ## 4. Invoice Walkthroughs by Procedure
 
 **Skin Check**
 
-Select patient → New Account → Provider: Dr → Bill to: Patient / Head of family → Add item 23 → $150 (double-click to change the amount if needed) → Pay Now.
+![Watch us demonstrate this](/images/icons/demo-bird.svg) Select patient → New Account → Provider: Dr → Bill to: Patient / Head of family → Add item 23 → $150 (double-click to change the amount if needed) → Pay Now.
 
 Payment routing: send online to the patient's registered bank account, or process via physical debit/savings card. (No Macquarie Bank for instant rebate.)
 
@@ -42,12 +42,12 @@ Add item 30071 onto Skin Check (item 23, $150) or Spot Check (item 23, $100).
 - 4 biopsies: +$120
 - Any additional: +$25
 
-Add Medicare: Provider: Dr → Bill to: Medicare → MBS Item 30071 → Service details: location (no symbols or double spaces) → Restriction code: if more than 1 biopsy, mark "separate site" (or "not for comparison" if only 1 biopsy) → add another 30071 as needed.
+![Watch us demonstrate this](/images/icons/demo-bird.svg) Add Medicare: Provider: Dr → Bill to: Medicare → MBS Item 30071 → Service details: location (no symbols or double spaces) → Restriction code: if more than 1 biopsy, mark "separate site" (or "not for comparison" if only 1 biopsy) → add another 30071 as needed.
 
 **Skin Check & Cosmetics**
 
 Bill separately — always do the Skin Check first, then the Cosmetic item.
-New Account → Provider: Dr → Bill to: Patient / Head of family → select the service (e.g. Cosmetic Mole Removal) → $350 → if the item has GST ticked, must also tick "Fee includes GST" → Pay Now.
+![Watch us demonstrate this](/images/icons/demo-bird.svg) New Account → Provider: Dr → Bill to: Patient / Head of family → select the service (e.g. Cosmetic Mole Removal) → $350 → if the item has GST ticked, must also tick "Fee includes GST" → Pay Now.
 
 **Skin Excisions**
 
