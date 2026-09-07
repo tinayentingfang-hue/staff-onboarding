@@ -46,6 +46,9 @@ Add item 30071 onto Skin Check (item 23, $150) or Spot Check (item 23, $100).
 
 ✏️ Add Medicare: Provider: Dr → Bill to: Medicare → MBS Item 30071 → Service details: location (no symbols or double spaces) → Restriction code: if more than 1 biopsy, mark "separate site" (or "not for comparison" if only 1 biopsy) → add another 30071 as needed.
 
+![Fee amount dialog for a biopsy: Fee to Charge set to 200.00, Restriction code set to "Not for Comparison"](/images/modules/create-invoice/side-by-side-biopsy-fee-amount.png)
+![Account item dialog for MBS item 30071 (skin biopsy): Service details field and Restriction code set to "Separate Sites"](/images/modules/create-invoice/side-by-side-biopsy-account-item.png)
+
 **Skin Check & Cosmetics**
 
 Bill separately — always do the Skin Check first, then the Cosmetic item.

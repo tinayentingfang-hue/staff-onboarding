@@ -115,3 +115,12 @@ a:hover {
   border-top: 1px solid var(--iso-line);
   margin: 1.5rem 0;
 }
+/* Any two images named "side-by-side-*" placed on consecutive markdown
+   lines (no blank line between them) render as a half-width pair instead
+   of full-width stacked photos. */
+.prose-iso img[src*="/side-by-side-"] {
+  display: inline-block;
+  width: 48%;
+  margin: 0.5rem 1%;
+  vertical-align: top;
+}
