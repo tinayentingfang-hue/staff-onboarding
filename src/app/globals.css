@@ -117,10 +117,17 @@ a:hover {
 }
 /* Any two images named "side-by-side-*" placed on consecutive markdown
    lines (no blank line between them) render as a half-width pair instead
-   of full-width stacked photos. */
-.prose-iso img[src*="/side-by-side-"] {
-  display: inline-block;
-  width: 48%;
-  margin: 0.5rem 1%;
-  vertical-align: top;
+   of full-width stacked photos. Targets the wrapping <p> directly so the
+   layout doesn't depend on inline-block whitespace, which is what made
+   the first attempt at this wrap onto two lines instead of one. */
+.prose-iso p:has(> img[src*="/side-by-side-"]) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-start;
+}
+.prose-iso p:has(> img[src*="/side-by-side-"]) img {
+  display: block;
+  width: calc(50% - 0.5rem);
+  margin: 0;
 }
