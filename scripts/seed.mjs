@@ -292,6 +292,16 @@ const QUIZZES = {
   ],
   services: [
     {
+      q: "A patient asks online if you can check a mole for them. Which brand handles this?",
+      options: [
+        "ISO Clinic",
+        "Dr Tina Fang",
+        "Either brand, doesn't matter",
+        "Neither — refer them elsewhere",
+      ],
+      correct: 0,
+    },
+    {
       q: "How long is a standard skin check appointment?",
       options: ["10 minutes", "15 minutes", "30 minutes", "45 minutes"],
       correct: 1,
@@ -299,8 +309,8 @@ const QUIZZES = {
     {
       q: "What is the price and Medicare rebate for a Full Skin Check?",
       options: [
-        "$100, rebate $43.90",
-        "$150, rebate $43.90",
+        "$100, rebate $45.05",
+        "$150, rebate $45.05",
         "$150, no rebate",
         "$200, rebate $100",
       ],
@@ -317,12 +327,22 @@ const QUIZZES = {
       correct: 1,
     },
     {
-      q: "What price should be confirmed with a patient booking a laser treatment with Dr Tina Fang (vs a Clinician/Technician)?",
+      q: "A patient asks over email how much Botox costs with Dr Tina Fang. What do you say?",
       options: [
-        "$350 with Dr Tina, $800 with a Clinician",
-        "$800 with Dr Tina, $350 with a Clinician/Technician",
-        "$500 either way",
-        "Laser treatments are always free with a consult",
+        "Quote the per-unit price directly",
+        "Say it's free with a consult",
+        "Explain pricing for prescription treatments is confirmed at a consultation, and offer to book one",
+        "Tell them to check the website",
+      ],
+      correct: 2,
+    },
+    {
+      q: "A Dermal Clinician/Registered Nurse appointment is booked for 1 hour and the patient needs numbing cream. What do you tell them?",
+      options: [
+        "Arrive 30 minutes early for the numbing cream",
+        "Nothing extra — numbing cream time is already included in the 1-hour slot",
+        "Numbing cream isn't available for RN/Clinician treatments",
+        "Book a separate appointment for numbing cream",
       ],
       correct: 1,
     },
