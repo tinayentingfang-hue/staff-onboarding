@@ -115,11 +115,3 @@ a:hover {
   border-top: 1px solid var(--iso-line);
   margin: 1.5rem 0;
 }
-/* Inline "we'll demonstrate this" marker — sized to the surrounding text, not a full-width photo */
-.prose-iso img[src*="demo-bird"] {
-  display: inline;
-  width: auto;
-  height: 1em;
-  margin: 0 0.35em 0 0;
-  vertical-align: -0.05em;
-}

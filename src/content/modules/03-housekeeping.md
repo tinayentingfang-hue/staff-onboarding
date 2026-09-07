@@ -86,7 +86,7 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 
 **Tyro paper:** needs to be manually rolled during quiet times — pre-roll to keep enough stock ready; only do this when reception is not busy.
 
-**Laminator use:** ![Watch us demonstrate this](/images/icons/demo-bird.svg) plug in → turn on power → select heat setting → wait for green "ready" light → insert document with the closed end first → feed slowly and evenly, leaving enough space to avoid overheating at the finish side → turn off and unplug when finished.
+**Laminator use:** ✏️ plug in → turn on power → select heat setting → wait for green "ready" light → insert document with the closed end first → feed slowly and evenly, leaving enough space to avoid overheating at the finish side → turn off and unplug when finished.
 
 ## 7. Steri Room & Recovery Room
 

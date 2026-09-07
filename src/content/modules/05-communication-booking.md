@@ -46,12 +46,12 @@ Ask: *"Have you been to our Upper Mt Gravatt clinic before?"* Many patients will
 Avoiding duplicate patient files matters: it keeps clinical notes accurate, billing consistent, and reminders correctly managed.
 
 **Creating the new patient file (BP steps)**
-![Watch us demonstrate this](/images/icons/demo-bird.svg) Appointment book → select the provider's column → right-click the appointment time → New Appointment → search before creating a new patient → New Patient: first name, last name, phone number (for messages), Address Line 1 & Suburb → Comms Consent → select all → Enable → OK → Save.
+✏️ Appointment book → select the provider's column → right-click the appointment time → New Appointment → search before creating a new patient → New Patient: first name, last name, phone number (for messages), Address Line 1 & Suburb → Comms Consent → select all → Enable → OK → Save.
 
 **New Patient Registration Form**
 - All new patients must complete this form; some may already have submitted it online via isoclinic.com.au/new-patient-form.
 - Online submissions arrive in the Outlook inbox: admin@isoclinic.com.au. Download the form and upload it to the patient's file in Best Practice before their consultation.
-- ![Watch us demonstrate this](/images/icons/demo-bird.svg) BP steps: left-click the patient's name on bookings → View Record → Correspondence In → Add → select the file → no category, name subject "New Patient Registration" → Save.
+- ✏️ BP steps: left-click the patient's name on bookings → View Record → Correspondence In → Add → select the file → no category, name subject "New Patient Registration" → Save.
 
 **Completing the patient file**
 Over the phone, create the patient's file with the necessary information first — the full details can be completed after the phone call. See [Module 4: Records, Pathology & Patient Photos](/modules/records-pathology-photos) for how to complete past history, allergies, skin cancer history, booking warnings, and merging duplicate files.
@@ -126,7 +126,7 @@ Send messages individually to avoid mistakes — **do not send messages in batch
 | Orange — "1 week reminder" | Sent for GG Review (ISO Skin Cancer) and GG Review (Cosmetic) — anyone who had skin-cancer-related work, or cosmetic treatment with Dr Tina or a Technician. Some appointments were booked up to a year ago, so expect follow-up calls from patients unaware they had a booking. | Day before / 1 week prior |
 | New Patient Registration Link | Gives new patients a link to complete registration online — reduces paperwork and speeds up intake on busy days. | Sent when trying to reach patients to reschedule |
 
-![Watch us demonstrate this](/images/icons/demo-bird.svg) **BP steps:** Appointment Book → left-click patient's name → Utilities → Send Message → select template → (manually change the time for patients coming in for numbing cream) → Send.
+✏️ **BP steps:** Appointment Book → left-click patient's name → Utilities → Send Message → select template → (manually change the time for patients coming in for numbing cream) → Send.
 
 **Key points**
 - Every appointment needs a **1-week reminder** and a **1-day reminder**, unless booked less than a week out.
@@ -136,7 +136,7 @@ Send messages individually to avoid mistakes — **do not send messages in batch
 - Minimise spaces in the message text to reduce credit cost.
 
 **Creating templates**
-![Watch us demonstrate this](/images/icons/demo-bird.svg) BP steps: BP Premier → Configuration → Templates → Add → Type: Appointment → Name (e.g. "Tuesday Appt") → write the message → tick "Template can be edited before sending" → tick "Appointment template expects a reply" → Save.
+✏️ BP steps: BP Premier → Configuration → Templates → Add → Type: Appointment → Name (e.g. "Tuesday Appt") → write the message → tick "Template can be edited before sending" → tick "Appointment template expects a reply" → Save.
 
 ## 8. Replying on Behalf of ISO Clinic or Dr Tina Fang (Email & Google Reviews)
 

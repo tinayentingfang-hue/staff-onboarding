@@ -5,10 +5,10 @@ Write the patient's name clearly on the Tyro receipt, or staple it to the patien
 
 **Stage B: print the EFTPOS summary, per provider — settle each merchant on Tyro**
 Repeat this for every provider who worked that day: ISO Skin Cancer, JFu Medical, TF Skin, and Dr David Fang if he's covering.
-![Watch us demonstrate this](/images/icons/demo-bird.svg) Menu → 3. Settlement & Reports → 2. Reconciliation Report → select merchant → 1. Current → Summary → All cards → Print → **Settle**.
+✏️ Menu → 3. Settlement & Reports → 2. Reconciliation Report → select merchant → 1. Current → Summary → All cards → Print → **Settle**.
 
 **Stage C: send the batch in Best Practice — bank each provider's takings**
-![Watch us demonstrate this](/images/icons/demo-bird.svg) BP Premier → Management → Banking → File → Now Batch → select bank → Add to batch → select date → select provider → Add → **Process**.
+✏️ BP Premier → Management → Banking → File → Now Batch → select bank → Add to batch → select date → select provider → Add → **Process**.
 The paper should print out. Repeat for every provider working that day.
 
 **Stage D: reconcile and file — match the numbers, then file**
