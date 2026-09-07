@@ -39,11 +39,7 @@ Appointment book → select the provider's column → right-click the appointmen
 - BP steps: left-click the patient's name on bookings → View Record → Correspondence In → Add → select the file → no category, name subject "New Patient Registration" → Save.
 
 **Completing the patient file**
-- *Past history:* Search → type the item the patient wrote → find in drug class/ingredient/specific product/non-drug/other → optionally add severity and comments → Save.
-- *Allergy:* Add → search (e.g. "hypertension") → tick active or inactive → untick everything else (e.g. include in summaries/save as reason for visit) → Save. If none known: View Record → Reactions → tick "Nil known."
-- *Any skin cancer related history:* View Record (top of profile) → comment → double-click on-screen comment (e.g. "Melanoma 6mthly check") → Save.
-- *Booking warnings:* use Appointment Notes for any warnings (e.g. "Patient Rude"). Use "GG Pending" / "Gift given" / "GG Done" for Google Review gift tracking.
-- *Merge duplicate patient files:* BP Premier → View → Patient List (F10) → search patient name → select the file to **keep** → Edit → Merge → search for the profile to merge in.
+Over the phone, create the patient's file with the necessary information first — the full details can be completed after the phone call. See [Module 4: Records, Pathology & Patient Photos](/modules/records-pathology-photos) for how to complete past history, allergies, skin cancer history, booking warnings, and merging duplicate files.
 
 ## 3. Making Bookings in Best Practice (BP)
 
