@@ -60,6 +60,8 @@ Bill separately — always do the Skin Check first, then the Cosmetic item.
 
 Always double-check the gap before finalising. See [Module 10: Medicare Item Numbers](/modules/medicare-item-numbers) for the excision tables.
 
+![Skin Excisions invoice walkthrough: 1) enter the MBS item number (e.g. 31358) and select the matching description; 2) check the Fee to Charge and fill in Service details (e.g. "nose"); 3) click Add; 4) double-check the Gap amount on Account details; 5) click Pay now](/images/modules/create-invoice/skin-excisions-account-item-walkthrough.jpg)
+
 **Skin Flap**
 
 Item **45201** must be billed together with the excision item.
