@@ -54,6 +54,8 @@ Add item 30071 onto Skin Check (item 23, $150) or Spot Check (item 23, $100).
 Bill separately — always do the Skin Check first, then the Cosmetic item.
 ✏️ New Account → Provider: Dr → Bill to: Patient / Head of family → select the service (e.g. Cosmetic Mole Removal) → $350 → if the item has GST ticked, must also tick "Fee includes GST" → Pay Now.
 
+![Account item dialog with Cosmetic Mole Removal (Doctor) double-clicked from the Default list: Fee to Charge 350, "Item has GST" and "Fee includes GST" both ticked](/images/modules/create-invoice/cosmetic-mole-removal-account-item.png)
+
 **Skin Excisions**
 
 Always double-check the gap before finalising. See [Module 10: Medicare Item Numbers](/modules/medicare-item-numbers) for the excision tables.
