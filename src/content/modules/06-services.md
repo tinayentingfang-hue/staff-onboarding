@@ -40,7 +40,17 @@ We operate under **two brands** from the same Upper Mt Gravatt clinic. Patients 
 
 | Treatment | What it is | Who | Duration | Price |
 |---|---|---|---|---|
-| PDT (2 treatments, per region) | A light-activated cream treatment for superficial skin cancers — no cutting involved. | Dr Tina Fang / Dr Jack Fu | 15-min booking slot; treatment takes ~3 hrs. Tue/Thu/Fri mornings only. | $300 x2, $700 per region |
+| PDT | A light-activated cream treatment for superficial skin cancers — no cutting involved. | Dr Tina Fang / Dr Jack Fu | 15-min booking slot; treatment takes ~3 hrs. Tue/Thu/Fri mornings only. | $300 x2, $700 per region |
+
+**Numbing:** for treatment of early skin cancer, PDT doesn't need numbing cream — Dr Tina will infiltrate the area with local anaesthetic and spot-activate with the PR hand piece.
+
+**Regions** (each counts as 1 region):
+- Face
+- Neck
+- Chest
+- Scalp
+- Back of hands
+- Forearms
 
 ### Laser & Light Treatments
 
