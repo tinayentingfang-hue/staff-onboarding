@@ -1,22 +1,37 @@
 ## 1. Meet & Greet
 
-**Standard phone greeting:** "ISO Skin Cancer & Laser Clinic, [Your Name] speaking. How can I help you?"
+**Standard phone greeting**
+Answer all calls with: *"ISO Skin Cancer & Laser Clinic, [Your Name] speaking. How can I help you?"*
 
-**Managing in-person and phone interactions at the same time**
-If a patient is in front of you and you are on a call:
-1. Politely place the caller on hold: "ISO Skin Cancer & Laser Clinic, may I please place you on hold?"
-2. Press the hold button before turning your attention to the patient in front of you.
-3. Pick up the phone again once you've finished serving the patient in front of you.
+**If the patient's name appears on the phone**
+If the caller's name is displayed and you recognise them as a patient, greet them by name to make the interaction more personal — for example: *"Hi Tina, this is [Your Name]. How can I help you?"* Use the patient's name whenever appropriate, but make sure you're confident you've identified the correct caller.
 
-Note: the patient in front of you always takes priority over phone calls.
+**Patients at reception take priority**
+If a patient is waiting or approaches the front desk, attend to the patient in front of you first. Allow incoming phone calls to go through to Jess, our AI receptionist, while you assist the patient in the clinic.
 
-**Welcoming patients in the clinic:** whenever possible, greet patients by name as they arrive — it helps create a welcoming, personalised experience.
+Priority order:
+1. Patients physically present in the clinic
+2. Phone calls
 
-**Wrong-clinic calls:** occasionally a patient calls thinking we are a different skin cancer clinic (due to our Google Ads). Reply: *"Sorry, we are not [other clinic] — we are ISO Skin Cancer Clinic at Upper Mt Gravatt. If you need our assistance with booking your skin check, let us know."*
+Patients who are already in the clinic should always receive your attention before answering an incoming phone call.
 
-**Full body photography:** we do not currently offer this service. If asked, say: *"We take photos for moles that need to be monitored."*
+**Welcoming patients**
+Whenever possible, greet patients by name when they arrive — for example: *"Hi Sarah, welcome."* Using the patient's name helps create a warm, professional and personalised experience.
 
-**Every phone call is an opportunity.** For all new patients, confirm their identity by checking their Medicare card or driver's licence.
+**Calls intended for another clinic**
+Every phone call is an opportunity to provide good service and assist a potential patient. Occasionally, patients may call us believing they've reached another skin cancer clinic, particularly after seeing an online advertisement. Say: *"Sorry, we are not [other clinic]. We are ISO Skin Cancer & Laser Clinic in Upper Mt Gravatt. If you would like help booking a skin check with us, we would be happy to assist you."*
+
+**Full body photography**
+Full body photography will commence in January and will cost $50 per visit. If a patient asks about this service, say: *"We will be offering full body photography from January. The cost is $50 per visit. Would you like me to put you down for it?"*
+
+Important: full body photography is booked as a separate appointment from the patient's Full Skin Examination (FSE) with the doctor — it does not replace the doctor's skin check. Clinical photographs of individual moles or lesions can still be taken when required for monitoring.
+
+**New patient identification**
+For all new patients, confirm their identity using an appropriate form of identification, such as:
+- Medicare card; or
+- Driver's licence.
+
+Ensure the patient's details are entered correctly into the system.
 
 ## 2. Create New Patient File
 

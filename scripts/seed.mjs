@@ -220,12 +220,12 @@ const QUIZZES = {
   ],
   "communication-booking": [
     {
-      q: "What should you say when you need to place a phone caller on hold to help a patient in front of you?",
+      q: "If a patient is waiting at reception and the phone rings at the same time, what should you do?",
       options: [
-        "\"Can you hold on a sec?\"",
-        "\"ISO Skin Cancer & Laser Clinic, may I please place you on hold?\"",
-        "Just put them on hold without saying anything",
-        "\"I'll call you back later.\"",
+        "Answer the phone first — the patient can wait",
+        "Attend to the patient at reception first, and let the call go to Jess, our AI receptionist",
+        "Ignore both until you're free",
+        "Put the patient on hold and answer the phone",
       ],
       correct: 1,
     },
