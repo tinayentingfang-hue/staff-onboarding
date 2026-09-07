@@ -2,8 +2,8 @@
 
 Over the phone, we create the patient's file with the necessary information first — the full details below can be completed after the call.
 
-- *Past history:* ✏️ Search → type the item the patient wrote (e.g. "hypertension") → find in drug class/ingredient/specific product/non-drug/other → optionally add severity and comments → Save.
-- *Allergy:* ✏️ Add → search for the substance the patient named (e.g. a medication or food) → tick active or inactive → untick everything else (e.g. include in summaries/save as reason for visit) → Save. If none known: View Record → Reactions → tick "Nil known."
+- *Past history:* ✏️ Search → type the item the patient wrote (e.g. "hypertension") → find in drug class/ingredient/specific product/non-drug/other → tick active or inactive → optionally add severity and comments → Save.
+- *Allergy:* ✏️ Add → search for the substance the patient named (e.g. a medication or food) → untick everything else (e.g. include in summaries/save as reason for visit) → Save. If none known: View Record → Reactions → tick "Nil known."
 - *Any skin cancer related history:* ✏️ View Record (top of profile) → comment → double-click on-screen comment (e.g. "Melanoma 6mthly check") → Save.
 - *Booking warnings:* use Appointment Notes for any warnings (e.g. "Patient Rude"). Use "GG Pending" / "Gift given" / "GG Done" for Google Review gift tracking.
 - *Merge duplicate patient files:* ✏️ BP Premier → View → Patient List (F10) → search patient name → select the file to **keep** → Edit → Merge → search for the profile to merge in.
