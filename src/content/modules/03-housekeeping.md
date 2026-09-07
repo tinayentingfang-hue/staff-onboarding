@@ -64,8 +64,6 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 - Tubes for smoke extractor, bed rolls, bluey, disposable cover drapes, rubbish, water for Nordlys service
 - Basket, blanket for women who want a soft cover
 
-**Staff Room:** a space for staff to rest and take breaks. See [Module 2: Clinic Policies](/modules/clinic-policies) for staff room rules.
-
 ## 6. Reception Storage
 
 ![Reception storage cabinets beneath the illuminated ISO sign, holding trays, laminator, and stationery](/images/modules/introduction-orientation/reception-storage-cabinets.jpg)
@@ -100,7 +98,8 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 - Dissection scissors, Olsen-Hegar (regular and large), Iris scissors, blunt scissors
 - Jars, skin markers, stitch cutters, corneal shield, disposable instruments
 
-**Recovery Room**
+**Recovery Room / Staff Room**
+- Doubles as the staff room when it isn't being used for patient recovery — staff can have lunch here. See [Module 2: Clinic Policies](/modules/clinic-policies) for staff room rules.
 - Paper towels, bed rolls
 
 ## 8. Clinical Bed Setup & Safety
