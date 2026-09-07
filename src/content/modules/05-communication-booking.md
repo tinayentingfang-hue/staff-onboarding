@@ -7,7 +7,7 @@ Answer all calls with: *"ISO Skin Cancer & Laser Clinic, [Your Name] speaking. H
 If the caller's name is displayed and you recognise them as a patient, greet them by name to make the interaction more personal — for example: *"Hi Tina, this is [Your Name]. How can I help you?"* Use the patient's name whenever appropriate, but make sure you're confident you've identified the correct caller.
 
 **Patients at reception take priority**
-If a patient is waiting or approaches the front desk, attend to the patient in front of you first. Allow incoming phone calls to go through to Jess, our AI receptionist, while you assist the patient in the clinic.
+If a patient is waiting or approaches the front desk, attend to the patient in front of you first. Allow incoming phone calls to go through to Jess, our Cliniva AI receptionist, while you assist the patient in the clinic.
 
 Priority order:
 1. Patients physically present in the clinic
