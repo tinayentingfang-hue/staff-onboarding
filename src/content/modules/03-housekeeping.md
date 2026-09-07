@@ -17,7 +17,13 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 - Night box for Infinity Pathology: use the night box key; contact Infinity for afterhours collection.
 - Mail Box 209: check mail every Tuesday and Friday.
 
-## 4. Room 1 — Procedure Room
+## 4. Floor Plan
+
+![ISO Clinic floor plan showing Entry, Reception, Waiting, Room 1 (Theatre), the Hidden Kitchen, Recovery, Sterilisation, and Room 2 (Laser/Consult)](/images/modules/housekeeping/clinic-floor-plan.png)
+
+Use this for orientation — it shows how Reception, Waiting, Sterilisation, Room 1, Room 2, and Recovery all connect.
+
+## 5. Room 1 — Procedure Room
 
 **Room 1 – Procedure Room:** primarily used for routine skin checks and minor procedures.
 
@@ -40,7 +46,7 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 - Blanket for female patients who prefer a soft cover, rubbish bins
 - Blue disposable cover drape (for women who prefer a clean cover), bed rolls
 
-## 5. Room 2 — Laser Room
+## 6. Room 2 — Laser Room
 
 **Room 2 – Laser Room:** designated for laser treatments and related services.
 
@@ -64,7 +70,7 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 - Tubes for smoke extractor, bed rolls, bluey, disposable cover drapes, rubbish, water for Nordlys service
 - Basket, blanket for women who want a soft cover
 
-## 6. Reception Storage
+## 7. Reception Storage
 
 ![Reception storage cabinets beneath the illuminated ISO sign, holding trays, laminator, and stationery](/images/modules/introduction-orientation/reception-storage-cabinets.jpg)
 
@@ -86,7 +92,7 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 
 **Laminator use:** ✏️ plug in → turn on power → select heat setting → wait for green "ready" light → insert document with the closed end first → feed slowly and evenly, leaving enough space to avoid overheating at the finish side → turn off and unplug when finished.
 
-## 7. Steri Room & Recovery Room
+## 8. Steri Room & Recovery Room
 
 **Steri Room**
 - Chlorhex cotton buds, wet wipes, gauze, sterile sachets, histo jars, razor blades
@@ -102,7 +108,7 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 - Doubles as the staff room when it isn't being used for patient recovery — staff can have lunch here. See [Module 2: Clinic Policies](/modules/clinic-policies) for staff room rules.
 - Paper towels, bed rolls
 
-## 8. Clinical Bed Setup & Safety
+## 9. Clinical Bed Setup & Safety
 
 ![Treatment room set up correctly, with the reclining patient bed covered in disposable paper, stool positioned beside it, and sharps bin in place](/images/modules/facility-maintenance-daily-ops/clinical-bed-setup-room.jpg)
 
@@ -114,7 +120,7 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 
 ![Close-up of the paper roll dispenser mounted under the clinical bed, used to check that bed rolls are stocked](/images/modules/facility-maintenance-daily-ops/bed-roll-paper-dispenser.jpg)
 
-## 9. Busy Hours
+## 10. Busy Hours
 
 **What's urgent?**
 - Anyone not safe, patient not happy, bleeding non-stop, pending script, pain, urgent result.
@@ -126,13 +132,13 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 2. Undress the patient for a full skin check in Room 1 — offer a blanket/drape for female patients only. Dr Jack positions patients face down; Dr Tina positions patients face up.
 3. Help doctors clean up and get the next patient ready.
 
-## 10. Cryotherapy Equipment Handling (Liquid Nitrogen)
+## 11. Cryotherapy Equipment Handling (Liquid Nitrogen)
 
 - **Filling up:** wear gloves and eye protection.
 - **Emptying out:** pour any leftover liquid back into the tank — be careful of the fragile stick.
 - Use 1–2 scoops.
 
-## 11. Everyday Cleaning Tasks
+## 12. Everyday Cleaning Tasks
 
 Allocate at least 30 minutes each day for these essential duties.
 
@@ -153,7 +159,7 @@ Allocate at least 30 minutes each day for these essential duties.
 
 Each day also has a deep-cleaning task assigned according to the day of the week, included in the daily task list.
 
-## 12. Medical & Clinical Supplies — Ordering
+## 13. Medical & Clinical Supplies — Ordering
 
 **Compounding & pharmacy suppliers**
 - East Coast Compounding (numbing cream, ALA/PDT cream): (07) 3822 6444, info@eastcoastcompounding.com.au
@@ -175,6 +181,6 @@ Each day also has a deep-cleaning task assigned according to the day of the week
 **Surgical masks**
 - Purchase from the ground floor pharmacy. Either take cash from the cash box and log it (keep the invoice), or pay yourself and Dr Tina Fang will reimburse you against the invoice.
 
-## 13. End-of-Day Handover
+## 14. End-of-Day Handover
 
 Nobody enjoys catching up on yesterday's phone calls or cleaning. Please complete both the day's phone call follow-ups from Jess (our Cliniva AI receptionist) and the cleaning tasks above before you leave, so the team coming in tomorrow can start their day fresh rather than working through what was left over.
