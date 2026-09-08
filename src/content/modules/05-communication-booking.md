@@ -144,12 +144,14 @@ These are our SMS templates set up in Best Practice:
 | Dr Unavailable | Appointment |
 | FSE Due | Appointment |
 
-| Colour/Type | Purpose | Timing |
-|---|---|---|
-| New Bookings (Dr), "1 Day PDT Green" | Reminder for patients scheduled for 3-hour PDT procedures. Note: no numbing cream required for PDT. | 1 day prior |
-| New Bookings (Tech), "1 Day Green" | Reminder for patients who have already confirmed, to help reduce no-shows. | 1 day prior |
-| Orange, "1 week reminder" | Sent for GG Review (ISO Skin Cancer) and GG Review (Cosmetic): anyone who had skin-cancer-related work, or cosmetic treatment with Dr Tina or a Technician. Some appointments were booked up to a year ago, so expect follow-up calls from patients unaware they had a booking. | Day before / 1 week prior |
-| New Patient Registration Link | Gives new patients a link to complete registration online, reducing paperwork and speeding up intake on busy days. | Sent when trying to reach patients to reschedule |
+**What the template names mean**
+- **(DR) / (Therapist) / (LED):** which type of provider the appointment is with.
+- **Green:** the patient has already confirmed the booking; the Green template is a follow-up reminder sent again closer to the appointment date.
+- **PDT** (1Day PDT, 1wk PDT): sent separately from the standard Green/Orange templates because the message needs to tell the patient the treatment itself takes around 3 hours.
+- **1wk Routine Skin:** for patients whose appointment was booked well in advance, e.g. 12 months ago at their last visit. The message must state the appointment is for their routine skin cancer check-up, since the patient won't necessarily remember booking it.
+- **New Pt Registration Link:** gives new patients a link to complete registration online, reducing paperwork and speeding up intake on busy days; sent when trying to reach patients to reschedule.
+
+> ⚠️ **Content note:** Tina should confirm what Orange, Google Skin Cancer, Google Cosmetic, Benign Results, Dr Unavailable, and FSE Due are each used for before staff rely on this list.
 
 ✏️ **BP steps:** Appointment Book → left-click patient's name → Utilities → Send Message → select template → (manually change the time for patients coming in for numbing cream) → Send.
 
