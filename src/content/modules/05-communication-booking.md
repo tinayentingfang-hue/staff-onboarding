@@ -147,11 +147,12 @@ These are our SMS templates set up in Best Practice:
 **What the template names mean**
 - **(DR) / (Therapist) / (LED):** which type of provider the appointment is with.
 - **Green:** the patient has already confirmed the booking; the Green template is a follow-up reminder sent again closer to the appointment date.
+- **Orange:** the patient has **not yet confirmed** the booking. If they don't confirm, the appointment is not secured, so follow up until you get a response.
 - **PDT** (1Day PDT, 1wk PDT): sent separately from the standard Green/Orange templates because the message needs to tell the patient the treatment itself takes around 3 hours.
 - **1wk Routine Skin:** for patients whose appointment was booked well in advance, e.g. 12 months ago at their last visit. The message must state the appointment is for their routine skin cancer check-up, since the patient won't necessarily remember booking it.
 - **New Pt Registration Link:** gives new patients a link to complete registration online, reducing paperwork and speeding up intake on busy days; sent when trying to reach patients to reschedule.
 
-> ⚠️ **Content note:** Tina should confirm what Orange, Google Skin Cancer, Google Cosmetic, Benign Results, Dr Unavailable, and FSE Due are each used for before staff rely on this list.
+> ⚠️ **Content note:** Tina should confirm what Google Skin Cancer, Google Cosmetic, Benign Results, Dr Unavailable, and FSE Due are each used for before staff rely on this list.
 
 ✏️ **BP steps:** Appointment Book → left-click patient's name → Utilities → Send Message → select template → (manually change the time for patients coming in for numbing cream) → Send.
 
@@ -159,6 +160,7 @@ These are our SMS templates set up in Best Practice:
 - Every appointment needs a **1-week reminder** and a **1-day reminder**, unless booked less than a week out.
 - Manually adjust the appointment time in the message for any patient with a numbing-cream appointment.
 - Never forget PDT / LED appointments.
+- If a patient hasn't confirmed (still Orange), follow up: an unconfirmed appointment is not a secured booking.
 - When a family comes in together, send **one SMS per family**: add each family member's name and time into the same message.
 - Minimise spaces in the message text to reduce credit cost.
 
