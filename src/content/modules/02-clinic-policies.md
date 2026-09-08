@@ -26,7 +26,7 @@ We're a small clinic, so please be considerate of shared space:
 ## 5. Staff Discounts
 
 - Cosmetic treatments performed by a colleague or by Dr Tina Fang personally: 30% off.
-- Friends & family: 2 × 20% off — valid only for treatments performed by a Registered Nurse or Dermal Clinician. Full fees apply for any service provided by Dr Tina Fang.
+- Friends & family: 2 × 20% off — valid only for treatments performed by a Registered Nurse or Dermal Clinician. Full fees apply if the friend or family member is treated by Dr Tina Fang personally.
 - Skincare: wholesale price +/- shipping fee.
 
 ## 6. Priorities
