@@ -48,13 +48,6 @@ Avoiding duplicate patient files matters: it keeps clinical notes accurate, bill
 **Creating the new patient file (BP steps)**
 ✏️ Appointment book → select the provider's column → right-click the appointment time → New Appointment → search before creating a new patient → New Patient: first name, last name, phone number (for messages), Address Line 1 & Suburb → Comms Consent → select all → Enable → OK → Save.
 
-**New Patient Registration Form**
-- All new patients must complete this form; some may already have submitted it online via isoclinic.com.au/new-patient-form.
-- Online submissions arrive in the Outlook inbox: admin@isoclinic.com.au. Download the form and upload it to the patient's file in Best Practice before their consultation.
-- ✏️ BP steps: left-click the patient's name on bookings → View Record → Correspondence In → Add → select the file → no category, name subject "New Patient Registration" → Save.
-
-![Best Practice Correspondence dialog for uploading the New Patient Registration form: Category left blank, Subject set to "New Patient Registration," then Save](/images/modules/communication-booking/new-patient-registration-bp.png)
-
 **Completing the patient file**
 Over the phone, create the patient's file with the necessary information first — the full details can be completed after the phone call. See [Module 4: Records, Pathology & Patient Photos](/modules/records-pathology-photos) for how to complete past history, allergies, skin cancer history, booking warnings, and merging duplicate files.
 
