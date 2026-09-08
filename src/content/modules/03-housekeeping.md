@@ -88,8 +88,6 @@ Use this for orientation — it shows how Reception, Waiting, Sterilisation, Roo
 3. Remove remaining prescription paper after printing.
 4. Return unused sheets to the top drawer.
 
-**Tyro paper:** needs to be manually rolled during quiet times — pre-roll to keep enough stock ready; only do this when reception is not busy.
-
 **Laminator use:** ✏️ plug in → turn on power → select heat setting → wait for green "ready" light → insert document with the closed end first → feed slowly and evenly, leaving enough space to avoid overheating at the finish side → turn off and unplug when finished.
 
 ## 8. Steri Room & Recovery Room
@@ -137,6 +135,7 @@ Use this for orientation — it shows how Reception, Waiting, Sterilisation, Roo
 - **Filling up:** wear gloves and eye protection.
 - **Emptying out:** pour any leftover liquid back into the tank — be careful of the fragile stick.
 - Use 1–2 scoops.
+- **Ordering more:** when liquid nitrogen is about to run out, contact Coregas Customer Service — 1800 807 203 or customer.services@coregas.com. Quote our account: ISO Skin Cancer & Laser Clinic [10078839].
 
 ## 12. Everyday Cleaning Tasks
 
