@@ -1,7 +1,7 @@
 At ISO, three merchant entities share one Tyro terminal day to day, plus a fourth that only appears when Dr David Fang is covering as backup doctor. See [Module 7: GST, Cash & Entities](/modules/gst-cash-entities) for which merchant ID belongs to which provider. The point of EOD is simple: make sure what Tyro recorded and what Best Practice recorded are the same number, for every provider, every day.
 
 **Stage A: during every transaction, name the receipt**
-Write the patient's name clearly on the Tyro receipt, or staple it to the patient's handwritten BP invoice.
+Write the patient's name clearly on the Tyro receipt.
 
 **Stage B: print the EFTPOS summary, per provider, then settle each merchant on Tyro**
 Repeat this for every provider who worked that day: ISO Skin Cancer, JFu Medical, TF Skin, and Dr David Fang if he's covering.
@@ -12,6 +12,11 @@ Repeat this for every provider who worked that day: ISO Skin Cancer, JFu Medical
 The paper should print out. Repeat for every provider working that day.
 
 **Stage D: reconcile and file, matching the numbers before filing**
-Confirm the dollar amount matches between Tyro and Best Practice for every provider. Staple the receipts to the report and scan. Use extra pages if that's what it takes for every receipt to be legible.
+Confirm the dollar amount matches between Tyro and Best Practice for every provider. Staple each Tyro receipt to the matching entity's report before scanning:
+- TF Skin Tyro receipts → TF Skin report
+- ISO Clinic Tyro receipts → TFang Medical Pty Ltd report
+- JFu Medical Tyro receipts → JFu Medical report
+
+Use extra pages if that's what it takes for every receipt to be legible.
 
 > **Any mismatch:** tell Dr Tina immediately. Don't try to track it down or fix it yourself first.
