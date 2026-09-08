@@ -25,8 +25,8 @@ We're a small clinic, so please be considerate of shared space:
 
 ## 5. Staff Discounts
 
-- All cosmetic services: 30% off.
-- Friends & family: 2× 20% off — Beauty and technician services only. Full fees apply for any of Dr Tina Fang's services.
+- Cosmetic treatments performed by a colleague or by Dr Tina Fang personally: 30% off.
+- Friends & family: 2 × 20% off — valid only for treatments performed by a Registered Nurse or Dermal Clinician. Full fees apply for any service provided by Dr Tina Fang.
 - Skincare: wholesale price +/- shipping fee.
 
 ## 6. Priorities
@@ -42,3 +42,19 @@ Some situations need Dr Tina Fang, Dr Jack Fu, or Dr David Fang's attention righ
 
 **When it's not urgent — wait and summarise**
 For bookings and patient availability, billing, invoicing, IT issues that can't be resolved with IT support, or email/website issues that can't be resolved with Phil — wait until the doctors aren't busy to raise it, or send an end-of-day email summarising them. Dr Tina Fang will work out the next step.
+
+## 7. Staff Medical Consultations
+
+To avoid a conflict of interest, Dr Tina Fang cannot provide medical consultations to staff members, and any such consultation cannot be billed to Medicare. For urgent medical needs, staff may see Dr Jack Fu at Complete Care Doctors — appointments must be booked directly by the staff member.
+
+## 8. Roster & Shift Swaps
+
+If you're unable to work a rostered shift — whether due to illness or any other reason — contact your colleagues directly first to arrange cover. Only contact Dr Tina Fang if you've been unable to arrange cover yourself, or haven't had a response.
+
+## 9. Content Days
+
+Content days (photo/video shoots for the clinic's marketing) take place approximately 2–3 times a year. Attendance is mandatory — everyone's participation is needed, so please ensure you're available.
+
+## 10. Reporting HR Concerns
+
+If you have a concern or conflict involving another staff member, please report it to Dr Jack Fu.
