@@ -40,479 +40,653 @@ const MODULES = [
 ];
 
 const QUIZZES = {
-  introduction: [
+  "introduction": [
     {
-      q: "Where is ISO Skin Cancer & Laser Clinic located?",
-      options: [
-        "Suite 209, 1808 Logan Road, Upper Mount Gravatt",
-        "Suite 105, 1808 Logan Road, Upper Mount Gravatt",
-        "Suite 12, 200 Kessels Road, Upper Mount Gravatt",
-        "Suite 209, 1808 Beenleigh Road, Upper Mount Gravatt",
-      ],
+      q: "What type of doctors are Dr Tina Fang and Dr Jack Fu?",
+      options: ["Dermatologists", "GPs with specialised training in skin cancer, cosmetic injectables and laser", "Plastic surgeons", "Oncologists"],
+      correct: 1,
+    },
+    {
+      q: "When is Dr Jack Fu at ISO Clinic?",
+      options: ["Friday mornings", "Monday mornings", "Every afternoon", "Saturday"],
       correct: 0,
     },
     {
-      q: "If no staff parking is available on Basement Level 2 (B2), what should you do?",
-      options: [
-        "Park in a reserved Body Corporate space",
-        "Use street parking",
-        "Leave the car in the loading zone",
-        "Wait in the car park until a space opens up",
-      ],
+      q: "What does Dr Tina Fang place a strong emphasis on?",
+      options: ["Marketing", "Efficiency: doing things the most effective way", "Hiring more doctors", "Opening a second location"],
       correct: 1,
     },
     {
-      q: "What does Dr Tina Fang emphasise so the clinic has more face-to-face time with patients?",
-      options: [
-        "Hiring more reception staff",
-        "Efficiency: doing things the most effective way",
-        "Shorter appointment times for everyone",
-        "Closing the clinic earlier",
-      ],
+      q: "What happens to patients who display rude or inappropriate behaviour?",
+      options: ["Nothing, the patient is always right", "They are kindly declined further service", "They are given a discount to apologise", "Only Dr Tina can address it"],
       correct: 1,
     },
     {
-      q: "What happens if a patient is rude or behaves inappropriately toward staff?",
-      options: [
-        "Nothing, the patient is always right",
-        "They are kindly declined further service",
-        "They are given a discount to apologise",
-        "Only Dr Tina can address it",
-      ],
+      q: "Is staff parking provided on-site?",
+      options: ["Yes, a dedicated staff car park", "No, staff parking is not provided on-site", "Only for doctors", "Only on weekends"],
       correct: 1,
     },
     {
-      q: "Who should you contact for IT support issues at the clinic?",
-      options: ["Ivy Chin", "Light Source Computing", "Phil at World Class Creatives", "Charles"],
+      q: "Who should you contact for payroll questions?",
+      options: ["Ivy Chin", "Phil at World Class Creatives", "Charles", "Denise Curtis"],
+      correct: 0,
+    },
+    {
+      q: "Who handles IT support for the clinic?",
+      options: ["Breeze Connect", "Light Source Computing", "World Class Creatives", "Infinity Pathology"],
+      correct: 1,
+    },
+    {
+      q: "Who should you contact for website or email issues?",
+      options: ["Ivy Chin", "Charles", "Phil at World Class Creatives", "Light Source Computing"],
+      correct: 2,
+    },
+    {
+      q: "Where should you check for a contact not listed in Module 1?",
+      options: ["Ask Dr Jack Fu", "The contacts spreadsheet in the Admin folder on the S Drive", "Call Infinity Pathology", "Check the reception noticeboard"],
       correct: 1,
     },
   ],
+
   "clinic-policies": [
     {
-      q: "What is ISO's fragrance policy for staff?",
-      options: [
-        "Any fragrance is fine as long as it's not overpowering indoors",
-        "Only fragrance-free products are allowed on shift",
-        "No strong perfume or cologne: light or no fragrance is preferred",
-        "Fragrance is only restricted in Room 2",
-      ],
+      q: "What is the clinic's fragrance policy?",
+      options: ["Any fragrance is fine", "No strong perfume or cologne; light or no fragrance is preferred", "Fragrance is banned entirely", "Only restricted in Room 2"],
+      correct: 1,
+    },
+    {
+      q: "What is the mandatory break requirement for shifts of 5 hours or more?",
+      options: ["No break required", "15-minute break", "30-minute break", "1-hour break"],
       correct: 2,
     },
     {
       q: "When two staff members are on duty, what's the rule about breaks?",
-      options: [
-        "They should take breaks together to save time",
-        "Breaks are not permitted during a shift",
-        "One staff member must always remain at reception: do not take breaks together",
-        "Breaks can only be taken after 3pm",
-      ],
+      options: ["Take breaks together to save time", "One staff member must always be at reception; don't take breaks together", "Breaks are not permitted", "Breaks can only be taken after 3pm"],
+      correct: 1,
+    },
+    {
+      q: "What is the staff discount for cosmetic treatments performed by a colleague or by Dr Tina Fang personally?",
+      options: ["10% off", "20% off", "30% off", "50% off"],
       correct: 2,
     },
     {
-      q: "Why should food with strong odours be avoided in the staff room?",
-      options: [
-        "It's against health regulations",
-        "We're a small clinic and it lingers for patients and colleagues",
-        "The microwave can't handle it",
-        "Dr Tina Fang dislikes the smell of all food",
-      ],
-      correct: 1,
+      q: "What is the friends & family discount, and who must perform the treatment?",
+      options: ["2 x 20% off, only by a Registered Nurse or Dermal Clinician", "2 x 30% off, any provider", "1 x 50% off, Dr Tina Fang only", "No discount is available"],
+      correct: 0,
     },
     {
-      q: "What should you do with your personal belongings at the end of a shift?",
-      options: [
-        "Leave them in the staff room overnight",
-        "Take all personal items home: nothing should be left in the clinic",
-        "Store them in the reception desk drawers",
-        "Leave them in Room 1 or Room 2",
-      ],
-      correct: 1,
+      q: "What applies if a friend or family member is treated by Dr Tina Fang personally?",
+      options: ["30% off", "20% off", "Full fees apply", "Free of charge"],
+      correct: 2,
     },
     {
       q: "Which of these needs a doctor's attention immediately, without second-guessing?",
-      options: [
-        "A billing question from a patient",
-        "An allergic reaction, of any degree",
-        "An IT issue with the computer",
-        "A booking availability question",
-      ],
-      correct: 1,
-    },
-  ],
-  housekeeping: [
-    {
-      q: "Why are shared consumables like gauze and micropore stocked identically in Room 1 and Room 2?",
-      options: [
-        "So each room can specialise in only one type of procedure",
-        "So whichever room you're in, you always know where to look",
-        "To save money on ordering",
-        "Because Room 1 and Room 2 are never used on the same day",
-      ],
-      correct: 1,
-    },
-    {
-      q: "What should be done with cardboard boxes before disposal?",
-      options: ["Left as-is in the bin", "Flattened", "Burned", "Returned to the supplier"],
-      correct: 1,
-    },
-    {
-      q: "Which item is stocked in Printer Tray 2?",
-      options: ["Blank paper", "Prescription paper", "Pathology paper", "Laminator sheets"],
+      options: ["A billing question", "An IT issue", "Vascular occlusion", "A scheduling question"],
       correct: 2,
     },
     {
-      q: "How much liquid nitrogen should typically be used per cryotherapy application?",
-      options: ["A full tank", "1–2 scoops", "5 scoops", "None, it's applied undiluted from the bottle"],
+      q: "What should you do with non-urgent matters like billing or IT issues?",
+      options: ["Interrupt the doctor immediately", "Wait until the doctors aren't busy, or send an end-of-day summary email", "Ignore them", "Handle them without telling the doctor"],
       correct: 1,
     },
     {
-      q: "How much time should be allocated each day for essential cleaning tasks?",
-      options: ["5 minutes", "At least 30 minutes", "2 hours", "Cleaning is only done weekly"],
+      q: "Why can't Dr Tina Fang provide medical consultations to staff members?",
+      options: ["She's not qualified to", "To avoid a conflict of interest, and it can't be billed to Medicare", "Staff aren't allowed to see any doctor", "It's against clinic hours policy"],
       correct: 1,
     },
     {
-      q: "What two things should be completed before staff leave each day?",
-      options: [
-        "Cliniva AI phone call follow-ups and the cleaning tasks",
-        "Only the cleaning tasks",
-        "Only the Cliniva AI calls",
-        "Restocking Room 1 only",
-      ],
-      correct: 0,
+      q: "What should you do first if you can't work a rostered shift?",
+      options: ["Contact Dr Tina Fang immediately", "Contact your colleagues directly to arrange cover", "Just don't show up", "Post in the group chat and wait"],
+      correct: 1,
+    },
+    {
+      q: "How often do Content Days happen?",
+      options: ["Once a month", "Approximately 2-3 times a year", "Every week", "Once a year only"],
+      correct: 1,
+    },
+    {
+      q: "Who is the primary contact for HR concerns involving another staff member?",
+      options: ["Dr Tina Fang", "Dr Jack Fu", "Ivy Chin", "The reception manager"],
+      correct: 1,
     },
   ],
+
+  "housekeeping": [
+    {
+      q: "Why are shared consumables stored in the same place in both rooms?",
+      options: ["It's an insurance requirement", "So whichever room you're in, you always know where to look", "Room 2 is bigger", "Medicare requires it"],
+      correct: 1,
+    },
+    {
+      q: "What must be done to cardboard boxes before disposal?",
+      options: ["Recycled separately from other rubbish", "Flattened", "Burned", "Left in Room 1"],
+      correct: 1,
+    },
+    {
+      q: "How often should Mail Box 209 be checked?",
+      options: ["Daily", "Every Tuesday and Friday", "Once a week", "Only when expecting mail"],
+      correct: 1,
+    },
+    {
+      q: "What is Room 1 primarily used for?",
+      options: ["Laser treatments", "Routine skin checks and minor procedures", "Staff breaks", "IV wellness drips only"],
+      correct: 1,
+    },
+    {
+      q: "What is Room 2 designated for?",
+      options: ["Skin biopsies", "Laser treatments and related services", "Reception overflow", "Pathology storage"],
+      correct: 1,
+    },
+    {
+      q: "What is the ideal fill level for printer paper trays?",
+      options: ["100%", "80%", "50%", "20%"],
+      correct: 1,
+    },
+    {
+      q: "At what fill level should printer trays be refilled?",
+      options: ["Below 40%", "Below 90%", "Only when completely empty", "Never; refill daily regardless"],
+      correct: 0,
+    },
+    {
+      q: "What doubles as the staff room when it isn't being used for patient recovery?",
+      options: ["Room 1", "Room 2", "The Recovery Room", "Reception"],
+      correct: 2,
+    },
+    {
+      q: "What's checked on the clinical bed setup for safety?",
+      options: ["Only the sheets", "That all 4 wheels are locked", "Only the foot control", "Nothing; beds are pre-checked weekly"],
+      correct: 1,
+    },
+    {
+      q: "How many scoops of liquid nitrogen should typically be used for cryotherapy?",
+      options: ["A full tank", "1-2 scoops", "5 scoops", "None; it's applied undiluted from the bottle"],
+      correct: 1,
+    },
+    {
+      q: "Who do you contact to order more liquid nitrogen?",
+      options: ["East Coast Compounding", "Coregas Customer Service", "TerryWhite Chemmart", "IWG Compounding"],
+      correct: 1,
+    },
+    {
+      q: "How much time should be allocated for everyday cleaning tasks?",
+      options: ["10 minutes", "At least 30 minutes each day", "2 hours", "Only on Fridays"],
+      correct: 1,
+    },
+    {
+      q: "Which of these counts as urgent during busy hours?",
+      options: ["A billing question", "Bleeding non-stop", "A scheduling conflict", "An IT issue"],
+      correct: 1,
+    },
+    {
+      q: "What must be completed before you leave at the end of the day?",
+      options: ["Only the cleaning tasks", "Only the phone call follow-ups", "Both the day's phone call follow-ups and the cleaning tasks", "Neither; it can wait until tomorrow"],
+      correct: 2,
+    },
+  ],
+
   "records-pathology-photos": [
     {
-      q: "When a patient calls asking about histology results, what's best practice?",
-      options: [
-        "Always disclose the result immediately",
-        "Check with the doctors first before disclosing the result",
-        "Refuse to discuss it under any circumstances",
-        "Tell them to check their MyGov account",
-      ],
+      q: "What should you do if a patient has no known allergies?",
+      options: ["Leave the allergy field blank", "View Record → Reactions → tick \"Nil known\"", "Write \"unknown\" in the notes", "Ask the patient to fill in a separate form"],
       correct: 1,
     },
     {
-      q: "Where are pathology records filed?",
-      options: [
-        "Email inbox only",
-        "S Drive → Pathology → YYYY.MM.DD",
-        "Printed and stored in a binder only",
-        "Patient's phone via SMS",
-      ],
+      q: "When should the New Patient Registration Form be prepared?",
+      options: ["The morning of the appointment", "The day before, for the next day's patients", "A week in advance", "It's never needed if submitted online"],
       correct: 1,
     },
     {
-      q: "How should patient photos be named?",
-      options: [
-        "By the patient's first name only",
-        "By the date taken, in the format YYYY.MM.DD",
-        "By a random reference number",
-        "By the doctor's initials",
-      ],
+      q: "Which treatments do NOT require a consent form?",
+      options: ["Botox and filler", "Consultations, cryotherapy, and wart treatment", "PDT and Cosmetic Mole Removal", "All treatments require a consent form"],
       correct: 1,
     },
     {
-      q: "How long should patients expect to wait for biopsy results?",
-      options: ["24 hours", "3 days", "7 working days", "1 month"],
+      q: "How long does consent stay valid for Botox, skin boosters, and laser/IPL/microneedling/chemical peel treatments?",
+      options: ["1 month", "6 months", "12 months", "Indefinitely"],
       correct: 2,
     },
+    {
+      q: "Do major procedures like dermal filler or PDT need a fresh consent even if the patient's existing consent is within 12 months?",
+      options: ["No, the existing consent covers everything", "Yes, major procedures always need a fresh consent", "Only if the patient asks for one", "Only for new patients"],
+      correct: 1,
+    },
+    {
+      q: "Why personalise a consent form before printing it, rather than printing on autopilot?",
+      options: ["It's a legal requirement", "It reflects the individual, considered care the clinic wants every patient to feel", "It saves paper", "It's faster to print"],
+      correct: 1,
+    },
+    {
+      q: "What is a Solar Keratosis?",
+      options: ["A serious, life-threatening skin cancer", "A rough, scaly precancerous patch caused by long-term UV damage", "A benign mole", "An infection"],
+      correct: 1,
+    },
+    {
+      q: "What's the difference between IEC and SCC?",
+      options: ["They are unrelated conditions", "IEC is an early, superficial form confined to the top layer; SCC can invade deeper tissue", "SCC is always benign", "IEC only occurs on the scalp"],
+      correct: 1,
+    },
+    {
+      q: "What is best practice when a patient calls to ask about histology results?",
+      options: ["Tell them immediately over the phone", "Check with the doctors first before disclosing the result", "Refuse to discuss it at all", "Email the result without checking first"],
+      correct: 1,
+    },
+    {
+      q: "What should you offer if a patient calls with questions after a benign-result message?",
+      options: ["Nothing, the message is sufficient", "Offer to email the result for their reference", "Book them in for another skin check", "Transfer them to Dr Tina Fang"],
+      correct: 1,
+    },
+    {
+      q: "Where do you find a pathology report the doctor has already checked?",
+      options: ["BP Premier under the doctor's queue", "View Record → Investigation Reports", "The S Drive", "Call Infinity Pathology"],
+      correct: 1,
+    },
+    {
+      q: "What number do you call for an urgent pathology report?",
+      options: ["1300 855 926", "1300 007 284", "1800 807 203", "07 3123 8888"],
+      correct: 1,
+    },
+    {
+      q: "What format should patient photos be named in?",
+      options: ["DD.MM.YYYY", "YYYY.MM.DD", "The patient's name only", "A random file number"],
+      correct: 1,
+    },
+    {
+      q: "Where should patient photos be stored?",
+      options: ["On the reception computer desktop", "The S Drive, under \"Patient photos to keep\"", "Personal phones", "They aren't stored, just AirDropped and deleted"],
+      correct: 1,
+    },
+    {
+      q: "How often should documents be scanned?",
+      options: ["Every day, without exception", "Once a week, or whenever the clinic is quiet", "Only at the end of the month", "Never; everything stays on paper"],
+      correct: 1,
+    },
+    {
+      q: "What's the exception to scanning documents into the \"Scan 2\" folder?",
+      options: ["Patient consent forms", "End-of-day (EOD) reconciliation paperwork", "Prescription paper", "There is no exception"],
+      correct: 1,
+    },
+    {
+      q: "How should you scan documents to USB?",
+      options: ["All at once, in a batch", "One file at a time", "Only in PDF format", "Scanning to USB isn't allowed"],
+      correct: 1,
+    },
   ],
+
   "communication-booking": [
     {
-      q: "If a patient is waiting at reception and the phone rings at the same time, what should you do?",
-      options: [
-        "Answer the phone first: the patient can wait",
-        "Attend to the patient at reception first, and let the call go to Jess, our Cliniva AI receptionist",
-        "Ignore both until you're free",
-        "Put the patient on hold and answer the phone",
-      ],
+      q: "What is the standard phone greeting?",
+      options: ["\"ISO Clinic, how can I help?\"", "\"ISO Skin Cancer & Laser Clinic, [Your Name] speaking. How can I help you?\"", "\"Good morning, ISO Clinic speaking\"", "\"Thank you for calling, please hold\""],
       correct: 1,
     },
     {
-      q: "What should you never say to a patient about the schedule?",
-      options: [
-        "\"That slot is booked, but I have an alternative time.\"",
-        "\"Let me check with the doctor.\"",
-        "\"Would you prefer morning or afternoon?\"",
-        "\"That time isn't available.\"",
-      ],
+      q: "If a patient is at reception and the phone rings, what takes priority?",
+      options: ["The phone call", "The patient physically present in the clinic", "Whichever happened first", "Neither; let Jess handle both"],
       correct: 1,
     },
     {
-      q: "A patient walks in late without apologising. What's the correct response?",
-      options: [
-        "Point out that they're late",
-        "Simply check them in and say nothing further about the lateness",
-        "Ask them to reschedule immediately",
-        "Explain how it affects the doctor's schedule",
-      ],
+      q: "When does full body photography start, and what does it cost?",
+      options: ["Immediately, $100 per visit", "From January, $50 per visit", "From July, $75 per visit", "Free with every skin check"],
       correct: 1,
     },
     {
-      q: "Should appointment reminder SMS messages be sent individually or in batches?",
-      options: [
-        "In batches, to save time",
-        "Individually, to avoid mistakes",
-        "It doesn't matter",
-        "Only in batches after 5pm",
-      ],
+      q: "Does full body photography replace the doctor's Full Skin Examination (FSE)?",
+      options: ["Yes, it's the same appointment", "No, it's a separate appointment and doesn't replace the doctor's skin check", "Only for new patients", "Only if requested in advance"],
       correct: 1,
     },
     {
-      q: "When a family comes in together, how should you send appointment reminders?",
-      options: [
-        "Send one SMS per family member",
-        "Don't send SMS to families",
-        "Send one SMS per family, listing everyone's name and time",
-        "Call each family member instead",
-      ],
-      correct: 2,
-    },
-    {
-      q: "When replying to a negative Google review on behalf of the clinic, what should you do?",
-      options: [
-        "Argue with the reviewer publicly",
-        "Disclose the patient's treatment details to prove them wrong",
-        "Reply briefly and professionally, invite them to contact the clinic directly, and flag it to Dr Tina Fang",
-        "Delete the review",
-      ],
-      correct: 2,
-    },
-    {
-      q: "What is the first of the \"4 steps\" after every procedure (FSE, Spot Check, Biopsy, etc.)?",
-      options: [
-        "Book the next appointment immediately",
-        "Check if the patient is happy: \"How did it go?\"",
-        "Take payment first",
-        "Print the aftercare sheet",
-      ],
-      correct: 1,
-    },
-  ],
-  services: [
-    {
-      q: "A patient asks online if you can check a mole for them. Which brand handles this?",
-      options: [
-        "ISO Clinic",
-        "Dr Tina Fang",
-        "Either brand, doesn't matter",
-        "Neither, refer them elsewhere",
-      ],
+      q: "What forms of ID can be used to confirm a new patient's identity?",
+      options: ["Medicare card or driver's licence", "Passport only", "Verbal confirmation is enough", "A utility bill"],
       correct: 0,
     },
     {
-      q: "How long is a standard skin check appointment?",
-      options: ["10 minutes", "15 minutes", "30 minutes", "45 minutes"],
+      q: "Why does it matter whether a patient has been to the Upper Mt Gravatt clinic specifically?",
+      options: ["It doesn't matter; any location counts", "Patients may have seen the doctor elsewhere and still need a new ISO file", "Only Medicare requires it", "It affects which SMS template is used"],
       correct: 1,
     },
     {
-      q: "What is the price and Medicare rebate for a Full Skin Check?",
-      options: [
-        "$100, rebate $45.05",
-        "$150, rebate $45.05",
-        "$150, no rebate",
-        "$200, rebate $100",
-      ],
+      q: "For phone bookings, what can staff do that they can't do for online bookings?",
+      options: ["Nothing; they're treated the same", "Guide patients toward times that reduce schedule gaps", "Cancel other patients' appointments", "Offer bulk billing"],
       correct: 1,
     },
     {
-      q: "Which days is Photodynamic Therapy (PDT) available?",
-      options: [
-        "Monday, Wednesday, Friday afternoons",
-        "Tuesday, Thursday and Friday mornings",
-        "Every weekday",
-        "Weekends only",
-      ],
+      q: "Why should staff never say \"Let me check with the doctor\"?",
+      options: ["It's rude", "It signals negotiation and invites pressure", "Doctors don't like being asked", "It wastes time"],
       correct: 1,
     },
     {
-      q: "A patient asks over email how much Botox costs with Dr Tina Fang. What do you say?",
-      options: [
-        "Quote the per-unit price directly: $12/unit",
-        "Say it's free with a consult",
-        "Refuse, and say pricing can only be discussed at a consultation",
-        "Tell them to check the website",
-      ],
-      correct: 0,
-    },
-    {
-      q: "A Dermal Clinician/Registered Nurse appointment is booked for 1 hour and the patient needs numbing cream. What do you tell them?",
-      options: [
-        "Arrive 30 minutes early for the numbing cream",
-        "Nothing extra: numbing cream time is already included in the 1-hour slot",
-        "Numbing cream isn't available for RN/Clinician treatments",
-        "Book a separate appointment for numbing cream",
-      ],
+      q: "What should staff say if a requested appointment time isn't available?",
+      options: ["Explain exactly why the doctor is busy", "Offer the nearest open slot instead of explaining why", "Say the doctor has gone out", "Tell the patient to call back later"],
       correct: 1,
     },
     {
-      q: "What is the general GST rule for ISO's services?",
-      options: [
-        "All services incur GST",
-        "No services incur GST",
-        "Cosmetic services and products incur GST; most medical services do not",
-        "Only Medicare-billed services incur GST",
-      ],
-      correct: 2,
+      q: "Are cosmetic treatment prices (Botox, filler, etc.) published on the website?",
+      options: ["Yes, always", "No; refer to Module 6: Services and quote directly from there", "Only for existing patients", "Prices are never disclosed over the phone"],
+      correct: 1,
+    },
+    {
+      q: "How should staff respond if a patient apologises for being late?",
+      options: ["Point out that they're late", "Respond warmly, e.g. \"No worries at all, it works out perfectly!\"", "Ignore the apology", "Explain how it disrupts the schedule"],
+      correct: 1,
+    },
+    {
+      q: "What does a \"Green\" SMS template mean?",
+      options: ["The patient has not yet confirmed", "The patient has already confirmed; it's a follow-up reminder sent closer to the date", "The appointment is cancelled", "It's only used for PDT patients"],
+      correct: 1,
+    },
+    {
+      q: "What does an \"Orange\" SMS template mean?",
+      options: ["The patient has confirmed twice", "The patient has not yet confirmed; the appointment isn't secured until they do", "It's a reminder for LED treatments only", "It's sent only to new patients"],
+      correct: 1,
+    },
+    {
+      q: "Why are PDT reminder templates (1Day PDT, 1wk PDT) kept separate from the standard templates?",
+      options: ["PDT patients don't need reminders", "The message needs to tell the patient the treatment takes around 3 hours", "PDT is billed differently", "There is no separate PDT template"],
+      correct: 1,
+    },
+    {
+      q: "Who is the \"1wk Routine Skin\" SMS template for?",
+      options: ["New patients only", "Patients whose appointment was booked well in advance, e.g. 12 months ago", "Patients who cancelled and rebooked", "PDT patients only"],
+      correct: 1,
+    },
+    {
+      q: "How should appointment reminder SMS messages be sent?",
+      options: ["In batches, to save time", "Individually, never in batches", "Only by email", "Only if the patient requests one"],
+      correct: 1,
+    },
+    {
+      q: "When a family comes in together, how many SMS messages should be sent?",
+      options: ["One per family member", "One SMS per family, with all names and times included", "None; families don't need reminders", "Two per family"],
+      correct: 1,
+    },
+    {
+      q: "How should a positive Google review be handled?",
+      options: ["Confirm the reviewer is a patient and thank them", "Thank the reviewer briefly and warmly, without confirming they are a patient", "Ignore it", "Offer them a discount"],
+      correct: 1,
+    },
+    {
+      q: "What is the first step after a Full Skin Exam (FSE)?",
+      options: ["Book the next FSE", "Check if the patient is happy: \"How did it go?\"", "Take payment", "Print a receipt"],
+      correct: 1,
+    },
+    {
+      q: "What is the out-of-pocket payment for 1 biopsy after a Skin Check or Spot Check?",
+      options: ["$25", "$50", "$100", "$150"],
+      correct: 1,
     },
   ],
+
+  "services": [
+    {
+      q: "What's the standard appointment length for Dr Tina Fang's medical aesthetics and hair restoration treatments?",
+      options: ["15 minutes", "30 minutes", "1 hour", "45 minutes"],
+      correct: 1,
+    },
+    {
+      q: "How early should a patient arrive for a Dr Tina Fang appointment requiring numbing cream?",
+      options: ["10 minutes", "30 minutes before", "No early arrival needed", "1 hour before"],
+      correct: 1,
+    },
+    {
+      q: "What is the price of a Full Skin Check?",
+      options: ["$100", "$150", "$200", "$50"],
+      correct: 1,
+    },
+    {
+      q: "What is the gap fee for a single biopsy under the ISO Clinic table?",
+      options: ["$25", "$50", "$75", "$100"],
+      correct: 1,
+    },
+    {
+      q: "What is the PDT price per region?",
+      options: ["$300", "$500", "$700", "$900"],
+      correct: 2,
+    },
+    {
+      q: "Does PDT for early skin cancer need numbing cream?",
+      options: ["Yes, always", "No; Dr Tina infiltrates with local anaesthetic instead", "Only for facial treatment", "Only if the patient requests it"],
+      correct: 1,
+    },
+    {
+      q: "Which product is sold only as a 100-unit vial, not per unit?",
+      options: ["Botox", "Letybo", "Relfydess", "Daxxify"],
+      correct: 3,
+    },
+    {
+      q: "How is HIFU (Ultraformer III) typically priced?",
+      options: ["A flat fee regardless of area", "Per shot or by area, decided after an in-person assessment", "Only by subscription", "It's not offered at ISO"],
+      correct: 1,
+    },
+    {
+      q: "Can IV Wellness therapies be booked under either brand?",
+      options: ["No, ISO Clinic only", "No, Dr Tina Fang only", "Yes, offered under both brands at the same price", "Only for existing patients"],
+      correct: 2,
+    },
+    {
+      q: "If a patient asks online \"How much is Botox?\", what should staff do?",
+      options: ["Say prices aren't available online", "Quote directly from the published price tables", "Ask them to book a consultation first", "Transfer them to Dr Tina Fang"],
+      correct: 1,
+    },
+    {
+      q: "Where should staff look for the full GST and Medicare rebate guide?",
+      options: ["Module 5", "Module 7: GST, Cash & Entities", "Module 9", "It's fully explained in Module 6"],
+      correct: 1,
+    },
+  ],
+
   "gst-cash-entities": [
     {
       q: "What is the general GST rule at ISO?",
-      options: [
-        "Cosmetic services and products incur GST; most medical services do not",
-        "All services incur GST",
-        "No services incur GST",
-        "GST only applies to Medicare items",
-      ],
-      correct: 0,
-    },
-    {
-      q: "Who is allowed to process bulk-billed items?",
-      options: ["Any receptionist", "Only the doctors", "Only Tina", "Anyone, with a manager's verbal approval"],
+      options: ["Everything is GST-free", "Cosmetic services and products carry GST; medical and Medicare items don't", "Only Medicare items carry GST", "GST applies equally to all services"],
       correct: 1,
     },
     {
-      q: "When can you use an instant Medicare rebate?",
-      options: [
-        "Any time the patient asks for it",
-        "Only for item 23 or 36, with a physical debit card",
-        "Only for cosmetic items",
-        "Only on weekends",
-      ],
+      q: "Does Photodynamic Therapy (PDT) carry GST?",
+      options: ["Yes", "No", "Only for cosmetic patients", "Only if billed to the clinic"],
       correct: 1,
     },
     {
-      q: "What must happen with every cash movement, even if the payment is left on hold?",
-      options: [
-        "Nothing, until it's finalised",
-        "It must be logged in the Cash In/Out log",
-        "It must be emailed to Medicare",
-        "It must be counted twice by two staff",
-      ],
+      q: "Does Cosmetic Mole Removal carry GST?",
+      options: ["No", "Yes", "Only for intimate area removals", "Only if paid by card"],
+      correct: 1,
+    },
+    {
+      q: "Who processes bulk-billed (Medicare) items?",
+      options: ["Any staff member", "The doctor only", "Reception, with doctor approval after", "Best Practice does it automatically"],
+      correct: 1,
+    },
+    {
+      q: "Instant Medicare rebates only work for which items, and with what payment method?",
+      options: ["Any item, any card", "Item 23 or 36, with a physical debit card", "Item 45201, with any card", "All Medicare items, cash only"],
+      correct: 1,
+    },
+    {
+      q: "What must happen with every cash movement, whether finalised or on hold?",
+      options: ["Nothing; only finalised payments are logged", "It gets logged in the Cash In/Out log", "It's reported to Medicare", "It's held until end of month"],
+      correct: 1,
+    },
+    {
+      q: "If there's a mismatch between Tyro and Best Practice at end of day, what should you do?",
+      options: ["Try to fix it yourself first", "See Module 9's Stage D for how to handle it", "Ignore it; it will balance out", "Delete the transaction and redo it"],
+      correct: 1,
+    },
+    {
+      q: "What are the two things that happen every time a cash payment is taken, before anything else?",
+      options: ["Print a receipt and email Dr Tina", "The cash goes in the locked box and the movement is logged", "Count the till and call the bank", "Nothing; cash is processed like any other payment"],
+      correct: 1,
+    },
+    {
+      q: "Which Tyro merchant ID represents Dr Tina Fang's cosmetic entity?",
+      options: ["TFang Medical", "TF Skin", "JFu Medical", "Dr David Fang"],
       correct: 1,
     },
     {
       q: "Which Tyro merchant ID represents ISO Skin Clinic?",
-      options: ["JFu Medical", "TF Skin", "TFang Medical", "ISO Cosmetic"],
-      correct: 2,
+      options: ["TFang Medical", "TF Skin", "JFu Medical", "Dr David Fang"],
+      correct: 0,
+    },
+    {
+      q: "When does the \"Dr David Fang\" merchant entity appear on Tyro?",
+      options: ["Every day", "When he's covering as backup doctor, i.e. when Dr Jack Fu and Dr Tina Fang are both away", "Only on weekends", "Never; it's not a real entity"],
+      correct: 1,
+    },
+    {
+      q: "Under the GST table, what is an insurance report billed to?",
+      options: ["The clinic", "The doctor", "Medicare directly", "It's never billed"],
+      correct: 1,
     },
   ],
+
   "create-invoice": [
     {
-      q: "When billing a patient under 18, who should the invoice be billed to?",
-      options: [
-        "The child directly",
-        "The head of family",
-        "Medicare only",
-        "It cannot be billed until they turn 18",
-      ],
+      q: "If a patient is under 18, who should the invoice be billed to?",
+      options: ["The child directly", "The head of family", "Medicare only", "It can't be billed"],
       correct: 1,
     },
     {
-      q: "If EasyClaim fails, how long should you wait before reprocessing the claim?",
-      options: ["Immediately retry", "15 minutes", "24 hours", "7 days"],
+      q: "Do cosmetic items generally bill to the clinic or the doctor?",
+      options: ["The clinic", "The doctor", "Neither; they're bulk billed", "It depends on the patient's age"],
+      correct: 0,
+    },
+    {
+      q: "For instant Medicare rebates, which items and payment method are allowed?",
+      options: ["Any item, any card", "Item 23 or 36, physical debit card only", "All items, physical card only", "Item 30071, any card"],
       correct: 1,
     },
     {
-      q: "What is phone payment (MOTO) used for?",
-      options: [
-        "Any invoice over $500",
-        "Gift cards & deposits only",
-        "Medicare rebates only",
-        "Cosmetic consultations only",
-      ],
+      q: "What should you tell a patient if EasyClaim fails?",
+      options: ["\"We can't process this payment\"", "\"We'll process this online.\"", "\"Come back tomorrow\"", "\"You'll need to pay cash\""],
       correct: 1,
     },
     {
-      q: "Item 45201 (flap repair) must always be billed together with what?",
-      options: ["A biopsy item", "An excision item", "A PDT item", "Nothing else, it's billed alone"],
+      q: "For a Skin Check invoice, which item number is added?",
+      options: ["Item 30071", "Item 23", "Item 31358", "Item 45201"],
       correct: 1,
     },
     {
-      q: "When billing a Skin Check together with a Cosmetic item, what's the correct order?",
-      options: [
-        "Bill them together as one item",
-        "Bill separately: the Cosmetic item first",
-        "Bill separately: the Skin Check first",
-        "Only bill the Cosmetic item",
-      ],
+      q: "How much is added for 1 biopsy on top of a Skin Check or Spot Check?",
+      options: ["$25", "$50", "$75", "$100"],
+      correct: 1,
+    },
+    {
+      q: "For Skin Check & Cosmetics, in what order should items be billed?",
+      options: ["Cosmetic item first, then Skin Check", "Skin Check first, then the Cosmetic item", "They must be billed together in one line", "Order doesn't matter"],
+      correct: 1,
+    },
+    {
+      q: "Where should staff look for the excision tables when billing Skin Excisions?",
+      options: ["Module 6", "Module 9", "Module 10: Medicare Item Numbers", "They aren't documented anywhere"],
       correct: 2,
     },
+    {
+      q: "Which item must be billed together with item 45201 (Skin Flap)?",
+      options: ["A biopsy item", "The related excision item", "A PDT item", "Nothing else; it's billed alone"],
+      correct: 1,
+    },
+    {
+      q: "Can item 45451 (Skin Graft) be billed with or without an excision item?",
+      options: ["No, always with an excision item", "Yes, it can be billed either way", "No, it's a standalone item only", "It cannot be billed at all"],
+      correct: 1,
+    },
   ],
+
   "end-of-day-reconciliation": [
     {
-      q: "In Stage A of end-of-day reconciliation, what should you do with every Tyro receipt?",
-      options: [
-        "Throw it away once payment is taken",
-        "Write the patient's name clearly on it, or staple it to their BP invoice",
-        "Email it to Medicare",
-        "File it under the doctor's name only",
-      ],
+      q: "What is the overall point of the EOD process?",
+      options: ["To count the cash box", "To make sure Tyro and Best Practice recorded the same number, for every provider", "To close the clinic for the night", "To reconcile staff hours"],
       correct: 1,
     },
     {
-      q: "What does Stage B of end-of-day reconciliation involve?",
-      options: [
-        "Printing and settling the EFTPOS summary for each provider on Tyro",
-        "Sending the batch in Best Practice",
-        "Filling the cryotherapy tank",
-        "Emailing Dr Tina a summary",
-      ],
+      q: "What should be written on the Tyro receipt during every transaction (Stage A)?",
+      options: ["The provider's initials only", "The patient's name, clearly", "The item number", "Nothing; receipts are anonymous"],
+      correct: 1,
+    },
+    {
+      q: "In Stage B, what do you do for every provider who worked that day?",
+      options: ["Print the EFTPOS summary and settle each merchant on Tyro", "Email Dr Tina a summary", "Count the till", "Nothing; Stage B is optional"],
       correct: 0,
     },
     {
-      q: "What does Stage C of end-of-day reconciliation involve?",
-      options: [
-        "Sending the batch in Best Practice to bank each provider's takings",
-        "Settling the Tyro terminal",
-        "Writing patient names on receipts",
-        "Restocking the cash box",
-      ],
-      correct: 0,
+      q: "In Stage C, where do you send the batch?",
+      options: ["Tyro only", "Best Practice, to bank each provider's takings", "The bank directly, bypassing Best Practice", "It isn't required daily"],
+      correct: 1,
     },
     {
-      q: "If Tyro and Best Practice don't match at the end of the day, what should you do?",
-      options: [
-        "Adjust the numbers yourself so they match",
-        "Ignore it if the difference is small",
-        "Tell Dr Tina immediately: don't try to track it down or fix it yourself first",
-        "Wait until the next day to check",
-      ],
+      q: "In Stage D, which report should TF Skin Tyro receipts be stapled to?",
+      options: ["The TFang Medical Pty Ltd report", "The JFu Medical report", "The TF Skin report", "They aren't stapled anywhere"],
       correct: 2,
     },
+    {
+      q: "Which report should ISO Clinic Tyro receipts be stapled to?",
+      options: ["The TF Skin report", "The TFang Medical Pty Ltd report", "The JFu Medical report", "The Dr David Fang report"],
+      correct: 1,
+    },
+    {
+      q: "If there's a mismatch, what should you do?",
+      options: ["Try to track it down and fix it yourself first", "Tell Dr Tina immediately", "Wait until the next day", "Ignore small mismatches"],
+      correct: 1,
+    },
+    {
+      q: "Which providers might you need to settle on Tyro on a given day?",
+      options: ["Only ISO Skin Cancer", "ISO Skin Cancer, JFu Medical, TF Skin, and Dr David Fang if covering", "Only doctors, never technicians", "Whichever provider had the most patients"],
+      correct: 1,
+    },
+    {
+      q: "What should you do if extra pages are needed to keep every receipt legible?",
+      options: ["Skip stapling those receipts", "Use extra pages, whatever it takes", "Photograph them instead", "Discard illegible receipts"],
+      correct: 1,
+    },
+    {
+      q: "What does Module 7 tell you, in relation to EOD?",
+      options: ["The excision tables", "Which merchant ID belongs to which provider", "The GST rate", "The invoice walkthroughs"],
+      correct: 1,
+    },
   ],
+
   "medicare-item-numbers": [
     {
-      q: "What MBS item number is used for a standard skin biopsy?",
-      options: ["23", "30071", "31357", "45201"],
+      q: "What body regions are covered under Area 1?",
+      options: ["Trunk, upper arms and thighs", "Nose, eyelid, lip, ear and their contiguous areas, the digit, and the genitals", "Face, scalp, neck, nipple-areola complex, knee and forearm", "Only the face"],
       correct: 1,
     },
     {
-      q: "What should you always double-check before finalising a skin excision bill?",
-      options: ["The patient's postcode", "The gap amount", "The doctor's signature colour", "The appointment length"],
+      q: "What body regions are covered under Area 3?",
+      options: ["Nose, eyelid, lip, ear", "Face, scalp and neck", "Trunk, upper arms and thighs, front and back", "Hands and feet only"],
+      correct: 2,
+    },
+    {
+      q: "What is item number 31358 for?",
+      options: ["Benign excision <6mm, Area 1", "BCC/SCC excision ≥6mm, Area 1", "Melanoma excision <6mm, Area 1", "A biopsy item"],
       correct: 1,
     },
     {
-      q: "Item 45451 is used for which procedure?",
-      options: [
-        "Full thickness skin graft (FTSG)",
-        "Cryotherapy",
-        "Curettage and cautery",
-        "Lip, eyelid, or ear wedge repair",
-      ],
-      correct: 0,
+      q: "What item number is used for a skin biopsy?",
+      options: ["30072", "30071", "31220", "45201"],
+      correct: 1,
     },
     {
-      q: "Which item number is used for curettage and cautery?",
-      options: ["30075", "30062", "30084", "31220"],
-      correct: 0,
+      q: "What must item 45201 (Flap repair) be billed together with?",
+      options: ["Nothing else", "The related excision item", "A biopsy item", "A skin graft item"],
+      correct: 1,
     },
     {
-      q: "What is the Medicare rebate (85%) for item 31358 (BCC/SCC ≥6mm excision, Area 1)?",
-      options: ["$275.60", "$225.20", "$363.25", "$170.95"],
-      correct: 0,
+      q: "What does item 45451 refer to?",
+      options: ["Flap repair", "FTSG, full thickness skin graft", "Oral mucosa flap", "Lipoma removal"],
+      correct: 1,
+    },
+    {
+      q: "As of when were the rebates in Module 10 checked against MBS Online?",
+      options: ["January 2026", "6 September 2026", "December 2025", "They've never been checked"],
+      correct: 1,
+    },
+    {
+      q: "What should staff always do before finalising a bill, according to Module 10?",
+      options: ["Assume the gap is correct", "Double-check the gap amount, and confirm with Tina if in doubt", "Skip the gap check if in a hurry", "Wait for the doctor to check it"],
+      correct: 1,
+    },
+    {
+      q: "Where should staff look for step-by-step invoice walkthroughs using these item numbers?",
+      options: ["Module 6", "Module 7", "Module 8: Create Invoice", "They aren't documented"],
+      correct: 2,
     },
   ],
 };
