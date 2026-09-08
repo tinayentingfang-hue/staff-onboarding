@@ -56,6 +56,12 @@ If a patient calls with questions after receiving a benign-result message — es
 
 Pathology records: S Drive → Pathology → YYYY.MM.DD. Collection is via eDoctors, or phone 1300 007 284.
 
-## 9. Infinity Pathology Collection (eDoctors)
+## 9. Scanning Documents
+
+- Scan once a week, or whenever the clinic is quiet — not as an ongoing daily task.
+- Scan to USB one file at a time, then upload to the S Drive folder **Scan 2**.
+- End-of-day (EOD) reconciliation paperwork is the exception: upload each EOD scan individually to its own allocated S Drive folder — never into Scan 2.
+
+## 10. Infinity Pathology Collection (eDoctors)
 
 Use eDoctors for routine collection requests, or call Infinity Pathology directly (1300 007 284) for urgent requests.
