@@ -114,6 +114,36 @@ Send messages individually to avoid mistakes. **Do not send messages in batches.
 
 **Message templates**
 
+These are our SMS templates set up in Best Practice:
+
+| Name | Type |
+|---|---|
+| New Bookings (DR) | Appointment |
+| New Bookings (Therapist) | Appointment |
+| New Bookings (LED) | Appointment |
+| 1wk Routine Skin | Appointment |
+| 1wk Appt (DR) | Appointment |
+| 1wk Appt (Therapist) | Appointment |
+| 1wk Appt (LED) | Appointment |
+| 1Day Green (DR) | Appointment |
+| 1Day Green (Therapist) | Appointment |
+| 1Day Green (LED) | Appointment |
+| 1Day Orange (DR) | Appointment |
+| 1Day Orange (Therapist) | Appointment |
+| Monday Green (DR) | Appointment |
+| Monday Green (Therapist) | Appointment |
+| Monday Green (LED) | Appointment |
+| Monday Orange (DR) | Appointment |
+| Monday Orange (Therapist) | Appointment |
+| 1Day PDT | Appointment |
+| 1wk PDT | Appointment |
+| New Pt Registration Link | Appointment |
+| Google Skin Cancer | Appointment |
+| Google Cosmetic | Appointment |
+| Benign Results | Appointment |
+| Dr Unavailable | Appointment |
+| FSE Due | Appointment |
+
 | Colour/Type | Purpose | Timing |
 |---|---|---|
 | New Bookings (Dr), "1 Day PDT Green" | Reminder for patients scheduled for 3-hour PDT procedures. Note: no numbing cream required for PDT. | 1 day prior |
