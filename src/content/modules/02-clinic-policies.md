@@ -53,8 +53,8 @@ If you're unable to work a rostered shift — whether due to illness or any othe
 
 ## 9. Content Days
 
-Content days (photo/video shoots for the clinic's marketing) take place approximately 2–3 times a year. Attendance is mandatory — everyone's participation is needed, so please ensure you're available.
+Content days (photo/video shoots for the clinic's marketing) take place approximately 2–3 times a year and will be scheduled in advance as part of everyone's regular roster. Attendance is mandatory — everyone's participation is needed.
 
 ## 10. Reporting HR Concerns
 
-If you have a concern or conflict involving another staff member, please report it to Dr Jack Fu.
+To keep this process independent of day-to-day management, Dr Jack Fu is the primary contact for any concern or conflict involving another staff member. As his time on-site is limited to a few hours, Dr Tina Fang is available as a second point of contact if Dr Jack Fu is unavailable.
