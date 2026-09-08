@@ -65,7 +65,7 @@ const QUIZZES = {
       q: "What does Dr Tina Fang emphasise so the clinic has more face-to-face time with patients?",
       options: [
         "Hiring more reception staff",
-        "Efficiency — doing things the most effective way",
+        "Efficiency: doing things the most effective way",
         "Shorter appointment times for everyone",
         "Closing the clinic earlier",
       ],
@@ -74,7 +74,7 @@ const QUIZZES = {
     {
       q: "What happens if a patient is rude or behaves inappropriately toward staff?",
       options: [
-        "Nothing — the patient is always right",
+        "Nothing, the patient is always right",
         "They are kindly declined further service",
         "They are given a discount to apologise",
         "Only Dr Tina can address it",
@@ -93,7 +93,7 @@ const QUIZZES = {
       options: [
         "Any fragrance is fine as long as it's not overpowering indoors",
         "Only fragrance-free products are allowed on shift",
-        "No strong perfume or cologne — light or no fragrance is preferred",
+        "No strong perfume or cologne: light or no fragrance is preferred",
         "Fragrance is only restricted in Room 2",
       ],
       correct: 2,
@@ -103,7 +103,7 @@ const QUIZZES = {
       options: [
         "They should take breaks together to save time",
         "Breaks are not permitted during a shift",
-        "One staff member must always remain at reception — do not take breaks together",
+        "One staff member must always remain at reception: do not take breaks together",
         "Breaks can only be taken after 3pm",
       ],
       correct: 2,
@@ -122,7 +122,7 @@ const QUIZZES = {
       q: "What should you do with your personal belongings at the end of a shift?",
       options: [
         "Leave them in the staff room overnight",
-        "Take all personal items home — nothing should be left in the clinic",
+        "Take all personal items home: nothing should be left in the clinic",
         "Store them in the reception desk drawers",
         "Leave them in Room 1 or Room 2",
       ],
@@ -162,7 +162,7 @@ const QUIZZES = {
     },
     {
       q: "How much liquid nitrogen should typically be used per cryotherapy application?",
-      options: ["A full tank", "1–2 scoops", "5 scoops", "None — it's applied undiluted from the bottle"],
+      options: ["A full tank", "1–2 scoops", "5 scoops", "None, it's applied undiluted from the bottle"],
       correct: 1,
     },
     {
@@ -222,7 +222,7 @@ const QUIZZES = {
     {
       q: "If a patient is waiting at reception and the phone rings at the same time, what should you do?",
       options: [
-        "Answer the phone first — the patient can wait",
+        "Answer the phone first: the patient can wait",
         "Attend to the patient at reception first, and let the call go to Jess, our Cliniva AI receptionist",
         "Ignore both until you're free",
         "Put the patient on hold and answer the phone",
@@ -283,7 +283,7 @@ const QUIZZES = {
       q: "What is the first of the \"4 steps\" after every procedure (FSE, Spot Check, Biopsy, etc.)?",
       options: [
         "Book the next appointment immediately",
-        "Check if the patient is happy — \"How did it go?\"",
+        "Check if the patient is happy: \"How did it go?\"",
         "Take payment first",
         "Print the aftercare sheet",
       ],
@@ -297,7 +297,7 @@ const QUIZZES = {
         "ISO Clinic",
         "Dr Tina Fang",
         "Either brand, doesn't matter",
-        "Neither — refer them elsewhere",
+        "Neither, refer them elsewhere",
       ],
       correct: 0,
     },
@@ -329,7 +329,7 @@ const QUIZZES = {
     {
       q: "A patient asks over email how much Botox costs with Dr Tina Fang. What do you say?",
       options: [
-        "Quote the per-unit price directly — $12/unit",
+        "Quote the per-unit price directly: $12/unit",
         "Say it's free with a consult",
         "Refuse, and say pricing can only be discussed at a consultation",
         "Tell them to check the website",
@@ -340,7 +340,7 @@ const QUIZZES = {
       q: "A Dermal Clinician/Registered Nurse appointment is booked for 1 hour and the patient needs numbing cream. What do you tell them?",
       options: [
         "Arrive 30 minutes early for the numbing cream",
-        "Nothing extra — numbing cream time is already included in the 1-hour slot",
+        "Nothing extra: numbing cream time is already included in the 1-hour slot",
         "Numbing cream isn't available for RN/Clinician treatments",
         "Book a separate appointment for numbing cream",
       ],
@@ -427,15 +427,15 @@ const QUIZZES = {
     },
     {
       q: "Item 45201 (flap repair) must always be billed together with what?",
-      options: ["A biopsy item", "An excision item", "A PDT item", "Nothing else — it's billed alone"],
+      options: ["A biopsy item", "An excision item", "A PDT item", "Nothing else, it's billed alone"],
       correct: 1,
     },
     {
       q: "When billing a Skin Check together with a Cosmetic item, what's the correct order?",
       options: [
         "Bill them together as one item",
-        "Bill separately — the Cosmetic item first",
-        "Bill separately — the Skin Check first",
+        "Bill separately: the Cosmetic item first",
+        "Bill separately: the Skin Check first",
         "Only bill the Cosmetic item",
       ],
       correct: 2,
@@ -477,7 +477,7 @@ const QUIZZES = {
       options: [
         "Adjust the numbers yourself so they match",
         "Ignore it if the difference is small",
-        "Tell Dr Tina immediately — don't try to track it down or fix it yourself first",
+        "Tell Dr Tina immediately: don't try to track it down or fix it yourself first",
         "Wait until the next day to check",
       ],
       correct: 2,

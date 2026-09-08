@@ -1,4 +1,4 @@
-How to raise an invoice once you know the GST and Medicare rules — see [Module 7: GST, Cash & Entities](/modules/gst-cash-entities) first if you haven't.
+How to raise an invoice once you know the GST and Medicare rules. See [Module 7: GST, Cash & Entities](/modules/gst-cash-entities) first if you haven't.
 
 ## 1. Creating an Invoice
 
@@ -14,7 +14,7 @@ Four questions, in this order, decide how the invoice is built.
 
 ![Decision tree: bulk-billed items go straight to Medicare at no cost to the patient and are processed by the doctor only. Private-fee items are paid in full by the patient, then rebated either instantly on the terminal (only for item 23 or 36 with a physical debit card) or later through an online claim to the patient's Medicare-registered bank account.](/images/modules/billing-financial-procedures/medicare-billing-decision-tree.svg)
 
-> **If you're not sure:** Only use instant rebate for item 23 or 36 with a physical debit card. Not sure if the patient's card is physical, or if they bank with Macquarie? Don't attempt instant rebate — send it through as an online claim instead. Item 23/36 rebates land in about 24 hours; procedure items can take up to 7 days.
+> **If you're not sure:** Only use instant rebate for item 23 or 36 with a physical debit card. Not sure if the patient's card is physical, or if they bank with Macquarie? Don't attempt instant rebate; send it through as an online claim instead. Item 23/36 rebates land in about 24 hours; procedure items can take up to 7 days.
 
 **When EasyClaim fails**
 
@@ -33,7 +33,7 @@ Phone payment (MOTO) is for gift cards & deposits only.
 
 Payment routing: send online to the patient's registered bank account, or process via physical debit/savings card. (No Macquarie Bank for instant rebate.)
 
-![Best Practice payment details screen for a $150 skin check: tick "Pay full amount", then either "Send via Patient Claiming" to send online to the patient's registered bank account, or "Send via Easyclaim" for a physical debit/savings card (not Macquarie Bank) — then click Process](/images/modules/create-invoice/skin-check-payment-screen.png)
+![Best Practice payment details screen for a $150 skin check: tick "Pay full amount", then either "Send via Patient Claiming" to send online to the patient's registered bank account, or "Send via Easyclaim" for a physical debit/savings card (not Macquarie Bank), then click Process](/images/modules/create-invoice/skin-check-payment-screen.png)
 
 **Skin Check & Biopsy**
 
@@ -51,14 +51,14 @@ Add item 30071 onto Skin Check (item 23, $150) or Spot Check (item 23, $100).
 
 **Skin Check & Cosmetics**
 
-Bill separately — always do the Skin Check first, then the Cosmetic item.
+Bill separately: always do the Skin Check first, then the Cosmetic item.
 ✏️ New Account → Provider: Dr → Bill to: Patient / Head of family → select the service (e.g. Cosmetic Mole Removal) → $350 → if the item has GST ticked, must also tick "Fee includes GST" → Pay Now.
 
 ![Account item dialog with Cosmetic Mole Removal (Doctor) double-clicked from the Default list: Fee to Charge 350, "Item has GST" and "Fee includes GST" both ticked](/images/modules/create-invoice/cosmetic-mole-removal-account-item.png)
 
 **Skin Excisions**
 
-Always double-check the gap before finalising. See [Module 10: Medicare Item Numbers](/modules/medicare-item-numbers) for the excision tables.
+See [Module 10: Medicare Item Numbers](/modules/medicare-item-numbers) for the excision tables, and always double-check the gap before finalising.
 
 ![Skin Excisions invoice walkthrough: 1) enter the MBS item number (e.g. 31358) and select the matching description; 2) check the Fee to Charge and fill in Service details (e.g. "nose"); 3) click Add; 4) double-check the Gap amount on Account details; 5) click Pay now](/images/modules/create-invoice/skin-excisions-account-item-walkthrough.jpg)
 
@@ -66,7 +66,7 @@ Always double-check the gap before finalising. See [Module 10: Medicare Item Num
 
 Item **45201** must be billed together with the excision item.
 1. Add item 45201 → double-click → add "Gap" to the MBS rebate (e.g. $410.45 + $450 = $860.45) → service detail (e.g. "arm").
-2. Add another item — the excision number (e.g. 31369) → double-click → change the fee to charge the same as the MBS rebate (e.g. $243.85) → service detail ("arm").
+2. Add another item: the excision number (e.g. 31369) → double-click → change the fee to charge the same as the MBS rebate (e.g. $243.85) → service detail ("arm").
 3. In Notes, record: "45201 related to 31369."
 4. Check the gap matches the doctor's request, then Pay Now.
 
@@ -74,6 +74,6 @@ Item **45201** must be billed together with the excision item.
 
 Item **45451** can be billed with or without an excision item.
 1. Add item 45451 → MBS rebate + gap (e.g. $469.80 + $450 = $919.80) → service detail (e.g. "nose").
-2. Add another item — the excision item (e.g. 31358) → double-click → click MBS Rebate (fee to charge changes accordingly, e.g. $268.60) → service detail ("nose") → Add.
+2. Add another item: the excision item (e.g. 31358) → double-click → click MBS Rebate (fee to charge changes accordingly, e.g. $268.60) → service detail ("nose") → Add.
 3. In Notes, record: "45451 related to 31358."
 4. Check the gap fee before Pay Now.

@@ -1,6 +1,6 @@
 ## 1. Completing the Patient File
 
-Over the phone, we create the patient's file with the necessary information first — the full details below can be completed after the call.
+Over the phone, we create the patient's file with the necessary information first; the full details below can be completed after the call.
 
 - *Past history:* ✏️ Search → type the item the patient wrote (e.g. "hypertension") → find in drug class/ingredient/specific product/non-drug/other → tick active or inactive → optionally add severity and comments → Save.
 - *Allergy:* ✏️ Add → search for the substance the patient named (e.g. a medication or food) → untick everything else (e.g. include in summaries/save as reason for visit) → Save. If none known: View Record → Reactions → tick "Nil known."
@@ -18,16 +18,16 @@ The day before, prepare the forms needed for the next day's patients.
 **Consent forms**
 - Consultations, cryotherapy, and wart treatment don't require a consent form. Every other treatment does.
 - Botox, skin boosters, and laser/IPL/microneedling/chemical peel treatments: consent stays valid for 12 months, since these patients typically return every 1–2 months.
-- Major procedures always need a fresh consent, even if the patient's existing consent is still within 12 months — e.g. dermal filler, Cosmetic Mole Removal, PDT, and collagen stimulator injections (Sculptra, Ellansé).
+- Major procedures always need a fresh consent, even if the patient's existing consent is still within 12 months, e.g. dermal filler, Cosmetic Mole Removal, PDT, and collagen stimulator injections (Sculptra, Ellansé).
 
 **Personalising the form before printing**
-Take an extra minute to personalise each form before printing it, rather than printing on autopilot — a generic, unedited form doesn't reflect the individual, considered care we want every patient to feel, and that attention to detail is core to who we are as a clinic. For example: if you already know which product or brand the patient will choose, remove the other options from the form, and double-check the price on the form matches what was quoted to them.
+Take an extra minute to personalise each form before printing it, rather than printing on autopilot. A generic, unedited form doesn't reflect the individual, considered care we want every patient to feel, and that attention to detail is core to who we are as a clinic. For example: if you already know which product or brand the patient will choose, remove the other options from the form, and double-check the price on the form matches what was quoted to them.
 
 ## 3. Main Types of Histology
 
-- **Solar Keratosis:** a rough, scaly patch on sun-exposed skin caused by long-term UV damage — considered a precancerous lesion.
+- **Solar Keratosis:** a rough, scaly patch on sun-exposed skin caused by long-term UV damage, considered a precancerous lesion.
 - **IEC / SCC:** Intraepidermal Carcinoma is an early, superficial form of Squamous Cell Carcinoma confined to the top layer of skin, whereas SCC can invade deeper tissue and potentially spread if not treated promptly.
-- **BCC (Basal Cell Carcinoma):** the most common type of skin cancer — typically slow-growing and locally invasive, arising from the basal cells of the epidermis, and rarely spreads.
+- **BCC (Basal Cell Carcinoma):** the most common type of skin cancer, typically slow-growing and locally invasive, arising from the basal cells of the epidermis, and rarely spreads.
 - **Melanoma:** a serious and potentially life-threatening form of skin cancer.
 
 ## 4. Handling Patient Calls About Results
@@ -38,11 +38,11 @@ However, if the patient appears anxious, and you have the report in front of you
 
 ## 5. Benign Result Communication
 
-If a patient calls with questions after receiving a benign-result message — especially if the histology terms are hard to pronounce — offer to email the result for their reference. This helps ensure clarity and reassurance.
+If a patient calls with questions after receiving a benign-result message (especially if the histology terms are hard to pronounce), offer to email the result for their reference. This helps ensure clarity and reassurance.
 
 ## 6. Where Is the Report?
 
-- **If already checked by the doctor:** View Record → Investigation Reports (left-hand side). Note: all previous reports are in this folder — confirm date and area to avoid confusion.
+- **If already checked by the doctor:** View Record → Investigation Reports (left-hand side). Note: all previous reports are in this folder, so confirm date and area to avoid confusion.
 - **If not yet checked by the doctor:** find it via BP Premier under the relevant doctor's queue.
 - **If urgent:** call Infinity Pathology on 1300 007 284. Note: if the report is under a referred doctor's name, it will not require a request form.
 
@@ -58,9 +58,9 @@ Pathology records: S Drive → Pathology → YYYY.MM.DD. Collection is via eDoct
 
 ## 9. Scanning Documents
 
-- Scan once a week, or whenever the clinic is quiet — not as an ongoing daily task.
+- Scan once a week, or whenever the clinic is quiet; not as an ongoing daily task.
 - Scan to USB one file at a time, then upload to the S Drive folder **Scan 2**.
-- End-of-day (EOD) reconciliation paperwork is the exception: upload each EOD scan individually to its own allocated S Drive folder — never into Scan 2.
+- End-of-day (EOD) reconciliation paperwork is the exception: upload each EOD scan individually to its own allocated S Drive folder, never into Scan 2.
 
 ## 10. Infinity Pathology Collection (eDoctors)
 

@@ -1,31 +1,31 @@
 ## Two Brands, One Clinic
 
-We operate under **two brands** from the same Upper Mt Gravatt clinic. Patients — especially new ones calling or messaging online — often don't know the difference. Get this right first, before quoting anything.
+We operate under **two brands** from the same Upper Mt Gravatt clinic. Patients, especially new ones calling or messaging online, often don't know the difference. Get this right first, before quoting anything.
 
 | | 🩺 ISO Clinic | 💉 Dr Tina Fang |
 |---|---|---|
-| **What it is** | **Medical.** Skin cancer checks, biopsies, excisions, and skin-cancer-related laser/light therapy. | **Cosmetic.** Aesthetic treatments only — **no skin cancer checks or treatment.** |
+| **What it is** | **Medical.** Skin cancer checks, biopsies, excisions, and skin-cancer-related laser/light therapy. | **Cosmetic.** Aesthetic treatments only. **No skin cancer checks or treatment.** |
 | **Who treats** | Dr Tina Fang & Dr Jack Fu (GPs), plus Dermal Clinicians / Registered Nurses | Dr Tina Fang personally for medical aesthetics; Dermal Clinicians, Registered Nurses, Laser Technicians & Beauty Therapists for everything else |
 | **Book online** | bookings.isoclinic.com.au | bookings.drtinafang.com |
 | **Referral needed** | No | No |
 
-> **The one-line test:** if a patient mentions a mole, a spot, a skin check, a biopsy or "is this cancer?" — that's **ISO Clinic**. If they mention Botox, filler, needling, laser rejuvenation, HIFU, skin boosters, hair restoration, or a wellness/glow IV drip — that's **Dr Tina Fang**. IV wellness drips and some laser/light treatments are offered under **both** brands, at the same price and by the same type of clinician either way.
+> **The one-line test:** if a patient mentions a mole, a spot, a skin check, a biopsy or "is this cancer?", that's **ISO Clinic**. If they mention Botox, filler, needling, laser rejuvenation, HIFU, skin boosters, hair restoration, or a wellness/glow IV drip, that's **Dr Tina Fang**. IV wellness drips and some laser/light treatments are offered under **both** brands, at the same price and by the same type of clinician either way.
 
 ## Appointment Length Cheat Sheet
 
 | Provider | Standard length | Numbing cream needed? |
 |---|---|---|
 | **Dr Tina Fang** (medical aesthetics, hair restoration, minor procedures) | 30 minutes | Ask the patient to **arrive 30 minutes before** their appointment time to apply and let it take effect. |
-| **Dr Tina Fang / Dr Jack Fu** — ISO Clinic GP items (skin checks, biopsies, excisions, mole removal) | 15–45 minutes, see tables below | N/A |
-| **Dermal Clinician / Registered Nurse** (either brand) | 1 hour | No separate arrival time needed — numbing cream is applied within the 1-hour slot. |
+| **Dr Tina Fang / Dr Jack Fu**, ISO Clinic GP items (skin checks, biopsies, excisions, mole removal) | 15–45 minutes, see tables below | N/A |
+| **Dermal Clinician / Registered Nurse** (either brand) | 1 hour | No separate arrival time needed; numbing cream is applied within the 1-hour slot. |
 | **LED Light Therapy** (reception-administered) | 30 minutes | N/A |
-| **Photodynamic Therapy (PDT)** | 15-minute booking slot; treatment itself takes ~3 hours. Tue, Thu & Fri mornings only — book under "Photodynamic Therapy," not under a doctor's name. | N/A |
+| **Photodynamic Therapy (PDT)** | 15-minute booking slot; treatment itself takes ~3 hours. Tue, Thu & Fri mornings only; book under "Photodynamic Therapy," not under a doctor's name. | N/A |
 
 ---
 
-## 🩺 ISO Clinic — Medical / Skin Cancer
+## 🩺 ISO Clinic: Medical / Skin Cancer
 
-**How to book:** bookings.isoclinic.com.au, or by phone. No GP referral needed — patients can book directly.
+**How to book:** bookings.isoclinic.com.au, or by phone. No GP referral needed; patients can book directly.
 
 ### Skin Cancer Checks & Biopsies
 
@@ -40,9 +40,9 @@ We operate under **two brands** from the same Upper Mt Gravatt clinic. Patients 
 
 | Treatment | What it is | Who | Duration | Price |
 |---|---|---|---|---|
-| PDT | A light-activated cream treatment for superficial skin cancers — no cutting involved. | Dr Tina Fang / Dr Jack Fu | 15-min booking slot; treatment takes ~3 hrs. Tue/Thu/Fri mornings only. | $300 x2, $700 per region |
+| PDT | A light-activated cream treatment for superficial skin cancers; no cutting involved. | Dr Tina Fang / Dr Jack Fu | 15-min booking slot; treatment takes ~3 hrs. Tue/Thu/Fri mornings only. | $300 x2, $700 per region |
 
-**Numbing:** for treatment of early skin cancer, PDT doesn't need numbing cream — Dr Tina will infiltrate the area with local anaesthetic and spot-activate with the PR hand piece.
+**Numbing:** for treatment of early skin cancer, PDT doesn't need numbing cream. Dr Tina will infiltrate the area with local anaesthetic and spot-activate with the PR hand piece.
 
 **Regions** (each counts as 1 region):
 - Face
@@ -57,14 +57,14 @@ We operate under **two brands** from the same Upper Mt Gravatt clinic. Patients 
 | Treatment | What it is | Who | Duration | Price |
 |---|---|---|---|---|
 | Pigmentation / Vascular / Scar Laser | Targets sun spots, redness/veins, or scarring. | Practice Nurse / Dermal Clinician | 1 hr | $350 / region |
-| — Add Fraxel Resurfacing Laser | Adds a resurfacing pass for texture. | Practice Nurse / Dermal Clinician | (add-on) | +$100 |
+| Add-on: Fraxel Resurfacing Laser | Adds a resurfacing pass for texture. | Practice Nurse / Dermal Clinician | (add-on) | +$100 |
 | LED Light Therapy | Calming red/blue light, no downtime. | Reception staff, under clinical guidance | 30 min | $100 single / $400 for 5 / $500 for 10 |
 
 ### Mole Removal
 
 | Treatment | What it is | Who | Duration | Price |
 |---|---|---|---|---|
-| Cosmetic Mole Removal | Removal of a mole for cosmetic reasons (not a suspicious lesion — that's a biopsy/excision instead). | Dr Tina Fang / Dr Jack Fu | 30 min | $350 first, $100 each additional |
+| Cosmetic Mole Removal | Removal of a mole for cosmetic reasons (not a suspicious lesion; that's a biopsy/excision instead). | Dr Tina Fang / Dr Jack Fu | 30 min | $350 first, $100 each additional |
 | Intimate Area Mole Removal | Same, for moles in an intimate area. | Dr Tina Fang / Dr Jack Fu | 30 min | $550 first, $150 each additional |
 
 ### IV Wellness & Vitamin Injections
@@ -80,19 +80,19 @@ We operate under **two brands** from the same Upper Mt Gravatt clinic. Patients 
 
 ---
 
-## 💉 Dr Tina Fang — Cosmetic
+## 💉 Dr Tina Fang: Cosmetic
 
 **No skin cancer checks or treatment happen under this brand.** If a patient calling about a "Dr Tina Fang" treatment mentions a mole or a cancer concern, redirect them to ISO Clinic.
 
 **How to book:** bookings.drtinafang.com, or by phone. No GP referral needed.
 
-All prices in this section can be quoted directly to patients over the phone, email, or social media — nothing here is restricted.
+All prices in this section can be quoted directly to patients over the phone, email, or social media; nothing here is restricted.
 
 ### Consultations (with Dr Tina Fang, 30 min)
 
 | Consultation | What it's for | Price |
 |---|---|---|
-| Initial Cosmetic Consultation | General starting point for any cosmetic treatment plan. | $150 — fully redeemable against treatment |
+| Initial Cosmetic Consultation | General starting point for any cosmetic treatment plan. | $150, fully redeemable against treatment |
 | Acne Consultation | Assessment and treatment plan for acne. | $150 (Medicare rebate ~$45) |
 | Melasma Consultation | Assessment and treatment plan for melasma/pigmentation. | $150 (Medicare rebate ~$45) |
 
@@ -117,7 +117,7 @@ All prices in this section can be quoted directly to patients over the phone, em
 | Calf Slimming Treatment | From $800 |
 | Shoulder & Trapezius Slimming Treatment | From $800 |
 
-**Neurotoxin product origin reference** — internal patient-recognition guide only; country refers to manufacturing origin, not where the patient is treated:
+**Neurotoxin product origin reference**, internal patient-recognition guide only; country refers to manufacturing origin, not where the patient is treated:
 
 | Product | Price | Manufacturing origin | Manufacturer |
 |---|---|---|---|
@@ -126,7 +126,7 @@ All prices in this section can be quoted directly to patients over the phone, em
 | Relfydess | $10/unit | Sweden (Uppsala) | Galderma |
 | Daxxify | $750 per 100-unit vial (not per unit) | United States | Revance Therapeutics |
 
-**Approved filler product range** — all $525 as a Dermal Filler Treatment above, Dr Tina Fang only:
+**Approved filler product range**, all $525 as a Dermal Filler Treatment above, Dr Tina Fang only:
 
 | Product | Used for | Key ingredients |
 |---|---|---|
@@ -158,7 +158,7 @@ Injectable treatments that improve overall skin quality rather than adding volum
 
 | Treatment | Price |
 |---|---|
-| SKNBAR Hydrodermabrasion — Basic Clean | $200 |
+| SKNBAR Hydrodermabrasion, Basic Clean | $200 |
 | SKNBAR Hydrodermabrasion + Lymphatic Drainage | $350 |
 | SkinCeuticals Radiance Peel | $250 per session |
 | SkinCeuticals Clarifying Peel | $250 per session |
@@ -177,9 +177,9 @@ Injectable treatments that improve overall skin quality rather than adding volum
 | IPL Skin Rejuvenation | $250 per session |
 | Full Face Laser Treatment (pigmentation, vascular, acne/surgical scarring, melasma) | $350 per session |
 
-### HIFU Skin Tightening & Contouring — Ultraformer III (Dermal Clinician / Registered Nurse, 1 hr)
+### HIFU Skin Tightening & Contouring: Ultraformer III (Dermal Clinician / Registered Nurse, 1 hr)
 
-Ultrasound energy that lifts and tightens without surgery or downtime. Priced per shot ($1.50/shot) or by area — exact shot count is decided after an in-person assessment.
+Ultrasound energy that lifts and tightens without surgery or downtime. Priced per shot ($1.50/shot) or by area; exact shot count is decided after an in-person assessment.
 
 | Area | Shots | Price |
 |---|---|---|
@@ -200,7 +200,7 @@ Ultrasound energy that lifts and tightens without surgery or downtime. Priced pe
 
 ### IV Wellness Therapies (Registered Nurse only, 1 hr)
 
-Same menu and pricing as ISO Clinic's IV Wellness table above — offered under either brand.
+Same menu and pricing as ISO Clinic's IV Wellness table above, offered under either brand.
 
 ### Minor Cosmetic Procedures (Dr Tina Fang personally, 30 min)
 
@@ -212,7 +212,7 @@ Same menu and pricing as ISO Clinic's IV Wellness table above — offered under 
 | Cosmetic Mole Removal, each additional mole | $100 |
 | Intimate Area Mole Removal, first mole | $550 |
 | Intimate Area Mole Removal, each additional mole | $150 |
-| — Eyeshield (near eye area) | +$150 |
+| Add-on: Eyeshield (near eye area) | +$150 |
 | TCA CROSS (ice-pick acne scars) | $600 |
 | Subcision (tethered/depressed acne scars) | $800 |
 | Juvelook Tear Trough | $800 |
@@ -222,16 +222,16 @@ Same menu and pricing as ISO Clinic's IV Wellness table above — offered under 
 ## Answering Patients Online (web chat, email, social media, SMS)
 
 - **"Do you treat skin cancer / can you check a spot for me?"** → That's ISO Clinic. Offer to book a Full Skin Check ($150) or Spot Check ($100), no referral needed.
-- **"How much is [any treatment — Botox, filler, skin needling, laser, HIFU, IV drip, etc.]?"** → All prices are published — go ahead and quote directly from the tables above.
+- **"How much is [any treatment: Botox, filler, skin needling, laser, HIFU, IV drip, etc.]?"** → All prices are published, go ahead and quote directly from the tables above.
 - **"Does it hurt?"** → Discomfort is minimal for almost everything we offer, and numbing cream is available where needed. For anything more specific, offer to discuss at consultation rather than guessing.
-- **"How many sessions will I need?"** → This depends on the individual — offer a consultation for a personalised plan rather than a firm number online.
-- **"Can I get a diagnosis or treatment name without coming in?"** → No — only the treating doctor can provide this. Offer to book a consultation.
-- **"I've been to Dr Tina/Dr Jack before at another clinic (e.g. Complete Care Doctors)"** → They're new to ISO/Dr Tina Fang here and need a new patient file — don't assume they're an existing patient.
+- **"How many sessions will I need?"** → This depends on the individual; offer a consultation for a personalised plan rather than a firm number online.
+- **"Can I get a diagnosis or treatment name without coming in?"** → No, only the treating doctor can provide this. Offer to book a consultation.
+- **"I've been to Dr Tina/Dr Jack before at another clinic (e.g. Complete Care Doctors)"** → They're new to ISO/Dr Tina Fang here and need a new patient file; don't assume they're an existing patient.
 - **Post-treatment concern or complication raised online** → Ask them to email photos, and flag it to the treating clinician immediately. Don't attempt to advise on it yourself.
-- **Never write "let me check with the doctor" online, same as on the phone** — see [Module 5: Communication & Booking](/modules/communication-booking) for the full phone/online script guide.
+- **Never write "let me check with the doctor" online, same as on the phone.** See [Module 5: Communication & Booking](/modules/communication-booking) for the full phone/online script guide.
 
 ---
 
 ## GST & Medicare Rebates
 
-Cosmetic services and products generally incur GST; most medical services do not. See [Module 7: GST, Cash & Entities](/modules/gst-cash-entities) for the full application guide.
+See [Module 7: GST, Cash & Entities](/modules/gst-cash-entities) for the full GST and Medicare rebate guide.

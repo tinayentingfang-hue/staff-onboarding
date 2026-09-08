@@ -1,6 +1,6 @@
 ## 1. Storage Philosophy
 
-Looking across Room 1 and Room 2's supply lists, most everyday consumables — gauze, micropore, cotton buds, gloves, numbing cream, chlorhexidine, dressings, wipes, disposable cover drapes and bed rolls — are stocked in both rooms in near-identical quantities, alongside each room's own specialised equipment (surgical instruments in Room 1, laser consumables in Room 2). We organise storage so that these shared items always sit in the same place — that way, whichever room you're in, you always know where to look. Day-to-day items that get used up between patients, like the cover sheet and chlorhexidine gauze in the drawers, need to be restocked and placed in the identical spot in both rooms.
+Looking across Room 1 and Room 2's supply lists, most everyday consumables (gauze, micropore, cotton buds, gloves, numbing cream, chlorhexidine, dressings, wipes, disposable cover drapes and bed rolls) are stocked in both rooms in near-identical quantities, alongside each room's own specialised equipment (surgical instruments in Room 1, laser consumables in Room 2). We organise storage so that these shared items always sit in the same place, so that whichever room you're in, you always know where to look. Day-to-day items that get used up between patients, like the cover sheet and chlorhexidine gauze in the drawers, need to be restocked and placed in the identical spot in both rooms.
 
 ## 2. Bins & Keys
 
@@ -8,7 +8,7 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 
 - Cardboard boxes must be flattened before disposal.
 - No key? Push the inside handle to get in.
-- We only have one copy of the entry key — it cannot be copied. It's kept in the little trays on the reception desk.
+- We only have one copy of the entry key; it cannot be copied. It's kept in the little trays on the reception desk.
 
 ## 3. Pathology Night Box
 
@@ -21,9 +21,9 @@ Looking across Room 1 and Room 2's supply lists, most everyday consumables — g
 
 ![ISO Clinic floor plan showing Entry, Reception, Waiting, Room 1 (Theatre), the Hidden Kitchen, Recovery, Sterilisation, and Room 2 (Laser/Consult)](/images/modules/housekeeping/clinic-floor-plan.png)
 
-Use this for orientation — it shows how Reception, Waiting, Sterilisation, Room 1, Room 2, and Recovery all connect.
+Use this for orientation: it shows how Reception, Waiting, Sterilisation, Room 1, Room 2, and Recovery all connect.
 
-## 5. Room 1 — Procedure Room
+## 5. Room 1: Procedure Room
 
 **Room 1 – Procedure Room:** primarily used for routine skin checks and minor procedures.
 
@@ -46,7 +46,7 @@ Use this for orientation — it shows how Reception, Waiting, Sterilisation, Roo
 - Blanket for female patients who prefer a soft cover, rubbish bins
 - Blue disposable cover drape (for women who prefer a clean cover), bed rolls
 
-## 6. Room 2 — Laser Room
+## 6. Room 2: Laser Room
 
 **Room 2 – Laser Room:** designated for laser treatments and related services.
 
@@ -76,11 +76,11 @@ Use this for orientation — it shows how Reception, Waiting, Sterilisation, Roo
 
 - Trays (to email/scan), business cards, laminator
 - Things to refill: vanity, paper cups, gifts for patients, pathology bags, rubbish bag and room spray, bags for purchases/wrapping
-- **Top drawer:** consent for photos, prescription paper, confidential papers (not to be used anywhere else — shred and give to Tina when full)
+- **Top drawer:** consent for photos, prescription paper, confidential papers (not to be used anywhere else; shred and give to Tina when full)
 
 **Printer management**
 - Tray 1: blank paper. Tray 2: pathology paper.
-- Check both trays at end of day. Ideal fill level: 80% (don't fill to 100% — causes jams). Refill if trays are below 40%.
+- Check both trays at end of day. Ideal fill level: 80% (don't fill to 100%, as this causes jams). Refill if trays are below 40%.
 
 **Prescription paper handling** (when the doctor needs a paper script and no eScript is available)
 1. Place prescription paper into the printer pull-out tray.
@@ -103,7 +103,7 @@ Use this for orientation — it shows how Reception, Waiting, Sterilisation, Roo
 - Jars, skin markers, stitch cutters, corneal shield, disposable instruments
 
 **Recovery Room / Staff Room**
-- Doubles as the staff room when it isn't being used for patient recovery — staff can have lunch here. See [Module 2: Clinic Policies](/modules/clinic-policies) for staff room rules.
+- Doubles as the staff room when it isn't being used for patient recovery; staff can have lunch here. See [Module 2: Clinic Policies](/modules/clinic-policies) for staff room rules.
 - Paper towels, bed rolls
 
 ## 9. Clinical Bed Setup & Safety
@@ -127,15 +127,15 @@ Use this for orientation — it shows how Reception, Waiting, Sterilisation, Roo
 
 **During busy days**
 1. Clean up rooms between patients.
-2. Undress the patient for a full skin check in Room 1 — offer a blanket/drape for female patients only. Dr Jack positions patients face down; Dr Tina positions patients face up.
+2. Undress the patient for a full skin check in Room 1, offering a blanket/drape for female patients only. Dr Jack positions patients face down; Dr Tina positions patients face up.
 3. Help doctors clean up and get the next patient ready.
 
 ## 11. Cryotherapy Equipment Handling (Liquid Nitrogen)
 
 - **Filling up:** wear gloves and eye protection.
-- **Emptying out:** pour any leftover liquid back into the tank — be careful of the fragile stick.
+- **Emptying out:** pour any leftover liquid back into the tank; be careful of the fragile stick.
 - Use 1–2 scoops.
-- **Ordering more:** when liquid nitrogen is about to run out, contact Coregas Customer Service — 1800 807 203 or customer.services@coregas.com. Quote our account: ISO Skin Cancer & Laser Clinic [10078839].
+- **Ordering more:** when liquid nitrogen is about to run out, contact Coregas Customer Service on 1800 807 203 or customer.services@coregas.com. Quote our account: ISO Skin Cancer & Laser Clinic [10078839].
 
 ## 12. Everyday Cleaning Tasks
 
@@ -158,24 +158,24 @@ Allocate at least 30 minutes each day for these essential duties.
 
 Each day also has a deep-cleaning task assigned according to the day of the week, included in the daily task list.
 
-## 13. Medical & Clinical Supplies — Ordering
+## 13. Ordering Medical & Clinical Supplies
 
 **Compounding & pharmacy suppliers**
 - East Coast Compounding (numbing cream, ALA/PDT cream): (07) 3822 6444, info@eastcoastcompounding.com.au
-- TerryWhite Chemmart New Farm — Pharmacist Andy Shih, 0422 709 111 (steroid cream, Chlorsig antibacterial cream)
-- IWG Compounding — Elena Zhang, 07 3707 3210, compounding.qld@iwg.au (Metformin topical)
+- TerryWhite Chemmart New Farm, Pharmacist Andy Shih, 0422 709 111 (steroid cream, Chlorsig antibacterial cream)
+- IWG Compounding, Elena Zhang, 07 3707 3210, compounding.qld@iwg.au (Metformin topical)
 
 **Skincare range (Alastin, SkinCeuticals, Synergie)**
 - Ordered by Dr Tina Fang only. Complete the Synergie/SkinCeuticals order excel file and email it to her so she can place the order.
 
 **Clinical supplies (AMA) & Officeworks**
-- Ordered monthly online — message Dr Tina Fang before finalising either order.
+- Ordered monthly online; message Dr Tina Fang before finalising either order.
 
 **Histology supplies**
 - Orders and delivery of histology supplies from Infinity Pathology can be placed online or by calling their mainline.
 
 **Amazon items (baby wipes, cotton buds, hairnets)**
-- Order via Amazon and keep the receipt — Dr Tina Fang will reimburse you immediately once you show it to her.
+- Order via Amazon and keep the receipt: Dr Tina Fang will reimburse you immediately once you show it to her.
 
 **Surgical masks**
 - Purchase from the ground floor pharmacy. Either take cash from the cash box and log it (keep the invoice), or pay yourself and Dr Tina Fang will reimburse you against the invoice.

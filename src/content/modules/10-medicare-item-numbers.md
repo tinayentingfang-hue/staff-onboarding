@@ -1,6 +1,6 @@
-> Reference tables for MBS item numbers used in skin excisions. Rebates checked against MBS Online on 6 September 2026 — always double-check the gap amount before finalising a bill, and if in doubt, confirm with Tina.
+> Reference tables for MBS item numbers used in skin excisions. Rebates checked against MBS Online on 6 September 2026, so always double-check the gap amount before finalising a bill, and if in doubt, confirm with Tina.
 
-## Skin Excisions — Area 1
+## Skin Excisions: Area 1
 
 ![Area 1 diagram: nose, eyelid, lip, ear and their contiguous areas on the face, the digit (finger), and the genitals](/images/modules/medicare-item-numbers/mbs-area-1-diagram.png)
 
@@ -14,7 +14,7 @@
 | To rule out MM <6mm | 31377 | $111.60 | $350.00 | $461.60 |
 | To rule out MM ≥6mm | 31378 | $170.95 | $450.00 | $620.95 |
 
-## Skin Excisions — Area 2
+## Skin Excisions: Area 2
 
 ![Area 2 diagram: face, scalp and neck, the nipple-areola complex, and the knee and forearm](/images/modules/medicare-item-numbers/mbs-area-2-diagram.png)
 
@@ -29,7 +29,7 @@
 | To rule out MM <14mm | 31379 | $136.30 | $350.00 | $486.30 |
 | To rule out MM ≥14mm | 31380 | $170.95 | $350.00 | $520.95 |
 
-## Skin Excisions — Area 3
+## Skin Excisions: Area 3
 
 ![Area 3 diagram: the trunk, upper arms and thighs, front and back](/images/modules/medicare-item-numbers/mbs-area-3-diagram.png)
 
@@ -48,26 +48,26 @@
 | To rule out MM 15–<30mm | 31382 | $127.80 | $150.00 | $277.80 |
 | To rule out MM ≥30mm | 31383 | $146.15 | $150.00 | $296.15 |
 
-## Related Procedures — Flaps, Grafts & Other Items
+## Related Procedures: Flaps, Grafts & Other Items
 
 | Item # | Description | Rebate (85%) | Gap | Total |
 |---|---|---|---|---|
-| 45201 | Flap repair — applies to excision items above | $421.10 | $0 + excision gap | — |
-| 45202 | Flap repair — exception for existing scarring, severe skin atrophy, or sclerodermoid changes | $421.10 | $0 + excision gap | — |
-| 45451 | FTSG (full thickness skin graft) | $482.00 | $0 + excision gap | — |
+| 45201 | Flap repair, applies to excision items above | $421.10 | $0 + excision gap | N/A |
+| 45202 | Flap repair, exception for existing scarring, severe skin atrophy, or sclerodermoid changes | $421.10 | $0 + excision gap | N/A |
+| 45451 | FTSG (full thickness skin graft) | $482.00 | $0 + excision gap | N/A |
 | 45665 | Lip, eyelid, ear wedge | $331.75 | $500.00 | $831.75 |
 | 52300 | Oral mucosa flap | $289.30 | $500.00 | $789.30 |
-| 30071 | Biopsy — skin | $53.20 | $50.00 | $103.20 |
-| 30072 | Biopsy — mucous membrane | $53.20 | $100.00 | $153.20 |
+| 30071 | Biopsy, skin | $53.20 | $50.00 | $103.20 |
+| 30072 | Biopsy, mucous membrane | $53.20 | $100.00 | $153.20 |
 | 30192 | Cryotherapy AK ≥10 lesions | $40.25 | $100.00 | $140.25 |
-| 30196 | Removal by serial curettage — malignant | $128.45 | $350.00 | $478.45 |
-| 30202 | Removal by liquid nitrogen cryotherapy, repeat freeze-thaw cycles — malignant | $49.15 | $150.00 | $199.15 |
+| 30196 | Removal by serial curettage, malignant | $128.45 | $350.00 | $478.45 |
+| 30202 | Removal by liquid nitrogen cryotherapy, repeat freeze-thaw cycles, malignant | $49.15 | $150.00 | $199.15 |
 | 30219 | Incision with drainage of haematoma, furuncle, nail abscess or similar lesion | $27.85 | $350.00 | $377.85 |
 | 30062 | Incision and drainage of abscess | $91.75 | $350.00 | $441.75 |
 | 30075 | Curettage and cautery | $152.40 | $350.00 | $502.40 |
 | 30084 | Removal of foreign body, subcutaneous | $59.85 | $350.00 | $409.85 |
-| 31220 | Shave excision — single lesion | $218.20 | $150.00 | $368.20 |
-| 31225 | Shave excision — 2–4 lesions | $387.95 | $350.00 | $737.95 |
+| 31220 | Shave excision, single lesion | $218.20 | $150.00 | $368.20 |
+| 31225 | Shave excision, 2–4 lesions | $387.95 | $350.00 | $737.95 |
 | 31345 | Lipoma removal ≥50mm diameter, subcutaneous | $214.65 | $350.00 | $564.65 |
 | 30026 | Skin repair <7cm | $53.20 | $150.00 | $203.20 |
 | 30038 | Skin repair ≥7cm | $91.60 | $200.00 | $291.60 |

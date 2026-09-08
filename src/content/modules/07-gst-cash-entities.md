@@ -20,7 +20,7 @@ Correctly applying GST is a legal requirement, not a preference. The general rul
 - Bulk-billed (Medicare) items are processed by the doctor only: never add one without their direct instruction.
 - Instant Medicare rebates only work for item 23 or 36, with a physical debit card. Everything else goes through an online claim.
 - Every cash movement gets logged in the Cash In/Out log, whether the payment is finalised or left on hold.
-- Any mismatch between Tyro and Best Practice at end of day: tell Dr Tina immediately. Don't try to fix it yourself first.
+- Any mismatch between Tyro and Best Practice at end of day: see [Module 9: End of Day Reconciliation](/modules/end-of-day-reconciliation), Stage D, for how to handle it.
 
 ## 3. Taking Cash Payments
 
@@ -35,7 +35,7 @@ Worked example: an out-of-pocket payment that also carries an instant Medicare r
 | Full skin check | $104.95 | $45.05 |
 | Spot check | $54.95 | $45.05 |
 
-## 4. Entities — Which Merchant Is Which Provider
+## 4. Entities: Which Merchant Is Which Provider
 
 At ISO, three merchant entities share one Tyro terminal day to day, plus a fourth that only appears when Dr David Fang is covering as backup doctor.
 
